@@ -1,0 +1,181 @@
+﻿team,pts,gd,gf,played,final_pos,season,relegated
+FC Barcelona,87,54,90,38,1,2018-19,False
+Atlético de Madrid,76,26,55,38,2,2018-19,False
+Real Madrid,68,17,63,38,3,2018-19,False
+Valencia,61,16,51,38,4,2018-19,False
+Sevilla,59,15,62,38,5,2018-19,False
+Getafe,59,13,48,38,6,2018-19,False
+Espanyol,53,-2,48,38,7,2018-19,False
+Athletic Club,53,-4,41,38,8,2018-19,False
+Real Sociedad,50,-1,45,38,9,2018-19,False
+Real Betis,50,-8,44,38,10,2018-19,False
+Deportivo Alavés,50,-11,39,38,11,2018-19,False
+Eibar,47,-4,46,38,12,2018-19,False
+Leganés,45,-6,37,38,13,2018-19,False
+Villarreal,44,-3,49,38,14,2018-19,False
+Levante,44,-7,59,38,15,2018-19,False
+Celta de Vigo,41,-9,53,38,16,2018-19,False
+Real Valladolid,41,-19,32,38,17,2018-19,False
+Girona,37,-16,37,38,18,2018-19,False
+Huesca,33,-22,43,38,19,2018-19,False
+Rayo Vallecano,32,-29,41,38,20,2018-19,False
+Real Madrid,87,45,70,38,1,2019-20,False
+FC Barcelona,82,48,86,38,2,2019-20,False
+Atlético de Madrid,70,24,51,38,3,2019-20,False
+Sevilla,70,20,54,38,4,2019-20,False
+Villarreal,60,14,63,38,5,2019-20,False
+Real Sociedad,56,8,56,38,6,2019-20,False
+Granada,56,7,52,38,7,2019-20,False
+Getafe,54,6,43,38,8,2019-20,False
+Valencia,53,-7,46,38,9,2019-20,False
+Osasuna,52,-8,46,38,10,2019-20,False
+Athletic Club,51,3,41,38,11,2019-20,False
+Levante,49,-6,47,38,12,2019-20,False
+Real Valladolid,42,-11,32,38,13,2019-20,False
+Eibar,42,-17,39,38,14,2019-20,False
+Real Betis,41,-12,48,38,15,2019-20,False
+Deportivo Alavés,39,-25,34,38,16,2019-20,False
+Celta de Vigo,37,-12,37,38,17,2019-20,False
+Leganés,36,-21,30,38,18,2019-20,False
+Mallorca,33,-25,40,38,19,2019-20,False
+Espanyol,25,-31,27,38,20,2019-20,False
+Atlético de Madrid,86,42,67,38,1,2020-21,False
+Real Madrid,84,39,67,38,2,2020-21,False
+FC Barcelona,79,47,85,38,3,2020-21,False
+Sevilla,77,20,53,38,4,2020-21,False
+Real Sociedad,62,21,59,38,5,2020-21,False
+Real Betis,61,0,50,38,6,2020-21,False
+Villarreal,58,16,60,38,7,2020-21,False
+Celta de Vigo,53,-2,55,38,8,2020-21,False
+Athletic Club,46,4,46,38,9,2020-21,False
+Granada,46,-18,47,38,10,2020-21,False
+Osasuna,44,-11,37,38,11,2020-21,False
+Cádiz,44,-22,36,38,12,2020-21,False
+Valencia,43,-3,50,38,13,2020-21,False
+Levante,41,-11,46,38,14,2020-21,False
+Getafe,38,-15,28,38,15,2020-21,False
+Deportivo Alavés,38,-21,36,38,16,2020-21,False
+Elche,36,-21,34,38,17,2020-21,False
+Huesca,34,-19,34,38,18,2020-21,False
+Real Valladolid,31,-23,34,38,19,2020-21,False
+Eibar,30,-23,29,38,20,2020-21,False
+Real Madrid,86,49,80,38,1,2021-22,False
+FC Barcelona,73,30,68,38,2,2021-22,False
+Atlético de Madrid,71,22,65,38,3,2021-22,False
+Sevilla,70,23,53,38,4,2021-22,False
+Real Betis,65,22,62,38,5,2021-22,False
+Real Sociedad,62,3,40,38,6,2021-22,False
+Villarreal,59,26,63,38,7,2021-22,False
+Athletic Club,55,7,43,38,8,2021-22,False
+Valencia,48,-5,48,38,9,2021-22,False
+Osasuna,47,-14,37,38,10,2021-22,False
+Celta de Vigo,46,0,43,38,11,2021-22,False
+Rayo Vallecano,42,-11,39,38,12,2021-22,False
+Elche,42,-12,40,38,13,2021-22,False
+Espanyol,42,-13,40,38,14,2021-22,False
+Getafe,39,-8,33,38,15,2021-22,False
+Cádiz,39,-16,35,38,16,2021-22,False
+Mallorca,39,-27,36,38,17,2021-22,False
+Granada,38,-17,44,38,18,2021-22,False
+Levante,35,-25,51,38,19,2021-22,False
+Deportivo Alavés,31,-34,31,38,20,2021-22,False
+FC Barcelona,88,50,70,38,1,2022-23,False
+Real Madrid,78,39,75,38,2,2022-23,False
+Atlético de Madrid,77,37,70,38,3,2022-23,False
+Real Sociedad,71,16,51,38,4,2022-23,False
+Villarreal,64,19,59,38,5,2022-23,False
+Real Betis,60,5,46,38,6,2022-23,False
+Osasuna,53,-5,37,38,7,2022-23,False
+Athletic Club,51,4,47,38,8,2022-23,False
+Mallorca,50,-6,37,38,9,2022-23,False
+Girona,49,3,58,38,10,2022-23,False
+Sevilla,49,-7,47,38,11,2022-23,False
+Rayo Vallecano,49,-8,45,38,12,2022-23,False
+Celta de Vigo,43,-10,43,38,13,2022-23,False
+Valencia,42,-3,42,38,14,2022-23,False
+Getafe,42,-11,34,38,15,2022-23,False
+Cádiz,42,-23,30,38,16,2022-23,False
+Almería,41,-16,49,38,17,2022-23,False
+Real Valladolid,40,-30,33,38,18,2022-23,False
+Espanyol,37,-17,52,38,19,2022-23,False
+Elche,25,-37,30,38,20,2022-23,False
+Real Madrid,95,61,87,38,1,2023-24,False
+FC Barcelona,85,35,79,38,2,2023-24,False
+Girona,81,39,85,38,3,2023-24,False
+Atlético de Madrid,76,27,70,38,4,2023-24,False
+Athletic Club,68,24,61,38,5,2023-24,False
+Real Sociedad,60,12,51,38,6,2023-24,False
+Real Betis,57,3,48,38,7,2023-24,False
+Villarreal,53,0,65,38,8,2023-24,False
+Valencia,49,-5,40,38,9,2023-24,False
+Deportivo Alavés,46,-10,36,38,10,2023-24,False
+Osasuna,45,-11,45,38,11,2023-24,False
+Getafe,43,-12,42,38,12,2023-24,False
+Sevilla,41,-6,48,38,13,2023-24,False
+Celta de Vigo,41,-11,46,38,14,2023-24,False
+Mallorca,40,-11,33,38,15,2023-24,False
+Las Palmas,40,-14,33,38,16,2023-24,False
+Rayo Vallecano,38,-19,29,38,17,2023-24,False
+Cádiz,33,-29,26,38,18,2023-24,False
+Almería,21,-32,43,38,19,2023-24,False
+Granada,21,-41,38,38,20,2023-24,False
+FC Barcelona,88,63,102,38,1,2024-25,False
+Real Madrid,84,40,78,38,2,2024-25,False
+Atlético de Madrid,76,38,68,38,3,2024-25,False
+Athletic Club,70,25,54,38,4,2024-25,False
+Villarreal,70,20,71,38,5,2024-25,False
+Real Betis,60,7,57,38,6,2024-25,False
+Celta de Vigo,55,2,59,38,7,2024-25,False
+Osasuna,52,-4,48,38,8,2024-25,False
+Rayo Vallecano,52,-4,41,38,9,2024-25,False
+Mallorca,48,-9,35,38,10,2024-25,False
+Valencia,46,-10,44,38,11,2024-25,False
+Real Sociedad,46,-11,35,38,12,2024-25,False
+Getafe,42,-5,34,38,13,2024-25,False
+Deportivo Alavés,42,-10,38,38,14,2024-25,False
+Espanyol,42,-11,40,38,15,2024-25,False
+Sevilla,41,-13,42,38,16,2024-25,False
+Girona,41,-16,44,38,17,2024-25,False
+Leganés,40,-17,39,38,18,2024-25,False
+Las Palmas,32,-21,40,38,19,2024-25,False
+Real Valladolid,16,-64,26,38,20,2024-25,False
+FC Barcelona,94,59,95,38,1,2025-26,False
+Real Madrid,86,42,77,38,2,2025-26,False
+Villarreal,72,26,72,38,3,2025-26,False
+Atlético de Madrid,69,18,62,38,4,2025-26,False
+Real Betis,60,11,59,38,5,2025-26,False
+Celta de Vigo,54,5,53,38,6,2025-26,False
+Getafe,51,-6,32,38,7,2025-26,False
+Rayo Vallecano,50,-3,41,38,8,2025-26,False
+Valencia,49,-9,46,38,9,2025-26,False
+Real Sociedad,46,-2,59,38,10,2025-26,False
+Espanyol,46,-12,43,38,11,2025-26,False
+Athletic Club,45,-15,43,38,12,2025-26,False
+Elche,43,-8,49,38,13,2025-26,False
+Deportivo Alavés,43,-12,44,38,14,2025-26,False
+Sevilla,43,-14,46,38,15,2025-26,False
+Osasuna,42,-6,44,38,16,2025-26,False
+Mallorca,42,-10,47,38,17,2025-26,False
+Levante,42,-14,47,38,18,2025-26,False
+Girona,41,-16,39,38,19,2025-26,False
+Oviedo,29,-34,26,38,20,2025-26,False
+FC Barcelona,24,27,34,8,1,2026-27,False
+Atlético de Madrid,19,10,18,8,2,2026-27,False
+Real Betis,19,5,14,8,3,2026-27,False
+Real Madrid,18,11,19,8,4,2026-27,False
+Sevilla,13,1,10,7,5,2026-27,False
+Real Sociedad,13,-3,12,8,6,2026-27,False
+Deportivo Alavés,11,4,12,8,7,2026-27,False
+Deportivo La Coruña,10,1,12,8,8,2026-27,False
+Athletic Club,9,1,7,7,9,2026-27,False
+Rayo Vallecano,9,-5,11,8,10,2026-27,False
+Celta de Vigo,8,2,8,8,11,2026-27,False
+Villarreal,8,0,13,8,12,2026-27,False
+Espanyol,8,0,11,8,13,2026-27,False
+Getafe,8,-6,4,8,14,2026-27,False
+Racing Santander,8,-10,13,8,15,2026-27,False
+Osasuna,8,-10,8,8,16,2026-27,False
+Elche,6,-6,11,8,17,2026-27,False
+Levante,5,-4,8,6,18,2026-27,False
+Valencia,5,-9,6,8,19,2026-27,False
+Málaga,4,-9,4,8,20,2026-27,False

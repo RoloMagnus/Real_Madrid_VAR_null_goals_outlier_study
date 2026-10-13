@@ -1,0 +1,37 @@
+﻿season,scenario,rm_pos,rm_pts,rm_gd,champion,champion_pts,best_rival,best_rival_pts,lead_over_best_rival,rm_pts_change,title_changed,rm_champion
+2018-19,Actual,3,68,17,FC Barcelona,87,FC Barcelona,87,-19,0,False,False
+2018-19,A. Real Madrid only (VAR),3,69,20,FC Barcelona,87,FC Barcelona,87,-18,1,False,False
+2018-19,B. Everyone (VAR),3,69,19,FC Barcelona,87,FC Barcelona,87,-18,1,False,False
+2018-19,C. Real Madrid only (VAR + on-field),3,73,26,FC Barcelona,87,FC Barcelona,87,-14,5,False,False
+2019-20,Actual,1,87,45,Real Madrid,87,FC Barcelona,82,5,0,False,True
+2019-20,A. Real Madrid only (VAR),1,91,50,Real Madrid,91,FC Barcelona,82,9,4,False,True
+2019-20,B. Everyone (VAR),1,91,48,Real Madrid,91,FC Barcelona,82,9,4,False,True
+2019-20,C. Real Madrid only (VAR + on-field),1,91,50,Real Madrid,91,FC Barcelona,82,9,4,False,True
+2020-21,Actual,2,84,39,Atlético de Madrid,86,Atlético de Madrid,86,-2,0,False,False
+2020-21,A. Real Madrid only (VAR),1,86,44,Real Madrid,86,Atlético de Madrid,86,0,2,True,True
+2020-21,B. Everyone (VAR),1,86,43,Real Madrid,86,Atlético de Madrid,86,0,2,True,True
+2020-21,C. Real Madrid only (VAR + on-field),1,88,47,Real Madrid,88,Atlético de Madrid,86,2,4,True,True
+2021-22,Actual,1,86,49,Real Madrid,86,FC Barcelona,73,13,0,False,True
+2021-22,A. Real Madrid only (VAR),1,86,54,Real Madrid,86,FC Barcelona,73,13,0,False,True
+2021-22,B. Everyone (VAR),1,84,53,Real Madrid,84,FC Barcelona,77,7,-2,False,True
+2021-22,C. Real Madrid only (VAR + on-field),1,87,58,Real Madrid,87,FC Barcelona,73,14,1,False,True
+2022-23,Actual,2,78,39,FC Barcelona,88,FC Barcelona,88,-10,0,False,False
+2022-23,A. Real Madrid only (VAR),2,85,50,FC Barcelona,86,FC Barcelona,86,-1,7,False,False
+2022-23,B. Everyone (VAR),1,85,50,Real Madrid,85,FC Barcelona,83,2,7,True,True
+2022-23,C. Real Madrid only (VAR + on-field),1,87,55,Real Madrid,87,FC Barcelona,86,1,9,True,True
+2023-24,Actual,1,95,61,Real Madrid,95,FC Barcelona,85,10,0,False,True
+2023-24,A. Real Madrid only (VAR),1,97,64,Real Madrid,97,FC Barcelona,85,12,2,False,True
+2023-24,B. Everyone (VAR),2,87,58,FC Barcelona,88,FC Barcelona,88,-1,-8,True,False
+2023-24,C. Real Madrid only (VAR + on-field),1,99,67,Real Madrid,99,FC Barcelona,85,14,4,False,True
+2024-25,Actual,2,84,40,FC Barcelona,88,FC Barcelona,88,-4,0,False,False
+2024-25,A. Real Madrid only (VAR),2,86,49,FC Barcelona,88,FC Barcelona,88,-2,2,False,False
+2024-25,B. Everyone (VAR),2,86,48,FC Barcelona,87,FC Barcelona,87,-1,2,False,False
+2024-25,C. Real Madrid only (VAR + on-field),1,90,53,Real Madrid,90,FC Barcelona,85,5,6,True,True
+2025-26,Actual,2,86,42,FC Barcelona,94,FC Barcelona,94,-8,0,False,False
+2025-26,A. Real Madrid only (VAR),2,88,48,FC Barcelona,94,FC Barcelona,94,-6,2,False,False
+2025-26,B. Everyone (VAR),2,88,47,FC Barcelona,97,FC Barcelona,97,-9,2,False,False
+2025-26,C. Real Madrid only (VAR + on-field),2,88,51,FC Barcelona,94,FC Barcelona,94,-6,2,False,False
+2026-27,Actual,4,18,11,FC Barcelona,24,FC Barcelona,24,-6,0,False,False
+2026-27,A. Real Madrid only (VAR),3,19,14,FC Barcelona,24,FC Barcelona,24,-5,1,False,False
+2026-27,B. Everyone (VAR),3,19,14,FC Barcelona,24,FC Barcelona,24,-5,1,False,False
+2026-27,C. Real Madrid only (VAR + on-field),3,19,15,FC Barcelona,24,FC Barcelona,24,-5,1,False,False

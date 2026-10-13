@@ -1,0 +1,6 @@
+﻿season,champion,gap_pts,rm_nullified_goals,max_points_recoverable,min_wrong_calls_to_level,min_wrong_calls_to_lead,rm_wins_head_to_head_tiebreak,h2h_points_rm_vs_champion,rm_champion_if_all_goals_counted,expected_wrong_calls_at_98pct_accuracy,at_95pct
+2018-19,FC Barcelona,19,3,1,not reachable,not reachable,False,0-6,False,0.05,0.15
+2020-21,Atlético de Madrid,2,5,2,1,not reachable,True,4-1,True,0.09,0.25
+2022-23,FC Barcelona,10,11,9,not reachable,not reachable,True,3-3,False,0.19,0.55
+2024-25,FC Barcelona,4,9,2,not reachable,not reachable,False,0-6,False,0.15,0.45
+2025-26,FC Barcelona,8,6,2,not reachable,not reachable,False,3-3,False,0.1,0.3

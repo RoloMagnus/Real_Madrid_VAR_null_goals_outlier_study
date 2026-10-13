@@ -1,0 +1,45 @@
+﻿fs_id,date,season,rival,venue,nullified,gf,ga,reasons,outcome,pts_actual,pts_if_counted,points_lost,result_change
+IPGOddyR,2018-09-26 22:00:00,2018-19,Sevilla,Away,1,0,3,offside,LOSS,0,0,0,No change
+QVefI334,2018-10-20 13:00:00,2018-19,Levante,Home,1,1,2,offside,LOSS,0,1,1,Loss -> Draw
+80MYuyWi,2019-03-16 16:15:00,2018-19,Celta de Vigo,Home,1,2,0,offside,WIN,3,3,0,No change
+t4TOWgpi,2019-09-25 21:00:00,2019-20,Osasuna,Home,1,2,0,offside,WIN,3,3,0,No change
+CnxfUfPo,2019-11-02 21:00:00,2019-20,Real Betis,Home,1,0,0,offside,DRAW,1,3,2,Draw -> Win
+Eo7gTTdr,2020-01-26 21:00:00,2019-20,Real Valladolid,Away,1,1,0,offside,WIN,3,3,0,No change
+OI5uunDi,2020-02-16 21:00:00,2019-20,Celta de Vigo,Home,1,2,2,offside,DRAW,1,3,2,Draw -> Win
+fcvNHRY9,2020-07-16 21:00:00,2019-20,Villarreal,Home,1,2,1,handball,WIN,3,3,0,No change
+ATCUP12k,2020-10-04 16:00:00,2020-21,Levante,Away,1,2,0,video review,WIN,3,3,0,No change
+Isnv0Ixj,2021-02-14 16:15:00,2020-21,Valencia,Home,1,2,0,offside,WIN,3,3,0,No change
+bBW0cJHp,2021-04-03 16:15:00,2020-21,Eibar,Home,1,2,0,offside,WIN,3,3,0,No change
+6yv6rTUT,2021-05-09 21:00:00,2020-21,Sevilla,Home,1,2,2,offside,DRAW,1,3,2,Draw -> Win
+votU3zc7,2021-05-22 18:00:00,2020-21,Villarreal,Home,1,2,1,offside,WIN,3,3,0,No change
+rFfxMJY7,2021-09-22 22:00:00,2021-22,Mallorca,Home,1,6,1,Foul,WIN,3,3,0,No change
+KWNcceD4,2022-02-26 18:30:00,2021-22,Rayo Vallecano,Away,1,1,0,offside,WIN,3,3,0,No change
+fTdRfN83,2022-03-05 21:00:00,2021-22,Real Sociedad,Home,1,4,1,offside,WIN,3,3,0,No change
+C603Jfmj,2022-04-17 21:00:00,2021-22,Sevilla,Away,1,3,2,handball,WIN,3,3,0,No change
+QqsnaW0r,2022-04-30 16:15:00,2021-22,Espanyol,Home,1,4,0,offside,WIN,3,3,0,No change
+IkYhCKv7,2022-10-02 21:00:00,2022-23,Osasuna,Home,1,1,1,offside,DRAW,1,3,2,Draw -> Win
+MN0FTL9s,2022-10-08 21:00:00,2022-23,Getafe,Away,1,1,0,offside,WIN,3,3,0,No change
+GKGSgINn,2022-10-19 21:00:00,2022-23,Elche,Away,3,3,0,offside,WIN,3,3,0,No change
+jwRqd2k2,2022-10-30 16:15:00,2022-23,Girona,Home,1,1,1,video review,DRAW,1,3,2,Draw -> Win
+YwYWzJZc,2023-02-02 21:00:00,2022-23,Valencia,Home,1,2,0,Foul,WIN,3,3,0,No change
+2gKWIvF5,2023-02-18 21:00:00,2022-23,Osasuna,Away,1,2,0,offside,WIN,3,3,0,No change
+bgDwYAK9,2023-03-05 21:00:00,2022-23,Real Betis,Away,1,0,0,handball,DRAW,1,3,2,Draw -> Win
+61cerGaE,2023-03-19 21:00:00,2022-23,FC Barcelona,Away,1,1,2,offside,LOSS,0,1,1,Loss -> Draw
+fRiEliMm,2023-04-02 16:15:00,2022-23,Real Valladolid,Home,1,6,0,handball,WIN,3,3,0,No change
+2a3iv2kj,2023-08-19 19:30:00,2023-24,Almería,Away,1,3,1,Foul,WIN,3,3,0,No change
+EgP7mLpf,2023-10-21 18:30:00,2023-24,Sevilla,Away,1,1,1,offside,DRAW,1,3,2,Draw -> Win
+QRHRjRVc,2024-02-25 21:00:00,2023-24,Sevilla,Home,1,1,0,Foul,WIN,3,3,0,No change
+4zlpJdvq,2024-10-26 21:00:00,2024-25,FC Barcelona,Home,1,0,4,offside,LOSS,0,0,0,No change
+8Ohqd6Bs,2024-12-04 21:00:00,2024-25,Athletic Club,Away,1,1,2,offside,LOSS,0,1,1,Loss -> Draw
+zHmSVfun,2025-01-03 21:00:00,2024-25,Valencia,Away,1,2,1,offside,WIN,3,3,0,No change
+CE0hJiFM,2025-01-19 16:15:00,2024-25,Las Palmas,Home,3,4,1,offside,WIN,3,3,0,No change
+IBeZ9vBb,2025-04-05 16:15:00,2024-25,Valencia,Home,1,1,2,offside,LOSS,0,1,1,Loss -> Draw
+jcVWEQhe,2025-04-13 16:15:00,2024-25,Deportivo Alavés,Away,1,1,0,Foul,WIN,3,3,0,No change
+Qmk8moaK,2025-04-20 21:00:00,2024-25,Athletic Club,Home,1,1,0,offside,WIN,3,3,0,No change
+Y7c6bjQa,2025-08-30 21:30:00,2025-26,Mallorca,Home,3,2,1,"handball, offside",WIN,3,3,0,No change
+KbCNN6gB,2025-09-13 16:15:00,2025-26,Real Sociedad,Away,1,2,1,offside,WIN,3,3,0,No change
+OlnkZ9GU,2025-10-26 16:15:00,2025-26,FC Barcelona,Home,1,2,1,offside,WIN,3,3,0,No change
+KYY3zEDc,2025-11-30 21:00:00,2025-26,Girona,Away,1,1,1,handball,DRAW,1,3,2,Draw -> Win
+EXneuDoD,2026-08-26 21:00:00,2026-27,Real Sociedad,Home,1,4,1,offside,WIN,3,3,0,No change
+Au6uQzs2,2026-09-04 21:00:00,2026-27,Real Betis,Away,1,0,1,offside,LOSS,0,1,1,Loss -> Draw
+2mAGw9Ti,2026-10-10 21:00:00,2026-27,Villarreal,Home,1,1,0,Foul,WIN,3,3,0,No change

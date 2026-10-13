@@ -1,0 +1,217 @@
+﻿pos,team,P,pts,gf,ga,gd,season,scenario
+1,FC Barcelona,38,87,90,36,54,2018-19,Actual
+2,Atlético de Madrid,38,76,55,29,26,2018-19,Actual
+3,Real Madrid,38,68,63,46,17,2018-19,Actual
+4,Valencia,38,61,51,35,16,2018-19,Actual
+5,Getafe,38,59,48,35,13,2018-19,Actual
+6,Sevilla,38,59,62,47,15,2018-19,Actual
+1,FC Barcelona,38,87,90,36,54,2018-19,A. Real Madrid only (VAR)
+2,Atlético de Madrid,38,76,55,29,26,2018-19,A. Real Madrid only (VAR)
+3,Real Madrid,38,69,66,46,20,2018-19,A. Real Madrid only (VAR)
+4,Valencia,38,61,51,35,16,2018-19,A. Real Madrid only (VAR)
+5,Getafe,38,59,48,35,13,2018-19,A. Real Madrid only (VAR)
+6,Sevilla,38,59,62,48,14,2018-19,A. Real Madrid only (VAR)
+1,FC Barcelona,38,87,90,37,53,2018-19,B. Everyone (VAR)
+2,Atlético de Madrid,38,78,57,30,27,2018-19,B. Everyone (VAR)
+3,Real Madrid,38,69,66,47,19,2018-19,B. Everyone (VAR)
+4,Valencia,38,64,53,35,18,2018-19,B. Everyone (VAR)
+5,Getafe,38,59,49,37,12,2018-19,B. Everyone (VAR)
+6,Sevilla,38,59,66,49,17,2018-19,B. Everyone (VAR)
+1,FC Barcelona,38,87,90,36,54,2018-19,C. Real Madrid only (VAR + on-field)
+2,Atlético de Madrid,38,76,55,29,26,2018-19,C. Real Madrid only (VAR + on-field)
+3,Real Madrid,38,73,72,46,26,2018-19,C. Real Madrid only (VAR + on-field)
+4,Valencia,38,61,51,35,16,2018-19,C. Real Madrid only (VAR + on-field)
+5,Getafe,38,59,48,35,13,2018-19,C. Real Madrid only (VAR + on-field)
+6,Sevilla,38,59,62,48,14,2018-19,C. Real Madrid only (VAR + on-field)
+1,Real Madrid,38,87,70,25,45,2019-20,Actual
+2,FC Barcelona,38,82,86,38,48,2019-20,Actual
+3,Atlético de Madrid,38,70,51,27,24,2019-20,Actual
+4,Sevilla,38,70,54,34,20,2019-20,Actual
+5,Villarreal,38,60,63,49,14,2019-20,Actual
+6,Real Sociedad,38,56,56,48,8,2019-20,Actual
+1,Real Madrid,38,91,75,25,50,2019-20,A. Real Madrid only (VAR)
+2,FC Barcelona,38,82,86,38,48,2019-20,A. Real Madrid only (VAR)
+3,Atlético de Madrid,38,70,51,27,24,2019-20,A. Real Madrid only (VAR)
+4,Sevilla,38,70,54,34,20,2019-20,A. Real Madrid only (VAR)
+5,Villarreal,38,60,63,50,13,2019-20,A. Real Madrid only (VAR)
+6,Real Sociedad,38,56,56,48,8,2019-20,A. Real Madrid only (VAR)
+1,Real Madrid,38,91,75,27,48,2019-20,B. Everyone (VAR)
+2,FC Barcelona,38,82,90,38,52,2019-20,B. Everyone (VAR)
+3,Sevilla,38,72,55,34,21,2019-20,B. Everyone (VAR)
+4,Atlético de Madrid,38,70,53,27,26,2019-20,B. Everyone (VAR)
+5,Villarreal,38,60,63,51,12,2019-20,B. Everyone (VAR)
+6,Getafe,38,56,47,40,7,2019-20,B. Everyone (VAR)
+1,Real Madrid,38,91,75,25,50,2019-20,C. Real Madrid only (VAR + on-field)
+2,FC Barcelona,38,82,86,38,48,2019-20,C. Real Madrid only (VAR + on-field)
+3,Atlético de Madrid,38,70,51,27,24,2019-20,C. Real Madrid only (VAR + on-field)
+4,Sevilla,38,70,54,34,20,2019-20,C. Real Madrid only (VAR + on-field)
+5,Villarreal,38,60,63,50,13,2019-20,C. Real Madrid only (VAR + on-field)
+6,Real Sociedad,38,56,56,48,8,2019-20,C. Real Madrid only (VAR + on-field)
+1,Atlético de Madrid,38,86,67,25,42,2020-21,Actual
+2,Real Madrid,38,84,67,28,39,2020-21,Actual
+3,FC Barcelona,38,79,85,38,47,2020-21,Actual
+4,Sevilla,38,77,53,33,20,2020-21,Actual
+5,Real Sociedad,38,62,59,38,21,2020-21,Actual
+6,Real Betis,38,61,50,50,0,2020-21,Actual
+1,Real Madrid,38,86,72,28,44,2020-21,A. Real Madrid only (VAR)
+2,Atlético de Madrid,38,86,67,25,42,2020-21,A. Real Madrid only (VAR)
+3,FC Barcelona,38,79,85,38,47,2020-21,A. Real Madrid only (VAR)
+4,Sevilla,38,76,53,34,19,2020-21,A. Real Madrid only (VAR)
+5,Real Sociedad,38,62,59,38,21,2020-21,A. Real Madrid only (VAR)
+6,Real Betis,38,61,50,50,0,2020-21,A. Real Madrid only (VAR)
+1,Real Madrid,38,86,72,29,43,2020-21,B. Everyone (VAR)
+2,Atlético de Madrid,38,86,69,25,44,2020-21,B. Everyone (VAR)
+3,FC Barcelona,38,81,89,38,51,2020-21,B. Everyone (VAR)
+4,Sevilla,38,74,58,35,23,2020-21,B. Everyone (VAR)
+5,Real Sociedad,38,65,63,39,24,2020-21,B. Everyone (VAR)
+6,Real Betis,38,60,50,53,-3,2020-21,B. Everyone (VAR)
+1,Real Madrid,38,88,75,28,47,2020-21,C. Real Madrid only (VAR + on-field)
+2,Atlético de Madrid,38,86,67,25,42,2020-21,C. Real Madrid only (VAR + on-field)
+3,FC Barcelona,38,79,85,38,47,2020-21,C. Real Madrid only (VAR + on-field)
+4,Sevilla,38,76,53,34,19,2020-21,C. Real Madrid only (VAR + on-field)
+5,Real Sociedad,38,62,59,38,21,2020-21,C. Real Madrid only (VAR + on-field)
+6,Real Betis,38,61,50,50,0,2020-21,C. Real Madrid only (VAR + on-field)
+1,Real Madrid,38,86,80,31,49,2021-22,Actual
+2,FC Barcelona,38,73,68,38,30,2021-22,Actual
+3,Atlético de Madrid,38,71,65,43,22,2021-22,Actual
+4,Sevilla,38,70,53,30,23,2021-22,Actual
+5,Real Betis,38,65,62,40,22,2021-22,Actual
+6,Real Sociedad,38,62,40,37,3,2021-22,Actual
+1,Real Madrid,38,86,85,31,54,2021-22,A. Real Madrid only (VAR)
+2,FC Barcelona,38,73,68,38,30,2021-22,A. Real Madrid only (VAR)
+3,Atlético de Madrid,38,71,65,43,22,2021-22,A. Real Madrid only (VAR)
+4,Sevilla,38,70,53,31,22,2021-22,A. Real Madrid only (VAR)
+5,Real Betis,38,65,62,40,22,2021-22,A. Real Madrid only (VAR)
+6,Real Sociedad,38,62,40,38,2,2021-22,A. Real Madrid only (VAR)
+1,Real Madrid,38,84,85,32,53,2021-22,B. Everyone (VAR)
+2,FC Barcelona,38,77,71,39,32,2021-22,B. Everyone (VAR)
+3,Sevilla,38,73,57,34,23,2021-22,B. Everyone (VAR)
+4,Atlético de Madrid,38,70,67,44,23,2021-22,B. Everyone (VAR)
+5,Real Betis,38,65,63,41,22,2021-22,B. Everyone (VAR)
+6,Villarreal,38,62,66,39,27,2021-22,B. Everyone (VAR)
+1,Real Madrid,38,87,89,31,58,2021-22,C. Real Madrid only (VAR + on-field)
+2,FC Barcelona,38,73,68,38,30,2021-22,C. Real Madrid only (VAR + on-field)
+3,Atlético de Madrid,38,71,65,43,22,2021-22,C. Real Madrid only (VAR + on-field)
+4,Sevilla,38,70,53,31,22,2021-22,C. Real Madrid only (VAR + on-field)
+5,Real Betis,38,65,62,40,22,2021-22,C. Real Madrid only (VAR + on-field)
+6,Real Sociedad,38,62,40,38,2,2021-22,C. Real Madrid only (VAR + on-field)
+1,FC Barcelona,38,88,70,20,50,2022-23,Actual
+2,Real Madrid,38,78,75,36,39,2022-23,Actual
+3,Atlético de Madrid,38,77,70,33,37,2022-23,Actual
+4,Real Sociedad,38,71,51,35,16,2022-23,Actual
+5,Villarreal,38,64,59,40,19,2022-23,Actual
+6,Real Betis,38,60,46,41,5,2022-23,Actual
+1,FC Barcelona,38,86,70,21,49,2022-23,A. Real Madrid only (VAR)
+2,Real Madrid,38,85,86,36,50,2022-23,A. Real Madrid only (VAR)
+3,Atlético de Madrid,38,77,70,33,37,2022-23,A. Real Madrid only (VAR)
+4,Real Sociedad,38,71,51,35,16,2022-23,A. Real Madrid only (VAR)
+5,Villarreal,38,64,59,40,19,2022-23,A. Real Madrid only (VAR)
+6,Real Betis,38,59,46,42,4,2022-23,A. Real Madrid only (VAR)
+1,Real Madrid,38,85,86,36,50,2022-23,B. Everyone (VAR)
+2,FC Barcelona,38,83,72,23,49,2022-23,B. Everyone (VAR)
+3,Atlético de Madrid,38,76,73,36,37,2022-23,B. Everyone (VAR)
+4,Real Sociedad,38,69,54,38,16,2022-23,B. Everyone (VAR)
+5,Villarreal,38,66,63,40,23,2022-23,B. Everyone (VAR)
+6,Real Betis,38,58,47,44,3,2022-23,B. Everyone (VAR)
+1,Real Madrid,38,87,91,36,55,2022-23,C. Real Madrid only (VAR + on-field)
+2,FC Barcelona,38,86,70,21,49,2022-23,C. Real Madrid only (VAR + on-field)
+3,Atlético de Madrid,38,77,70,33,37,2022-23,C. Real Madrid only (VAR + on-field)
+4,Real Sociedad,38,71,51,35,16,2022-23,C. Real Madrid only (VAR + on-field)
+5,Villarreal,38,64,59,40,19,2022-23,C. Real Madrid only (VAR + on-field)
+6,Real Betis,38,59,46,42,4,2022-23,C. Real Madrid only (VAR + on-field)
+1,Real Madrid,38,95,87,26,61,2023-24,Actual
+2,FC Barcelona,38,85,79,44,35,2023-24,Actual
+3,Girona,38,81,85,46,39,2023-24,Actual
+4,Atlético de Madrid,38,76,70,43,27,2023-24,Actual
+5,Athletic Club,38,68,61,37,24,2023-24,Actual
+6,Real Sociedad,38,60,51,39,12,2023-24,Actual
+1,Real Madrid,38,97,90,26,64,2023-24,A. Real Madrid only (VAR)
+2,FC Barcelona,38,85,79,44,35,2023-24,A. Real Madrid only (VAR)
+3,Girona,38,81,85,46,39,2023-24,A. Real Madrid only (VAR)
+4,Atlético de Madrid,38,76,70,43,27,2023-24,A. Real Madrid only (VAR)
+5,Athletic Club,38,68,61,37,24,2023-24,A. Real Madrid only (VAR)
+6,Real Sociedad,38,60,51,39,12,2023-24,A. Real Madrid only (VAR)
+1,FC Barcelona,38,88,83,45,38,2023-24,B. Everyone (VAR)
+2,Real Madrid,38,87,90,32,58,2023-24,B. Everyone (VAR)
+3,Atlético de Madrid,38,79,75,43,32,2023-24,B. Everyone (VAR)
+4,Girona,38,79,88,48,40,2023-24,B. Everyone (VAR)
+5,Athletic Club,38,68,63,38,25,2023-24,B. Everyone (VAR)
+6,Real Sociedad,38,60,55,41,14,2023-24,B. Everyone (VAR)
+1,Real Madrid,38,99,93,26,67,2023-24,C. Real Madrid only (VAR + on-field)
+2,FC Barcelona,38,85,79,44,35,2023-24,C. Real Madrid only (VAR + on-field)
+3,Girona,38,81,85,46,39,2023-24,C. Real Madrid only (VAR + on-field)
+4,Atlético de Madrid,38,76,70,43,27,2023-24,C. Real Madrid only (VAR + on-field)
+5,Athletic Club,38,68,61,37,24,2023-24,C. Real Madrid only (VAR + on-field)
+6,Real Sociedad,38,60,51,39,12,2023-24,C. Real Madrid only (VAR + on-field)
+1,FC Barcelona,38,88,102,39,63,2024-25,Actual
+2,Real Madrid,38,84,78,38,40,2024-25,Actual
+3,Atlético de Madrid,38,76,68,30,38,2024-25,Actual
+4,Athletic Club,38,70,54,29,25,2024-25,Actual
+5,Villarreal,38,70,71,51,20,2024-25,Actual
+6,Real Betis,38,60,57,50,7,2024-25,Actual
+1,FC Barcelona,38,88,102,40,62,2024-25,A. Real Madrid only (VAR)
+2,Real Madrid,38,86,87,38,49,2024-25,A. Real Madrid only (VAR)
+3,Atlético de Madrid,38,76,68,30,38,2024-25,A. Real Madrid only (VAR)
+4,Villarreal,38,70,71,51,20,2024-25,A. Real Madrid only (VAR)
+5,Athletic Club,38,68,54,31,23,2024-25,A. Real Madrid only (VAR)
+6,Real Betis,38,60,57,50,7,2024-25,A. Real Madrid only (VAR)
+1,FC Barcelona,38,87,105,46,59,2024-25,B. Everyone (VAR)
+2,Real Madrid,38,86,87,39,48,2024-25,B. Everyone (VAR)
+3,Atlético de Madrid,38,76,74,31,43,2024-25,B. Everyone (VAR)
+4,Villarreal,38,75,82,53,29,2024-25,B. Everyone (VAR)
+5,Athletic Club,38,70,56,36,20,2024-25,B. Everyone (VAR)
+6,Real Betis,38,60,57,51,6,2024-25,B. Everyone (VAR)
+1,Real Madrid,38,90,91,38,53,2024-25,C. Real Madrid only (VAR + on-field)
+2,FC Barcelona,38,85,102,43,59,2024-25,C. Real Madrid only (VAR + on-field)
+3,Atlético de Madrid,38,76,68,30,38,2024-25,C. Real Madrid only (VAR + on-field)
+4,Villarreal,38,70,71,51,20,2024-25,C. Real Madrid only (VAR + on-field)
+5,Athletic Club,38,68,54,31,23,2024-25,C. Real Madrid only (VAR + on-field)
+6,Real Betis,38,60,57,50,7,2024-25,C. Real Madrid only (VAR + on-field)
+1,FC Barcelona,38,94,95,36,59,2025-26,Actual
+2,Real Madrid,38,86,77,35,42,2025-26,Actual
+3,Villarreal,38,72,72,46,26,2025-26,Actual
+4,Atlético de Madrid,38,69,62,44,18,2025-26,Actual
+5,Real Betis,38,60,59,48,11,2025-26,Actual
+6,Celta de Vigo,38,54,53,48,5,2025-26,Actual
+1,FC Barcelona,38,94,95,37,58,2025-26,A. Real Madrid only (VAR)
+2,Real Madrid,38,88,83,35,48,2025-26,A. Real Madrid only (VAR)
+3,Villarreal,38,72,72,46,26,2025-26,A. Real Madrid only (VAR)
+4,Atlético de Madrid,38,69,62,44,18,2025-26,A. Real Madrid only (VAR)
+5,Real Betis,38,60,59,48,11,2025-26,A. Real Madrid only (VAR)
+6,Celta de Vigo,38,54,53,48,5,2025-26,A. Real Madrid only (VAR)
+1,FC Barcelona,38,97,100,37,63,2025-26,B. Everyone (VAR)
+2,Real Madrid,38,88,83,36,47,2025-26,B. Everyone (VAR)
+3,Villarreal,38,72,73,47,26,2025-26,B. Everyone (VAR)
+4,Atlético de Madrid,38,69,66,47,19,2025-26,B. Everyone (VAR)
+5,Real Betis,38,60,62,52,10,2025-26,B. Everyone (VAR)
+6,Celta de Vigo,38,56,55,50,5,2025-26,B. Everyone (VAR)
+1,FC Barcelona,38,94,95,38,57,2025-26,C. Real Madrid only (VAR + on-field)
+2,Real Madrid,38,88,86,35,51,2025-26,C. Real Madrid only (VAR + on-field)
+3,Villarreal,38,72,72,46,26,2025-26,C. Real Madrid only (VAR + on-field)
+4,Atlético de Madrid,38,69,62,44,18,2025-26,C. Real Madrid only (VAR + on-field)
+5,Real Betis,38,60,59,48,11,2025-26,C. Real Madrid only (VAR + on-field)
+6,Celta de Vigo,38,54,53,48,5,2025-26,C. Real Madrid only (VAR + on-field)
+1,FC Barcelona,8,24,34,7,27,2026-27,Actual
+2,Atlético de Madrid,8,19,18,8,10,2026-27,Actual
+3,Real Betis,8,19,14,9,5,2026-27,Actual
+4,Real Madrid,8,18,19,8,11,2026-27,Actual
+5,Sevilla,7,13,10,9,1,2026-27,Actual
+6,Real Sociedad,8,13,12,15,-3,2026-27,Actual
+1,FC Barcelona,8,24,34,7,27,2026-27,A. Real Madrid only (VAR)
+2,Atlético de Madrid,8,19,18,8,10,2026-27,A. Real Madrid only (VAR)
+3,Real Madrid,8,19,22,8,14,2026-27,A. Real Madrid only (VAR)
+4,Real Betis,8,17,14,10,4,2026-27,A. Real Madrid only (VAR)
+5,Sevilla,7,13,10,9,1,2026-27,A. Real Madrid only (VAR)
+6,Real Sociedad,8,13,12,16,-4,2026-27,A. Real Madrid only (VAR)
+1,FC Barcelona,8,24,36,7,29,2026-27,B. Everyone (VAR)
+2,Atlético de Madrid,8,19,18,8,10,2026-27,B. Everyone (VAR)
+3,Real Madrid,8,19,22,8,14,2026-27,B. Everyone (VAR)
+4,Real Betis,8,15,15,11,4,2026-27,B. Everyone (VAR)
+5,Real Sociedad,8,13,13,16,-3,2026-27,B. Everyone (VAR)
+6,Rayo Vallecano,8,10,13,18,-5,2026-27,B. Everyone (VAR)
+1,FC Barcelona,8,24,34,7,27,2026-27,C. Real Madrid only (VAR + on-field)
+2,Atlético de Madrid,8,19,18,8,10,2026-27,C. Real Madrid only (VAR + on-field)
+3,Real Madrid,8,19,23,8,15,2026-27,C. Real Madrid only (VAR + on-field)
+4,Real Betis,8,17,14,10,4,2026-27,C. Real Madrid only (VAR + on-field)
+5,Sevilla,7,13,10,9,1,2026-27,C. Real Madrid only (VAR + on-field)
+6,Real Sociedad,8,13,12,16,-4,2026-27,C. Real Madrid only (VAR + on-field)
