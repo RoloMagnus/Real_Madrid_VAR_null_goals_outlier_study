@@ -1,0 +1,65 @@
+{
+ "home_away": {
+  "home": 30,
+  "away": 20,
+  "n_home": 156,
+  "n_away": 156,
+  "p_two_sided": 0.20263875106454066
+ },
+ "others_home_away": {
+  "home_rate": 0.06819716407832546,
+  "away_rate": 0.04794058068872384
+ },
+ "opp_strength": {
+  "n_low": 164,
+  "d_low": 34,
+  "n_hi": 141,
+  "d_hi": 16,
+  "p": 0.0472270425692478
+ },
+ "league_vs_weak": {
+  "rate_weak": 0.07538940809968847,
+  "rate_strong": 0.05130007027406887
+ },
+ "early": {
+  "rm": 11,
+  "n": 50,
+  "others_share": 0.1308139534883721,
+  "p": 0.08828994462224521
+ },
+ "half": {
+  "rm_second": 0.54,
+  "others_second": 0.5319767441860465
+ },
+ "n_referees": 41,
+ "n_players_rm": 23,
+ "reason_all": {
+  "offside": 279,
+  "Foul": 50,
+  "handball": 48,
+  "video review": 17
+ },
+ "reason_rm": {
+  "offside": 36,
+  "handball": 6,
+  "Foul": 6,
+  "video review": 2
+ },
+ "scoreline_effect_rm": {
+  "Go-ahead / opener": 23,
+  "Extend lead": 19,
+  "Equaliser": 6,
+  "Reduce deficit": 2
+ },
+ "rm_by_season": {
+  "2018-19": 3,
+  "2019-20": 5,
+  "2020-21": 5,
+  "2021-22": 5,
+  "2022-23": 11,
+  "2023-24": 3,
+  "2024-25": 9,
+  "2025-26": 6,
+  "2026-27": 3
+ }
+}
