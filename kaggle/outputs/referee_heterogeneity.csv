@@ -1,0 +1,6 @@
+﻿item,value,detail
+Observed chi-square,11.866602169853447,"14 d.f., p = 0.62; 15 referees, 261 matches, 45 events"
+"Power at 5% level if true referee rates vary log-normally, SD 0.25",0.1308,share of simulated datasets with p < 0.05
+"Power at 5% level if true referee rates vary log-normally, SD 0.5",0.4564,share of simulated datasets with p < 0.05
+"Power at 5% level if true referee rates vary log-normally, SD 0.75",0.7676,share of simulated datasets with p < 0.05
+"Power at 5% level if true referee rates vary log-normally, SD 1.0",0.8768,share of simulated datasets with p < 0.05

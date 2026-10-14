@@ -1,0 +1,195 @@
+﻿table,column,type,description
+data/processed/disallowed_goals_enriched.csv,season,string,"Season label, e.g. 2018-19 (August to July; the COVID-delayed 2019-20 finish is mapped explicitly)."
+data/processed/disallowed_goals_enriched.csv,fs_id,string,Flashscore match identifier; primary key of the match.
+data/processed/disallowed_goals_enriched.csv,date,date/time,Local match date (Europe/Madrid).
+data/processed/disallowed_goals_enriched.csv,kickoff,date/time,Local kick-off time (Europe/Madrid).
+data/processed/disallowed_goals_enriched.csv,home,string,Home club (normalised name).
+data/processed/disallowed_goals_enriched.csv,away,string,Away club (normalised name).
+data/processed/disallowed_goals_enriched.csv,final,string,Final score as home-away.
+data/processed/disallowed_goals_enriched.csv,team,string,Club whose goal was ruled out.
+data/processed/disallowed_goals_enriched.csv,opponent,string,Opponent of `team` in the match.
+data/processed/disallowed_goals_enriched.csv,venue,string,"Home or Away, from the perspective of `team`."
+data/processed/disallowed_goals_enriched.csv,player_short,string,Scorer as abbreviated by Flashscore (e.g. 'Mbappe K.').
+data/processed/disallowed_goals_enriched.csv,player,string,Scorer slug from the Flashscore URL (e.g. 'mbappe-kylian').
+data/processed/disallowed_goals_enriched.csv,minute,string,Minute of the incident as displayed (e.g. 45'+2').
+data/processed/disallowed_goals_enriched.csv,minute_num,integer,Minute as a number; stoppage time is added to the base minute (90+7 = 97).
+data/processed/disallowed_goals_enriched.csv,half,integer,"1 or 2, from the base minute; stoppage time inherits the half."
+data/processed/disallowed_goals_enriched.csv,reason_fs,string,"Reason logged by Flashscore: offside, Foul (attacking foul), handball or video review (unspecified)."
+data/processed/disallowed_goals_enriched.csv,score_home,integer,Running home score before the incident (Flashscore incident feed).
+data/processed/disallowed_goals_enriched.csv,score_away,integer,Running away score before the incident.
+data/processed/disallowed_goals_enriched.csv,fs_text,string,"Free text attached to the Flashscore incident, when present (about 78% of rows)."
+data/processed/disallowed_goals_enriched.csv,var_commentary,string,"Flashscore live-commentary lines from -1 to +3 minutes around the incident that carry the VAR icon, VAR or video wording or the word 'disallow', joined with ' || '. Mostly written as commentary, not an official log."
+data/processed/disallowed_goals_enriched.csv,var_flag,boolean,True if any such commentary line exists or the incident text mentions the video assistant referee. Looser than 'explicit VAR wording': it also fires on a generic 'disallow' line (1 Getafe incident in the 394).
+data/processed/disallowed_goals_enriched.csv,ref_short,string,"Referee name as abbreviated by Flashscore (on-field referee, not the VAR official)."
+data/processed/disallowed_goals_enriched.csv,pos_before,float,"League position of `team` at kick-off, rebuilt from results (points, goal difference, goals); blank in round 1."
+data/processed/disallowed_goals_enriched.csv,pts_before,integer,Points of `team` before the match.
+data/processed/disallowed_goals_enriched.csv,played_before,integer,Matches played by `team` before the match.
+data/processed/disallowed_goals_enriched.csv,opp_pos_before,float,League position of the opponent at kick-off.
+data/processed/disallowed_goals_enriched.csv,team_final_pos,integer,Final league position of `team` in the season (partial table for 2026-27).
+data/processed/disallowed_goals_enriched.csv,opp_final_pos,integer,Final league position of the opponent.
+data/processed/disallowed_goals_enriched.csv,referee_full,string,Full referee name from Transfermarkt match sheet (or majority-vote mapping of the Flashscore name).
+data/processed/disallowed_goals_enriched.csv,referee_source,string,Where `referee_full` came from.
+data/processed/disallowed_goals_enriched.csv,player_full,string,"Scorer's full accented name, mapped from the Flashscore slug to ESPN roster names."
+data/processed/disallowed_goals_enriched.csv,context_text,string,Decision sentence extracted from `var_commentary` (or `fs_text`) used for the 'var_decision_text' field of the report.
+data/processed/disallowed_goals_enriched.csv,offside_player_espn,string,"ESPN offside event text for the same team within +-1 minute (who was flagged), if any."
+data/processed/disallowed_goals_enriched.csv,category,string,"Derived class: offside by goalscorer, offside by teammate in build-up, offside player not identified, foul, handball, other."
+data/processed/disallowed_goals_enriched.csv,half_label,string,1st half or 2nd half.
+data/processed/disallowed_goals_enriched.csv,goal_effect,string,"What the goal would have meant given the score before it: Go-ahead / opener, Extend lead, Equaliser, Reduce deficit."
+data/processed/disallowed_goals_enriched.csv,team_gf,integer,Final goals scored by `team` in the match (actual result).
+data/processed/disallowed_goals_enriched.csv,team_ga,integer,Final goals conceded by `team`.
+data/processed/disallowed_goals_enriched.csv,pts_actual,integer,Points `team` earned in the match.
+data/processed/disallowed_goals_enriched.csv,pts_if_allowed,integer,Points if `team` had scored one more goal and nothing else changed (fixed-score what-if).
+data/processed/disallowed_goals_enriched.csv,points_lost,integer,pts_if_allowed minus pts_actual for this incident alone.
+data/processed/disallowed_goals_enriched.csv,result_changed,boolean,True if the fixed-score what-if changes the match result (points_lost > 0).
+data/processed/disallowed_goals_enriched.csv,espn_corroborated,boolean,"True if an ESPN review-type event (overturned goal, VAR no-goal decision, or any 'Video Review' / VAR decision line, including 'decision on field stands/cancelled') lies within 3 minutes; blank if no ESPN match record. It does not by itself show that a goal was overturned."
+data/processed/team_match.csv,season,string,Season label.
+data/processed/team_match.csv,fs_id,string,Flashscore match id.
+data/processed/team_match.csv,kickoff,date/time,Local kick-off.
+data/processed/team_match.csv,team,string,Club of this row.
+data/processed/team_match.csv,opponent,string,Opponent.
+data/processed/team_match.csv,venue,string,H or A.
+data/processed/team_match.csv,gf,integer,Goals scored by `team`.
+data/processed/team_match.csv,ga,integer,Goals conceded.
+data/processed/team_match.csv,possession,float,"Possession %, Flashscore."
+data/processed/team_match.csv,shots,float,"Total shots, Flashscore."
+data/processed/team_match.csv,sot,float,Shots on target.
+data/processed/team_match.csv,corners,float,Corners.
+data/processed/team_match.csv,yellow,float,Yellow cards.
+data/processed/team_match.csv,shots_off,float,Shots off target.
+data/processed/team_match.csv,blocked,float,Blocked shots.
+data/processed/team_match.csv,offsides,float,Offside flags against `team` (an officiating outcome; see threats to validity).
+data/processed/team_match.csv,fouls,float,Fouls committed.
+data/processed/team_match.csv,red,float,Red cards (not listed when zero; set to 0).
+data/processed/team_match.csv,xg_fs,float,Flashscore xG; exists from 2022-23 only (55% blank). Used only as a cross-check.
+data/processed/team_match.csv,big_chances,float,Flashscore big chances (77% blank).
+data/processed/team_match.csv,shots_in_box,float,Shots inside the box (77% blank).
+data/processed/team_match.csv,box_touches,float,Touches in the opposition box (77% blank).
+data/processed/team_match.csv,pos_before,integer,League position before kick-off.
+data/processed/team_match.csv,pts_before,integer,Points before the match.
+data/processed/team_match.csv,played_before,integer,Matches played before.
+data/processed/team_match.csv,date,date/time,Local match date.
+data/processed/team_match.csv,xg,float,Understat expected goals of `team` (1.2% missing); used in the models.
+data/processed/team_match.csv,xga,float,Understat expected goals against.
+data/processed/team_match.csv,ppda_att,float,"Passes allowed by `team`'s opponent in the pressing zone (PPDA numerator component, Understat)."
+data/processed/team_match.csv,ppda_def,float,Defensive actions by `team` in the pressing zone (PPDA denominator component).
+data/processed/team_match.csv,opp_ppda_att,float,Same as ppda_att for the opponent.
+data/processed/team_match.csv,opp_ppda_def,float,Same as ppda_def for the opponent.
+data/processed/team_match.csv,ppda,float,Passes allowed per defensive action of `team`.
+data/processed/team_match.csv,opp_ppda,float,PPDA of the opponent in the same match.
+data/processed/team_match.csv,final_pos,integer,Final league position of `team` that season.
+data/processed/team_match.csv,top10,boolean,True if `team` finished in the top 10 of that season's final table (post-outcome definition).
+data/processed/team_match.csv,pts,integer,Points earned in the match.
+data/processed/RM_nullified_goals_breakdown.csv,rank,integer,Chronological order 1-50.
+data/processed/RM_nullified_goals_breakdown.csv,date,date/time,Match date.
+data/processed/RM_nullified_goals_breakdown.csv,season,string,Season (e.g. 2018-2019).
+data/processed/RM_nullified_goals_breakdown.csv,round,float,League round.
+data/processed/RM_nullified_goals_breakdown.csv,team (goal nullified),string,Always Real Madrid.
+data/processed/RM_nullified_goals_breakdown.csv,rival,string,Opponent.
+data/processed/RM_nullified_goals_breakdown.csv,active_player,string,Scorer.
+data/processed/RM_nullified_goals_breakdown.csv,passive_player,string,"Offside teammate in the build-up (ESPN event), when applicable."
+data/processed/RM_nullified_goals_breakdown.csv,local_flag,boolean,True if Real Madrid played at home.
+data/processed/RM_nullified_goals_breakdown.csv,var_reason,string,"Offside, Foul, Handball or Video review (unspecified)."
+data/processed/RM_nullified_goals_breakdown.csv,context_category,string,Derived class (see disallowed_goals_enriched.category).
+data/processed/RM_nullified_goals_breakdown.csv,minute,integer,Minute (stoppage added).
+data/processed/RM_nullified_goals_breakdown.csv,minute_display,string,Minute as displayed.
+data/processed/RM_nullified_goals_breakdown.csv,half,string,first or second.
+data/processed/RM_nullified_goals_breakdown.csv,score_before_goal (team-opp),string,"Score before the goal, Real Madrid first."
+data/processed/RM_nullified_goals_breakdown.csv,what_the_goal_would_have_been,string,"Go-ahead / opener, Extend lead, Equaliser or Reduce deficit."
+data/processed/RM_nullified_goals_breakdown.csv,team_goals_final,integer,Real Madrid final goals.
+data/processed/RM_nullified_goals_breakdown.csv,rival_goals_final,integer,Opponent final goals.
+data/processed/RM_nullified_goals_breakdown.csv,outcome,string,"WIN, DRAW or LOSS from Real Madrid's perspective."
+data/processed/RM_nullified_goals_breakdown.csv,points_lost_due_to_nullification,integer,Fixed-score what-if points for this goal alone.
+data/processed/RM_nullified_goals_breakdown.csv,league_position_at_time,float,Real Madrid position at kick-off.
+data/processed/RM_nullified_goals_breakdown.csv,rival_position_at_time,float,Opponent position at kick-off.
+data/processed/RM_nullified_goals_breakdown.csv,points_at_time,integer,Real Madrid points before the match.
+data/processed/RM_nullified_goals_breakdown.csv,referee_on_field,string,On-field referee.
+data/processed/RM_nullified_goals_breakdown.csv,laliga_title_won_flag,boolean,True if Real Madrid won the title that season.
+data/processed/RM_nullified_goals_breakdown.csv,la_liga_champion,string,Champion of the season.
+data/processed/RM_nullified_goals_breakdown.csv,var_decision_text,string,Decision sentence from commentary (blank for 1 event).
+data/processed/RM_nullified_goals_breakdown.csv,var_evidence,string,Label of the evidence class in the report; 'Explicit VAR wording / ESPN review' for all 50 (it does not separate T1/T2/T3; see events_with_evidence_tier).
+data/processed/RM_nullified_goals_breakdown.csv,manual_validation,boolean,True if the study team checked the goal against match video (all 50).
+data/processed/RM_nullified_goals_breakdown.csv,links,string,Video link used in the manual check.
+data/processed/onfield_disallowed_events.csv,rank,integer,Chronological order.
+data/processed/onfield_disallowed_events.csv,fs_id,string,Flashscore match id.
+data/processed/onfield_disallowed_events.csv,date,date/time,Match date.
+data/processed/onfield_disallowed_events.csv,season,string,Season.
+data/processed/onfield_disallowed_events.csv,round,integer,League round.
+data/processed/onfield_disallowed_events.csv,team,string,Club whose goal was ruled out.
+data/processed/onfield_disallowed_events.csv,rival,string,Opponent.
+data/processed/onfield_disallowed_events.csv,local_flag,boolean,True if `team` was at home.
+data/processed/onfield_disallowed_events.csv,active_player,string,Scorer.
+data/processed/onfield_disallowed_events.csv,reason,string,"Offside, Foul, Handball or Other."
+data/processed/onfield_disallowed_events.csv,kind,string,"Commentary pattern that produced the row: flag, goal_disallowed_line, ruled_out, whistle_foul, thought_scored."
+data/processed/onfield_disallowed_events.csv,minute,integer,Minute (stoppage added).
+data/processed/onfield_disallowed_events.csv,minute_display,string,Minute as displayed.
+data/processed/onfield_disallowed_events.csv,half,string,first or second.
+data/processed/onfield_disallowed_events.csv,score_before_goal,string,"Score before the goal, `team` first."
+data/processed/onfield_disallowed_events.csv,goal_would_have_been,string,Effect of the goal on the score.
+data/processed/onfield_disallowed_events.csv,team_goals_final,integer,Final goals of `team`.
+data/processed/onfield_disallowed_events.csv,rival_goals_final,integer,Final goals of the opponent.
+data/processed/onfield_disallowed_events.csv,outcome,string,"WIN, DRAW or LOSS."
+data/processed/onfield_disallowed_events.csv,points_lost,integer,Fixed-score what-if points.
+data/processed/onfield_disallowed_events.csv,league_position_at_time,float,Position at kick-off.
+data/processed/onfield_disallowed_events.csv,rival_position_at_time,float,Opponent position at kick-off.
+data/processed/onfield_disallowed_events.csv,points_at_time,integer,Points before the match.
+data/processed/onfield_disallowed_events.csv,referee_on_field,string,Referee.
+data/processed/onfield_disallowed_events.csv,commentary,string,Source commentary line.
+data/processed/onfield_disallowed_events.csv,season_final_pos,integer,Final position of `team` in the season.
+data/processed/matches.csv,season,string,Season.
+data/processed/matches.csv,fs_id,string,Flashscore match id.
+data/processed/matches.csv,date_utc,date/time,UTC kick-off.
+data/processed/matches.csv,round,string,Round label.
+data/processed/matches.csv,home,string,Home club.
+data/processed/matches.csv,away,string,Away club.
+data/processed/matches.csv,home_goals,integer,Final home goals.
+data/processed/matches.csv,away_goals,integer,Final away goals.
+data/processed/matches.csv,kickoff_local,date/time,Local kick-off.
+data/processed/matches.csv,date,date/time,Local date.
+data/processed/matches.csv,referee_short,string,Abbreviated on-field referee.
+data/processed/final_tables.csv,team,string,Club.
+data/processed/final_tables.csv,pts,integer,Points.
+data/processed/final_tables.csv,gd,integer,Goal difference.
+data/processed/final_tables.csv,gf,integer,Goals for.
+data/processed/final_tables.csv,played,integer,Matches played.
+data/processed/final_tables.csv,final_pos,integer,"Final position (points, goal difference, goals)."
+data/processed/final_tables.csv,season,string,Season.
+data/processed/final_tables.csv,relegated,boolean,True if relegated.
+kaggle/outputs/events_with_evidence_tier.csv,season,string,Season.
+kaggle/outputs/events_with_evidence_tier.csv,fs_id,string,Flashscore match id.
+kaggle/outputs/events_with_evidence_tier.csv,date,date/time,Match date.
+kaggle/outputs/events_with_evidence_tier.csv,team,string,Club whose goal was ruled out.
+kaggle/outputs/events_with_evidence_tier.csv,opponent,string,Opponent.
+kaggle/outputs/events_with_evidence_tier.csv,venue,string,Home or Away.
+kaggle/outputs/events_with_evidence_tier.csv,player_full,string,Scorer.
+kaggle/outputs/events_with_evidence_tier.csv,minute_num,integer,Minute.
+kaggle/outputs/events_with_evidence_tier.csv,reason_fs,string,Reason logged by Flashscore.
+kaggle/outputs/events_with_evidence_tier.csv,tier,string,T1 explicit overturn wording (verdict line plus a line showing the goal was given/celebrated before review); T2 VAR wording but initial decision unclear; T3 no explicit VAR text.
+kaggle/outputs/events_with_evidence_tier.csv,espn_ok,boolean,"Same as espn_corroborated, with blank treated as False."
+kaggle/outputs/events_with_evidence_tier.csv,text_var,boolean,True if the Flashscore text contains explicit VAR / video assistant / video review wording.
+kaggle/outputs/events_with_evidence_tier.csv,referee_full,string,On-field referee.
+kaggle/outputs/manual_audit_key.csv,audit_id,string,Random-order identifier A001-A394.
+kaggle/outputs/manual_audit_key.csv,priority,integer,1 = Real Madrid or one of the five clubs with most events; 2 = others.
+kaggle/outputs/manual_audit_key.csv,season,string,Season.
+kaggle/outputs/manual_audit_key.csv,fs_id,string,Flashscore match id.
+kaggle/outputs/manual_audit_key.csv,date,date/time,Match date.
+kaggle/outputs/manual_audit_key.csv,team,string,Club.
+kaggle/outputs/manual_audit_key.csv,opponent,string,Opponent.
+kaggle/outputs/manual_audit_key.csv,minute_num,integer,Minute.
+kaggle/outputs/manual_audit_key.csv,player_full,string,Scorer.
+kaggle/outputs/manual_audit_key.csv,reason_fs,string,Reason in the feed.
+kaggle/outputs/manual_audit_key.csv,tier,string,Evidence tier.
+kaggle/outputs/manual_audit_form.csv,audit_id,string,Same id as in the key.
+kaggle/outputs/manual_audit_form.csv,date,date/time,"Match date, to locate the video."
+kaggle/outputs/manual_audit_form.csv,minute_num,integer,Minute.
+kaggle/outputs/manual_audit_form.csv,initial_onfield_decision,string,goal_given / flag_raised_before_goal / whistle_before_goal / unclear (reviewer fills).
+kaggle/outputs/manual_audit_form.csv,var_action,string,check_only / review_overturn / review_confirmed_on_field_decision / other.
+kaggle/outputs/manual_audit_form.csv,final_decision,string,no_goal / goal.
+kaggle/outputs/manual_audit_form.csv,final_reason,string,offside / foul / handball / other.
+kaggle/outputs/manual_audit_form.csv,event_meets_protocol,string,Y or N: the incident meets the inclusion rules and the event definition in section 6 of the PDF.
+kaggle/outputs/manual_audit_form.csv,subtype,string,A given then overturned / B disallowed on field then checked by VAR / C other.
+kaggle/outputs/manual_audit_form.csv,reviewer_id,string,Reviewer code.
+kaggle/outputs/manual_audit_form.csv,video_source,string,Clip identifier or URL.
+kaggle/outputs/manual_audit_form.csv,second_reviewer_meets_protocol,string,Independent second reviewer's event_meets_protocol (Y or N).
+kaggle/outputs/manual_audit_form.csv,second_reviewer_subtype,string,Independent second reviewer's subtype.
+kaggle/outputs/manual_audit_form.csv,disagreement_resolution,string,How a disagreement was resolved.
+kaggle/outputs/manual_audit_form.csv,notes,string,Free text.

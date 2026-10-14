@@ -1,0 +1,395 @@
+﻿audit_id,priority,season,fs_id,date,team,opponent,minute_num,player_full,reason_fs,tier
+A001,2,2019-20,G6uJI7J3,2020-07-16,Granada,Mallorca,97,Antonio Puertas,offside,T1 explicit overturn wording
+A002,1,2024-25,tSapoxPp,2025-01-25,Sevilla,Espanyol,54,Loïc Badé,Foul,T1 explicit overturn wording
+A003,1,2021-22,n52GFcUO,2022-02-13,FC Barcelona,Espanyol,56,Gavi,offside,T1 explicit overturn wording
+A004,1,2023-24,fDtw30ps,2023-10-28,Sevilla,Cádiz,32,Sergio Ramos,offside,T1 explicit overturn wording
+A005,2,2021-22,hzySaO8j,2022-05-12,Rayo Vallecano,Villarreal,60,Alejandro Catena,handball,T1 explicit overturn wording
+A006,1,2022-23,zoPaagIF,2023-01-29,Celta de Vigo,Athletic Club,1,Carles Pérez,handball,T1 explicit overturn wording
+A007,2,2018-19,nDbRfbsD,2019-04-14,Girona,Villarreal,17,Patrick Roberts,offside,T1 explicit overturn wording
+A008,2,2023-24,4blpvlnh,2024-02-18,Almería,Granada,14,Adri Embarba,offside,T1 explicit overturn wording
+A009,2,2025-26,zHuMM91l,2026-01-04,Real Sociedad,Atlético de Madrid,45,Alexander Sorloth,offside,T1 explicit overturn wording
+A010,2,2019-20,2N30Vp39,2020-07-19,Osasuna,Mallorca,91,José Arnaiz,Foul,T1 explicit overturn wording
+A011,1,2022-23,jwRqd2k2,2022-10-30,Real Madrid,Girona,90,Rodrygo,video review,T1 explicit overturn wording
+A012,2,2019-20,bZtcmklE,2020-02-01,Mallorca,Real Valladolid,28,,video review,T1 explicit overturn wording
+A013,1,2022-23,61cerGaE,2023-03-19,Real Madrid,FC Barcelona,81,Marco Asensio,offside,T1 explicit overturn wording
+A014,2,2023-24,CMU2iDva,2024-05-15,Cádiz,Sevilla,66,Loïc Badé,Foul,T1 explicit overturn wording
+A015,2,2021-22,YZTpWXWe,2022-04-21,Athletic Club,Cádiz,48,Iñaki Williams,offside,T1 explicit overturn wording
+A016,1,2024-25,8CpDVHAM,2024-08-27,FC Barcelona,Rayo Vallecano,71,Robert Lewandowski,Foul,T1 explicit overturn wording
+A017,2,2020-21,pSA66ZHC,2021-04-24,Valencia,Deportivo Alavés,57,Kevin Gameiro,offside,T1 explicit overturn wording
+A018,1,2020-21,0IN8buLR,2021-05-16,Atlético de Madrid,Osasuna,59,Stefan Savic,offside,T1 explicit overturn wording
+A019,2,2020-21,CAMnicD1,2021-05-16,Elche,Cádiz,49,Pere Milla,offside,T1 explicit overturn wording
+A020,1,2022-23,fRiEliMm,2023-04-02,Real Madrid,Real Valladolid,66,Rodrygo,handball,T1 explicit overturn wording
+A021,1,2020-21,bBW0cJHp,2021-04-03,Real Madrid,Eibar,38,Marco Asensio,offside,T1 explicit overturn wording
+A022,2,2025-26,63SyfKRp,2025-12-21,Real Betis,Getafe,79,Pablo Fornals,offside,T1 explicit overturn wording
+A023,2,2019-20,r7UuvWhA,2019-11-09,Valencia,Granada,56,Daniel Parejo,offside,T1 explicit overturn wording
+A024,2,2020-21,lSktfGzC,2020-12-12,Huesca,Deportivo Alavés,48,Shinji Okazaki,offside,T1 explicit overturn wording
+A025,1,2025-26,rBKZkCPc,2026-05-09,Sevilla,Espanyol,46,Alexis Sánchez,offside,T1 explicit overturn wording
+A026,2,2022-23,Uajg6Gmj,2023-04-22,Real Sociedad,Rayo Vallecano,12,Mikel Oyarzabal,Foul,T1 explicit overturn wording
+A027,1,2022-23,YNq8C8Hh,2022-09-03,Atlético de Madrid,Real Sociedad,29,Álvaro Morata,handball,T1 explicit overturn wording
+A028,2,2022-23,ttLAWI02,2023-03-12,Athletic Club,FC Barcelona,87,Iñaki Williams,handball,T1 explicit overturn wording
+A029,2,2018-19,zDy4RjZl,2019-05-12,Athletic Club,Celta de Vigo,80,Iñaki Williams,offside,T1 explicit overturn wording
+A030,2,2018-19,Q1SXlWEM,2019-03-31,Real Valladolid,Real Sociedad,85,Olivas Kiko,offside,T1 explicit overturn wording
+A031,2,2022-23,GEJklrS4,2023-04-08,Espanyol,Athletic Club,45,Martin Braithwaite,handball,T1 explicit overturn wording
+A032,1,2021-22,OIXWS7Kn,2022-04-08,Sevilla,Granada,76,Rafael Mir,Foul,T1 explicit overturn wording
+A033,2,2026-27,6RZt3GwK,2026-08-15,Rayo Vallecano,Sevilla,32,Isaac Palazon,Foul,T1 explicit overturn wording
+A034,2,2020-21,EerUdIjg,2020-12-13,Real Sociedad,Eibar,80,Igor Zubeldia,offside,T1 explicit overturn wording
+A035,1,2022-23,xrmX0LBA,2023-04-15,Villarreal,Real Valladolid,15,Samuel Chukwueze,offside,T1 explicit overturn wording
+A036,2,2021-22,SErjsbuc,2022-04-16,Valencia,Osasuna,55,Hugo Guillamón,handball,T1 explicit overturn wording
+A037,2,2024-25,GrDYvKBO,2025-03-31,Las Palmas,Celta de Vigo,72,Fábio Silva,offside,T1 explicit overturn wording
+A038,2,2018-19,QuiS8oNh,2019-04-21,Espanyol,Levante,45,Marc Roca,handball,T1 explicit overturn wording
+A039,1,2025-26,Gt6nv08e,2026-04-12,Villarreal,Athletic Club,89,Nicolas Pépé,offside,T1 explicit overturn wording
+A040,1,2024-25,QP8QvjOG,2024-11-10,FC Barcelona,Real Sociedad,13,Robert Lewandowski,offside,T1 explicit overturn wording
+A041,2,2020-21,2TWPvE5l,2021-03-06,Eibar,Cádiz,15,Sergio Enrich,handball,T1 explicit overturn wording
+A042,2,2018-19,bccSzOXj,2019-02-01,Real Valladolid,Huesca,74,Óscar Plano,offside,T1 explicit overturn wording
+A043,2,2018-19,rHoX75xa,2019-04-20,Rayo Vallecano,Huesca,52,Raúl de Tomás,offside,T1 explicit overturn wording
+A044,1,2021-22,rFfxMJY7,2021-09-22,Real Madrid,Mallorca,49,Karim Benzema,Foul,T1 explicit overturn wording
+A045,1,2022-23,b5ZMn1GJ,2022-10-15,Atlético de Madrid,Athletic Club,10,Álvaro Morata,Foul,T1 explicit overturn wording
+A046,1,2024-25,Q9Qr0OrQ,2025-04-20,Villarreal,Real Sociedad,68,Yeremi Santos,offside,T1 explicit overturn wording
+A047,1,2025-26,KYY3zEDc,2025-11-30,Real Madrid,Girona,40,Kylian Mbappé,handball,T1 explicit overturn wording
+A048,2,2025-26,Gpdbebrf,2026-03-14,Oviedo,Valencia,77,Alberto Reina,offside,T1 explicit overturn wording
+A049,1,2024-25,EgwRcF8j,2025-04-27,Villarreal,Espanyol,31,Thierno Barry,offside,T1 explicit overturn wording
+A050,2,2020-21,fiLoGozH,2020-10-25,Cádiz,Villarreal,7,Álvaro Negredo,offside,T1 explicit overturn wording
+A051,2,2018-19,jPBwueob,2019-03-17,Valencia,Getafe,53,Gonçalo Guedes,offside,T1 explicit overturn wording
+A052,1,2024-25,QekfJmLa,2024-08-23,Sevilla,Villarreal,8,Juanlu Sanchez,offside,T1 explicit overturn wording
+A053,2,2022-23,W0YIfa7R,2023-05-28,Cádiz,Celta de Vigo,41,Anthony Lozano,offside,T1 explicit overturn wording
+A054,2,2025-26,IJmCYLIj,2026-02-09,Espanyol,Villarreal,12,Omar El Hilali,video review,T1 explicit overturn wording
+A055,2,2021-22,rZvpEVzU,2021-09-12,Osasuna,Valencia,63,Darko Brasanac,Foul,T1 explicit overturn wording
+A056,2,2021-22,8d2POLlk,2021-09-22,Espanyol,Deportivo Alavés,3,Raúl de Tomás,offside,T1 explicit overturn wording
+A057,2,2022-23,WYBmFdEU,2023-02-17,Girona,Almería,26,Valentín Castellanos,offside,T1 explicit overturn wording
+A058,2,2021-22,4vW1Fljm,2022-04-04,Real Sociedad,Espanyol,51,Alexander Sorloth,Foul,T1 explicit overturn wording
+A059,1,2019-20,fcvNHRY9,2020-07-16,Real Madrid,Villarreal,96,Marco Asensio,handball,T1 explicit overturn wording
+A060,1,2026-27,MFH8mVvQ,2026-09-06,FC Barcelona,Valencia,9,Lamine Yamal,offside,T1 explicit overturn wording
+A061,1,2019-20,Eo7gTTdr,2020-01-26,Real Madrid,Real Valladolid,12,Casemiro,offside,T1 explicit overturn wording
+A062,1,2018-19,n1YQVMX3,2018-10-28,Sevilla,Huesca,22,Daniel Carriço,offside,"T2 VAR wording, initial decision unclear"
+A063,2,2020-21,tlHsHRKA,2020-10-26,Levante,Celta de Vigo,92,Daniel Gomez,video review,T1 explicit overturn wording
+A064,2,2020-21,KW9d8CfT,2020-11-30,Eibar,Real Betis,34,Takashi Inui,offside,T1 explicit overturn wording
+A065,2,2020-21,A9ORU90U,2021-05-02,Real Valladolid,Real Betis,10,Shon Weissman,offside,T1 explicit overturn wording
+A066,1,2023-24,YgYXOBss,2024-03-30,Sevilla,Getafe,44,Sergio Ramos,offside,"T2 VAR wording, initial decision unclear"
+A067,1,2024-25,SYQn9hZO,2024-12-08,Villarreal,Athletic Club,21,Pape Gueye,offside,T1 explicit overturn wording
+A068,2,2026-27,ULUMPRnJ,2026-09-05,Racing Santander,Rayo Vallecano,79,Yassir Zabiri,Foul,T1 explicit overturn wording
+A069,1,2023-24,06igyXDK,2023-12-09,Sevilla,Mallorca,62,Adrià Pedrosa,handball,T1 explicit overturn wording
+A070,1,2025-26,EBj7h7jt,2025-12-13,FC Barcelona,Osasuna,23,Ferran Torres,offside,T1 explicit overturn wording
+A071,1,2021-22,QqsnaW0r,2022-04-30,Real Madrid,Espanyol,72,Isco,offside,T1 explicit overturn wording
+A072,1,2024-25,CE0hJiFM,2025-01-19,Real Madrid,Las Palmas,86,Federico Valverde,offside,T1 explicit overturn wording
+A073,1,2024-25,lnM5Sbuo,2025-05-18,Atlético de Madrid,Real Betis,86,Nahuel Molina,offside,T1 explicit overturn wording
+A074,1,2023-24,URKXfIAA,2024-01-03,Celta de Vigo,Real Betis,84,Jorgen Larsen,offside,T1 explicit overturn wording
+A075,1,2023-24,MJIXBAo2,2024-01-27,Villarreal,FC Barcelona,22,Gerard Moreno,Foul,T1 explicit overturn wording
+A076,2,2024-25,2ZFxC5T0,2025-05-11,Leganés,Espanyol,9,Jorge Saenz,offside,T1 explicit overturn wording
+A077,2,2022-23,QHMtdmXB,2022-08-29,Athletic Club,Cádiz,65,Ohian Sancet,offside,T1 explicit overturn wording
+A078,1,2024-25,Qmk8moaK,2025-04-20,Real Madrid,Athletic Club,79,Vinícius Júnior,offside,T1 explicit overturn wording
+A079,2,2024-25,UaS8aGMt,2024-11-03,Espanyol,FC Barcelona,27,Jofe Carreras,offside,T1 explicit overturn wording
+A080,1,2025-26,QeslA2s2,2025-10-18,Atlético de Madrid,Osasuna,9,Álex Baena,offside,T1 explicit overturn wording
+A081,2,2024-25,WY1k6dAN,2025-04-07,Osasuna,Leganés,39,Lucas Torró,offside,T1 explicit overturn wording
+A082,2,2025-26,bTDl6FdC,2026-03-22,Real Betis,Athletic Club,77,Cédric Bakambu,offside,T1 explicit overturn wording
+A083,1,2019-20,bk7D1FrC,2020-07-11,Atlético de Madrid,Real Betis,36,Álvaro Morata,offside,T1 explicit overturn wording
+A084,1,2022-23,IkYhCKv7,2022-10-02,Real Madrid,Osasuna,81,Karim Benzema,offside,T1 explicit overturn wording
+A085,1,2018-19,dUn2Aqt7,2019-03-02,Sevilla,Huesca,91,Munir El Haddadi,offside,T1 explicit overturn wording
+A086,1,2024-25,zHmSVfun,2025-01-03,Real Madrid,Valencia,60,Kylian Mbappé,offside,T1 explicit overturn wording
+A087,1,2025-26,Y7c6bjQa,2025-08-30,Real Madrid,Mallorca,55,Arda Güler,handball,T1 explicit overturn wording
+A088,2,2025-26,2Zc89l34,2026-03-21,Espanyol,Getafe,31,Ramón Terrats,offside,T1 explicit overturn wording
+A089,1,2018-19,dO5Ec0cf,2019-04-07,Sevilla,Real Valladolid,33,Wissam Ben Yedder,Foul,T1 explicit overturn wording
+A090,2,2025-26,jexTY0xg,2025-11-21,Valencia,Levante,63,Noguerol Diego Lopez,offside,T1 explicit overturn wording
+A091,2,2021-22,YBo1wCpa,2021-08-16,Elche,Athletic Club,29,Fidel,offside,T1 explicit overturn wording
+A092,2,2026-27,Q9s7530B,2026-09-15,Valencia,Deportivo Alavés,17,Arnaut Groeneveld,offside,T1 explicit overturn wording
+A093,1,2022-23,GKGSgINn,2022-10-19,Real Madrid,Elche,26,David Alaba,offside,T1 explicit overturn wording
+A094,2,2025-26,EHNrWq4L,2025-10-19,Real Sociedad,Celta de Vigo,49,Mikel Oyarzabal,offside,T1 explicit overturn wording
+A095,1,2026-27,hdqa7PVb,2026-09-14,Villarreal,Real Betis,18,Tajon Buchanan,offside,T1 explicit overturn wording
+A096,2,2022-23,vTbT0zU0,2023-06-04,Elche,Cádiz,39,Randy Nketa,offside,T1 explicit overturn wording
+A097,2,2025-26,42UFO1de,2025-10-19,Levante,Rayo Vallecano,14,Carlos Álvarez,offside,T1 explicit overturn wording
+A098,2,2023-24,2D0fSGDh,2023-11-12,Real Betis,Sevilla,15,Héctor Bellerín,offside,T1 explicit overturn wording
+A099,1,2022-23,GKGSgINn,2022-10-19,Real Madrid,Elche,6,Karim Benzema,offside,T1 explicit overturn wording
+A100,2,2023-24,dIECnu00,2023-10-20,Osasuna,Granada,88,Haro Raul De,offside,T1 explicit overturn wording
+A101,2,2025-26,U5uP615D,2026-05-03,Oviedo,Real Betis,53,Federico Viñas,offside,T1 explicit overturn wording
+A102,1,2023-24,C6EjBwei,2024-01-31,Atlético de Madrid,Rayo Vallecano,81,Memphis Depay,offside,T1 explicit overturn wording
+A103,2,2022-23,x8fUNQd2,2023-03-05,Real Valladolid,Espanyol,4,Cyle Larin,offside,T1 explicit overturn wording
+A104,2,2021-22,KSmAxzfS,2022-04-20,Getafe,Celta de Vigo,69,Enes Ünal,offside,T1 explicit overturn wording
+A105,1,2026-27,GGiPsLP1,2026-09-17,Villarreal,Málaga,82,Carlos Romero,offside,T1 explicit overturn wording
+A106,2,2026-27,GCwMKu5M,2026-08-31,Getafe,Osasuna,52,Enes Ünal,offside,T1 explicit overturn wording
+A107,1,2023-24,rqYRk03f,2024-05-11,Villarreal,Sevilla,92,Ramón Terrats,offside,T1 explicit overturn wording
+A108,1,2020-21,Ot8z3ogU,2021-02-06,Sevilla,Getafe,35,Lucas Ocampos,handball,T1 explicit overturn wording
+A109,1,2018-19,n1YQVMX3,2018-10-28,Sevilla,Huesca,26,Wissam Ben Yedder,Foul,T1 explicit overturn wording
+A110,1,2025-26,KbCNN6gB,2025-09-13,Real Madrid,Real Sociedad,2,Arda Güler,offside,T1 explicit overturn wording
+A111,2,2022-23,xKGDxHhC,2022-10-15,Girona,Cádiz,73,Cala,Foul,T1 explicit overturn wording
+A112,2,2021-22,Cp7O1VLm,2022-03-19,Valencia,Elche,7,Hugo Guillamón,offside,"T2 VAR wording, initial decision unclear"
+A113,2,2021-22,pE9FpITb,2022-02-20,Valencia,FC Barcelona,41,Carlos Soler,video review,T1 explicit overturn wording
+A114,2,2024-25,AJDt8IuB,2025-04-06,Real Sociedad,Las Palmas,88,Takefusa Kubo,offside,T1 explicit overturn wording
+A115,2,2025-26,6Lw7g8xQ,2026-01-10,Girona,Osasuna,63,Vladyslav Vanat,offside,T1 explicit overturn wording
+A116,2,2025-26,KnMLIMGb,2026-05-23,Espanyol,Real Sociedad,54,Tyrhys Dolan,Foul,T1 explicit overturn wording
+A117,1,2020-21,plnsJC1I,2021-04-18,Celta de Vigo,Cádiz,35,Hugo Mallo,offside,T1 explicit overturn wording
+A118,1,2025-26,YTYwDgZF,2026-01-18,FC Barcelona,Real Sociedad,7,Fermin,Foul,T1 explicit overturn wording
+A119,1,2024-25,6adcTeKt,2024-12-08,Atlético de Madrid,Sevilla,44,Julián Álvarez,offside,T1 explicit overturn wording
+A120,1,2020-21,QgzaN2sp,2020-11-02,Villarreal,Real Valladolid,64,Gerard Moreno,offside,T1 explicit overturn wording
+A121,2,2019-20,nF392eT5,2020-07-13,Getafe,Deportivo Alavés,88,Hugo Duro,handball,T1 explicit overturn wording
+A122,2,2018-19,l4gxnfua,2018-12-10,Girona,Athletic Club,20,Christian Stuani,handball,T1 explicit overturn wording
+A123,2,2026-27,xnbRmvZ8,2026-09-07,Real Sociedad,Elche,61,Luka Sucic,handball,T1 explicit overturn wording
+A124,2,2019-20,Mc1t2xtg,2019-10-26,Real Valladolid,Eibar,55,Sergio Guardiola,offside,T1 explicit overturn wording
+A125,1,2024-25,4GVrT7se,2024-12-21,Celta de Vigo,Real Sociedad,50,Pablo Durán,offside,T1 explicit overturn wording
+A126,2,2019-20,n3w9wKJd,2019-11-24,Athletic Club,Osasuna,9,Dani García,offside,T1 explicit overturn wording
+A127,2,2023-24,0jL3l1Vm,2023-10-21,Real Sociedad,Mallorca,67,Mikel Oyarzabal,offside,T1 explicit overturn wording
+A128,2,2024-25,vJBRz8FE,2025-04-13,Girona,Osasuna,26,Arnaut Groeneveld,offside,T1 explicit overturn wording
+A129,1,2022-23,hxpCyK0k,2023-05-24,Villarreal,Cádiz,43,Manuel Trigueros,Foul,T1 explicit overturn wording
+A130,1,2020-21,6yv6rTUT,2021-05-09,Real Madrid,Sevilla,12,Karim Benzema,offside,T1 explicit overturn wording
+A131,2,2019-20,0vgyOmwg,2020-06-18,Valencia,Real Madrid,21,Rodrigo,offside,T1 explicit overturn wording
+A132,1,2026-27,GvI6ON5c,2026-08-31,FC Barcelona,Rayo Vallecano,46,Jules Koundé,offside,T1 explicit overturn wording
+A133,1,2021-22,02c76E88,2022-05-01,FC Barcelona,Mallorca,73,Ferran Torres,offside,T1 explicit overturn wording
+A134,2,2021-22,fZuCYdID,2021-09-25,Espanyol,Sevilla,25,Raúl de Tomás,offside,T1 explicit overturn wording
+A135,1,2024-25,SfxxiPx0,2024-09-15,Celta de Vigo,Real Valladolid,85,Galiano Javier Rodriguez,offside,T1 explicit overturn wording
+A136,1,2025-26,YTYwDgZF,2026-01-18,FC Barcelona,Real Sociedad,28,Lamine Yamal,offside,"T2 VAR wording, initial decision unclear"
+A137,1,2022-23,UqzsQt4r,2022-11-09,Atlético de Madrid,Mallorca,21,Álvaro Morata,offside,T1 explicit overturn wording
+A138,2,2025-26,lK5ey9Gs,2026-01-04,Mallorca,Girona,52,Takuma Asano,offside,T1 explicit overturn wording
+A139,2,2023-24,8Y7a9HP3,2024-01-13,Granada,Real Betis,82,Matias Arezo,offside,T1 explicit overturn wording
+A140,1,2024-25,4zlpJdvq,2024-10-26,Real Madrid,FC Barcelona,30,Kylian Mbappé,offside,T1 explicit overturn wording
+A141,2,2021-22,Kv6d4f75,2021-08-28,Athletic Club,Celta de Vigo,50,Iñaki Williams,offside,T1 explicit overturn wording
+A142,1,2020-21,Isnv0Ixj,2021-02-14,Real Madrid,Valencia,62,Ferland Mendy,offside,T1 explicit overturn wording
+A143,1,2022-23,2gKWIvF5,2023-02-18,Real Madrid,Osasuna,89,Vinícius Júnior,offside,T1 explicit overturn wording
+A144,2,2022-23,SAbiqdp8,2023-03-18,Valencia,Atlético de Madrid,30,Hugo Duro,Foul,T1 explicit overturn wording
+A145,1,2021-22,zixSIv48,2021-11-07,Villarreal,Getafe,42,Paco Alcácer,offside,T1 explicit overturn wording
+A146,1,2019-20,CnxfUfPo,2019-11-02,Real Madrid,Real Betis,8,Eden Hazard,offside,T1 explicit overturn wording
+A147,2,2024-25,0SQqjbAd,2024-10-20,Mallorca,Rayo Vallecano,95,Antonio Sánchez,offside,T1 explicit overturn wording
+A148,1,2020-21,CEpqID4B,2020-09-19,Villarreal,Eibar,10,Gerard Moreno,offside,T1 explicit overturn wording
+A149,2,2022-23,AeTuUJuc,2023-04-27,Athletic Club,Sevilla,8,Nico Williams,offside,T1 explicit overturn wording
+A150,2,2025-26,63SyfKRp,2025-12-21,Getafe,Real Betis,56,Borja Mayoral,offside,T1 explicit overturn wording
+A151,1,2024-25,pxdwg6Pp,2024-09-22,Villarreal,FC Barcelona,50,Nicolas Pépé,offside,T1 explicit overturn wording
+A152,1,2025-26,OI5e1Bhf,2026-02-14,Celta de Vigo,Espanyol,77,Borja Iglesias,offside,T1 explicit overturn wording
+A153,2,2019-20,biMJaYeR,2020-07-02,Real Sociedad,Espanyol,5,Willian José,offside,T1 explicit overturn wording
+A154,2,2020-21,8nqzrPa7,2021-01-19,Real Valladolid,Elche,62,Shon Weissman,handball,T1 explicit overturn wording
+A155,2,2021-22,Gfsl76GG,2022-05-12,Cádiz,Real Sociedad,40,Oussama Idrissi,offside,T1 explicit overturn wording
+A156,1,2023-24,4jANcjjB,2023-08-13,Villarreal,Real Betis,15,Álex Baena,offside,T1 explicit overturn wording
+A157,1,2024-25,KhwykQ8L,2024-08-28,Atlético de Madrid,Espanyol,55,Rodrigo Riquelme,offside,T1 explicit overturn wording
+A158,2,2021-22,INokmW6f,2022-03-18,Getafe,Athletic Club,57,Mathías Olivera,offside,T1 explicit overturn wording
+A159,1,2019-20,OI5uunDi,2020-02-16,Real Madrid,Celta de Vigo,49,Sergio Ramos,offside,T1 explicit overturn wording
+A160,1,2020-21,YTYiGiZN,2020-09-27,Sevilla,Cádiz,9,Lucas Ocampos,video review,"T2 VAR wording, initial decision unclear"
+A161,2,2021-22,GfPJXj77,2022-03-12,Getafe,Valencia,71,Borja Mayoral,handball,T1 explicit overturn wording
+A162,2,2022-23,jaIr5IkU,2022-12-30,Cádiz,Almería,22,Brian Ocampo,Foul,T1 explicit overturn wording
+A163,1,2018-19,rF0TXhdL,2019-05-04,Celta de Vigo,FC Barcelona,51,Néstor Araujo,offside,T1 explicit overturn wording
+A164,2,2023-24,8xbBQFa2,2023-12-02,Girona,Valencia,92,Sávio,offside,T1 explicit overturn wording
+A165,2,2019-20,KIAFM9Mq,2019-09-29,Eibar,Celta de Vigo,57,Takashi Inui,handball,T1 explicit overturn wording
+A166,2,2019-20,l4a6QRt1,2020-02-02,Real Betis,Eibar,63,Borja Iglesias,offside,T1 explicit overturn wording
+A167,1,2025-26,OdCGqnRi,2026-02-08,Atlético de Madrid,Real Betis,74,Diego Llorente,offside,T1 explicit overturn wording
+A168,2,2022-23,AeTuUJuc,2023-04-27,Athletic Club,Sevilla,16,Gorka Guruzeta,offside,T1 explicit overturn wording
+A169,1,2020-21,Ot8z3ogU,2021-02-06,Sevilla,Getafe,78,Youssef En-Nesyri,offside,T1 explicit overturn wording
+A170,1,2026-27,2mAGw9Ti,2026-10-10,Real Madrid,Villarreal,71,Vinícius Júnior,Foul,T1 explicit overturn wording
+A171,2,2022-23,AasbZaan,2023-02-26,Real Valladolid,Celta de Vigo,60,Selim Amallah,video review,T1 explicit overturn wording
+A172,1,2024-25,Gldifptf,2025-01-12,Atlético de Madrid,Osasuna,7,Antoine Griezmann,handball,T1 explicit overturn wording
+A173,2,2020-21,j5qmHXJH,2020-09-27,Athletic Club,Eibar,68,Iñaki Williams,offside,T1 explicit overturn wording
+A174,2,2022-23,8zk9LwzB,2023-01-08,Rayo Vallecano,Real Betis,63,Isaac Palazon,offside,T1 explicit overturn wording
+A175,2,2024-25,tQQLbGv9,2024-09-01,Deportivo Alavés,Las Palmas,38,Tomás Conechny,offside,T1 explicit overturn wording
+A176,2,2018-19,ImsCICcm,2018-10-07,Real Valladolid,Huesca,51,Leonardo Suarez,offside,T1 explicit overturn wording
+A177,2,2020-21,Yq5LNzmm,2021-04-28,Real Valladolid,Athletic Club,41,Shon Weissman,offside,T1 explicit overturn wording
+A178,2,2020-21,b7G2GfUa,2020-10-18,Athletic Club,Levante,73,Alejandro Berenguer,offside,T1 explicit overturn wording
+A179,2,2022-23,MRda6hCG,2022-09-12,Osasuna,Almería,47,Rubén García,handball,T1 explicit overturn wording
+A180,2,2021-22,MqzSlF7I,2021-08-21,Espanyol,Villarreal,95,Wu Lei,handball,T1 explicit overturn wording
+A181,2,2026-27,Q7vRBpMi,2026-08-20,Rayo Vallecano,Deportivo Alavés,35,Pelayo Balboa,handball,T1 explicit overturn wording
+A182,2,2025-26,YD2c1sID,2025-12-13,Valencia,Atlético de Madrid,34,Pepelu,offside,T1 explicit overturn wording
+A183,2,2023-24,O8jgIi7r,2023-12-01,Las Palmas,Getafe,88,Alberto Moleiro,offside,T1 explicit overturn wording
+A184,2,2024-25,IRBb0lXA,2024-09-20,Deportivo Alavés,Sevilla,23,Stoichkov,offside,T1 explicit overturn wording
+A185,2,2024-25,UaS8aGMt,2024-11-03,Espanyol,FC Barcelona,58,Álvaro Tejero,offside,T1 explicit overturn wording
+A186,1,2022-23,GKGSgINn,2022-10-19,Real Madrid,Elche,61,Karim Benzema,offside,T1 explicit overturn wording
+A187,2,2021-22,jTuTOVsJ,2022-05-20,Levante,Rayo Vallecano,59,Jose Morales,Foul,T1 explicit overturn wording
+A188,2,2018-19,QcAIdKC0,2019-04-14,Rayo Vallecano,Athletic Club,66,Mario Suárez,offside,T1 explicit overturn wording
+A189,2,2021-22,OAFPt09s,2022-01-08,Mallorca,Levante,83,Fer Niño,handball,T1 explicit overturn wording
+A190,1,2024-25,ncSQAZDr,2025-05-11,FC Barcelona,Real Madrid,95,Fermin,handball,T1 explicit overturn wording
+A191,1,2019-20,ShVefIIe,2020-03-07,FC Barcelona,Real Sociedad,96,Jordi Alba,offside,T1 explicit overturn wording
+A192,1,2025-26,Y7c6bjQa,2025-08-30,Real Madrid,Mallorca,7,Kylian Mbappé,offside,T1 explicit overturn wording
+A193,2,2019-20,pS6ytSco,2020-02-15,Mallorca,Deportivo Alavés,54,Daniel Rodríguez,handball,T1 explicit overturn wording
+A194,2,2019-20,804dWQm3,2020-07-19,Getafe,Levante,34,Ángel Rodríguez,offside,T1 explicit overturn wording
+A195,1,2023-24,QRHRjRVc,2024-02-25,Real Madrid,Sevilla,10,Lucas,Foul,T1 explicit overturn wording
+A196,1,2020-21,ATCUP12k,2020-10-04,Real Madrid,Levante,69,Sergio Ramos,video review,T1 explicit overturn wording
+A197,1,2023-24,0rHZRMy0,2024-02-04,Atlético de Madrid,Real Madrid,48,Stefan Savic,offside,T1 explicit overturn wording
+A198,1,2024-25,0b75dFkJ,2024-11-30,Atlético de Madrid,Real Valladolid,31,Giuliano Simeone,offside,T1 explicit overturn wording
+A199,2,2022-23,48qap5jj,2022-10-22,Real Sociedad,Real Valladolid,83,Martín Zubimendi,offside,"T2 VAR wording, initial decision unclear"
+A200,1,2025-26,Y1CbfXFj,2026-04-22,FC Barcelona,Celta de Vigo,55,Ferran Torres,offside,T1 explicit overturn wording
+A201,2,2021-22,tCqXauGJ,2022-01-02,Elche,Granada,16,Guido Carrillo,video review,T1 explicit overturn wording
+A202,1,2021-22,KWNcceD4,2022-02-26,Real Madrid,Rayo Vallecano,39,Casemiro,offside,T1 explicit overturn wording
+A203,1,2025-26,O69fxvw8,2026-04-11,FC Barcelona,Espanyol,54,Ferran Torres,offside,T1 explicit overturn wording
+A204,1,2019-20,6ybSepCj,2020-07-16,Celta de Vigo,Levante,92,Nolito,offside,T1 explicit overturn wording
+A205,1,2023-24,dxwPVAyr,2023-12-10,Atlético de Madrid,Almería,6,Antoine Griezmann,offside,T1 explicit overturn wording
+A206,2,2018-19,4hL3SH1h,2019-03-10,Levante,Villarreal,29,Rubén Rochina,offside,"T2 VAR wording, initial decision unclear"
+A207,1,2020-21,44oT2jIj,2020-11-29,FC Barcelona,Osasuna,70,Ousmane Dembélé,offside,T1 explicit overturn wording
+A208,2,2018-19,WbcbyS2D,2019-05-18,Getafe,Villarreal,22,Hugo Duro,offside,T1 explicit overturn wording
+A209,1,2025-26,lWVe0pQj,2026-03-22,Celta de Vigo,Deportivo Alavés,56,Galiano Javier Rodriguez,Foul,T1 explicit overturn wording
+A210,2,2025-26,dbzBvQ97,2025-11-08,Levante,Atlético de Madrid,90,Carlos Álvarez,offside,T1 explicit overturn wording
+A211,1,2023-24,zDm46KYr,2023-08-26,Sevilla,Girona,61,Ivan Rakitić,offside,T1 explicit overturn wording
+A212,2,2022-23,bun53pcS,2022-10-29,Valencia,FC Barcelona,50,Samuel Lino,handball,T1 explicit overturn wording
+A213,1,2023-24,rP3c4p0c,2024-03-01,Celta de Vigo,Almería,20,Jonathan Bamba,offside,T1 explicit overturn wording
+A214,1,2022-23,ETD1G0Bc,2023-04-23,Villarreal,Sevilla,45,Nicolas Jackson,offside,T1 explicit overturn wording
+A215,1,2026-27,EXneuDoD,2026-08-26,Real Madrid,Real Sociedad,90,Brahim Díaz,offside,T1 explicit overturn wording
+A216,2,2022-23,ngfK3NRi,2023-04-15,Espanyol,Real Betis,95,Martin Braithwaite,offside,T1 explicit overturn wording
+A217,2,2021-22,bsu6DD29,2022-01-18,Cádiz,Espanyol,80,Álvaro Negredo,Foul,T1 explicit overturn wording
+A218,1,2023-24,IglNE3r0,2023-09-17,Sevilla,Las Palmas,68,Youssef En-Nesyri,video review,T1 explicit overturn wording
+A219,2,2023-24,nJVGueOk,2024-04-26,Real Sociedad,Real Madrid,32,Takefusa Kubo,Foul,T1 explicit overturn wording
+A220,1,2021-22,OSrwgnLP,2021-10-03,Celta de Vigo,Elche,90,Iago Aspas,handball,T1 explicit overturn wording
+A221,1,2025-26,QL8zvv16,2025-09-27,Atlético de Madrid,Real Madrid,44,Clément Lenglet,handball,T1 explicit overturn wording
+A222,1,2023-24,UkJchAWL,2023-10-08,FC Barcelona,Granada,94,João Félix,offside,"T2 VAR wording, initial decision unclear"
+A223,2,2025-26,fXtpkxvB,2026-04-26,Rayo Vallecano,Real Sociedad,24,Carlos Martín,handball,T1 explicit overturn wording
+A224,2,2018-19,pGA8OP7m,2018-08-27,Huesca,Athletic Club,8,Samuele Longo,offside,T1 explicit overturn wording
+A225,1,2024-25,f9rqaNdt,2025-03-30,Villarreal,Getafe,47,Thierno Barry,handball,T1 explicit overturn wording
+A226,1,2022-23,bgDwYAK9,2023-03-05,Real Madrid,Real Betis,12,Karim Benzema,handball,T1 explicit overturn wording
+A227,1,2021-22,v75lydwJ,2022-01-09,Villarreal,Atlético de Madrid,25,Daniel Parejo,handball,T1 explicit overturn wording
+A228,2,2022-23,48qap5jj,2022-10-22,Real Sociedad,Real Valladolid,45,Takefusa Kubo,Foul,T1 explicit overturn wording
+A229,1,2023-24,xSvkKYwM,2024-01-21,FC Barcelona,Real Betis,46,Robert Lewandowski,offside,T1 explicit overturn wording
+A230,2,2024-25,Gz9WD123,2024-10-18,Deportivo Alavés,Real Valladolid,51,Jon Guridi,offside,T1 explicit overturn wording
+A231,2,2026-27,tIPbVVIs,2026-09-06,Espanyol,Sevilla,62,Omar El Hilali,offside,T1 explicit overturn wording
+A232,1,2020-21,lMh3ltuU,2021-03-21,FC Barcelona,Real Sociedad,67,Ousmane Dembélé,offside,"T2 VAR wording, initial decision unclear"
+A233,1,2024-25,CE0hJiFM,2025-01-19,Real Madrid,Las Palmas,73,Jude Bellingham,offside,T1 explicit overturn wording
+A234,2,2020-21,6uhOm9lJ,2021-03-13,Osasuna,Real Valladolid,37,Jonathan Calleri,offside,T1 explicit overturn wording
+A235,1,2021-22,fTdRfN83,2022-03-05,Real Madrid,Real Sociedad,69,Karim Benzema,offside,"T2 VAR wording, initial decision unclear"
+A236,2,2020-21,YuiypxCB,2020-11-08,Valencia,Real Madrid,30,Yunus Musah,video review,T1 explicit overturn wording
+A237,2,2021-22,4jMVhipn,2021-10-26,Elche,Deportivo Alavés,81,Guido Carrillo,offside,T1 explicit overturn wording
+A238,2,2018-19,4lViBJRg,2019-04-14,Real Valladolid,Getafe,75,Waldo Rubio,offside,T1 explicit overturn wording
+A239,2,2025-26,Asx3tnue,2025-11-09,Oviedo,Athletic Club,28,Santiago Colombatto,offside,T1 explicit overturn wording
+A240,1,2024-25,AT8wkOGr,2025-02-15,Villarreal,Valencia,72,Nicolas Pépé,offside,T1 explicit overturn wording
+A241,1,2022-23,KQrS2dal,2023-06-04,FC Barcelona,Celta de Vigo,11,Franck Kessié,offside,T1 explicit overturn wording
+A242,2,2023-24,txwTE7xN,2024-05-25,Real Betis,Real Madrid,39,Johnny Cardoso,offside,T1 explicit overturn wording
+A243,1,2021-22,U9cia8P8,2022-01-08,FC Barcelona,Granada,10,Luuk de Jong,offside,T1 explicit overturn wording
+A244,2,2024-25,vJBRz8FE,2025-04-13,Girona,Osasuna,68,Christian Stuani,offside,T1 explicit overturn wording
+A245,1,2018-19,80MYuyWi,2019-03-16,Real Madrid,Celta de Vigo,56,Luka Modric,offside,T1 explicit overturn wording
+A246,1,2024-25,Q9Qr0OrQ,2025-04-20,Villarreal,Real Sociedad,96,Etta Eyong,Foul,T1 explicit overturn wording
+A247,2,2024-25,hzRnqjcC,2024-10-06,Deportivo Alavés,FC Barcelona,45,Toni Martínez,offside,T1 explicit overturn wording
+A248,2,2021-22,WpW4YrFF,2022-05-14,Espanyol,Valencia,43,Javi Puado,offside,T1 explicit overturn wording
+A249,2,2023-24,SQMBPauL,2023-09-03,Girona,Las Palmas,30,Álex Suárez,offside,T1 explicit overturn wording
+A250,2,2023-24,r15X6hvn,2024-05-19,Real Betis,Real Sociedad,79,Ayoze Pérez,handball,T1 explicit overturn wording
+A251,1,2024-25,QekfJmLa,2024-08-23,Villarreal,Sevilla,69,Santi Comesaña,offside,T1 explicit overturn wording
+A252,1,2018-19,z53LLNi6,2018-08-31,Villarreal,Girona,35,Gerard Moreno,offside,"T2 VAR wording, initial decision unclear"
+A253,2,2023-24,AuLcmX78,2024-02-03,Girona,Real Sociedad,24,Yangel Herrera,offside,T1 explicit overturn wording
+A254,2,2023-24,nwnxNzf3,2024-01-21,Almería,Real Madrid,61,Sergio Arribas,Foul,T1 explicit overturn wording
+A255,2,2019-20,804dWQm3,2020-07-19,Getafe,Levante,52,Ángel Rodríguez,Foul,"T2 VAR wording, initial decision unclear"
+A256,2,2023-24,faNngEhk,2024-05-04,Real Sociedad,Las Palmas,50,Jon Pacheco,offside,T1 explicit overturn wording
+A257,2,2019-20,Kx1vCbiR,2019-08-30,Real Sociedad,Athletic Club,63,Alexander Isak,offside,"T2 VAR wording, initial decision unclear"
+A258,1,2023-24,063J5lsJ,2024-03-30,FC Barcelona,Las Palmas,19,Raphinha,offside,T1 explicit overturn wording
+A259,1,2021-22,GAmGRXc0,2022-05-22,Sevilla,Athletic Club,51,Karim Rekik,offside,T1 explicit overturn wording
+A260,2,2021-22,CKuxYg2q,2022-04-19,Deportivo Alavés,Mallorca,5,Florian Lejeune,handball,T1 explicit overturn wording
+A261,2,2020-21,nXCeJ0v4,2021-04-10,Deportivo Alavés,Athletic Club,45,Joselu,offside,T1 explicit overturn wording
+A262,2,2022-23,zFQ1otCN,2023-04-08,Elche,Osasuna,50,Lucas Boyé,handball,T1 explicit overturn wording
+A263,1,2024-25,nDzACNof,2024-08-16,Celta de Vigo,Deportivo Alavés,43,Iago Aspas,offside,T1 explicit overturn wording
+A264,2,2024-25,xjut9IFr,2024-09-19,Leganés,Athletic Club,67,Sébastien Haller,offside,T1 explicit overturn wording
+A265,1,2025-26,OlnkZ9GU,2025-10-26,Real Madrid,FC Barcelona,12,Kylian Mbappé,offside,T1 explicit overturn wording
+A266,1,2019-20,vTOQivFm,2020-07-05,FC Barcelona,Villarreal,69,Lionel Messi,offside,T1 explicit overturn wording
+A267,1,2024-25,2HhL0zYp,2025-04-06,Villarreal,Athletic Club,75,Thierno Barry,handball,T1 explicit overturn wording
+A268,1,2023-24,f3kpLEOF,2024-01-22,Atlético de Madrid,Granada,62,Saúl Ñíguez,offside,T1 explicit overturn wording
+A269,2,2025-26,A10pgPO0,2025-11-08,Deportivo Alavés,Girona,53,Antonio Blanco,offside,T1 explicit overturn wording
+A270,1,2022-23,YwYWzJZc,2023-02-02,Real Madrid,Valencia,48,Antonio Rüdiger,Foul,T1 explicit overturn wording
+A271,2,2023-24,CzAy6Cgh,2024-05-19,Cádiz,Las Palmas,37,Javier Hernández,offside,T1 explicit overturn wording
+A272,1,2021-22,fuFrjkU4,2021-10-27,Sevilla,Mallorca,96,Lucas Ocampos,handball,T1 explicit overturn wording
+A273,2,2024-25,bgZVCzz0,2024-12-01,Girona,Villarreal,90,Christian Stuani,offside,T1 explicit overturn wording
+A274,2,2022-23,UsiMPnSk,2023-03-04,Mallorca,Elche,97,Vedat Muriqi,Foul,T1 explicit overturn wording
+A275,2,2020-21,v9Wx6ync,2021-01-19,Deportivo Alavés,Sevilla,83,Ximo Navarro,handball,T1 explicit overturn wording
+A276,2,2021-22,nFkXAlHi,2022-05-10,Granada,Athletic Club,95,Luis Suárez,offside,T1 explicit overturn wording
+A277,2,2022-23,vTbT0zU0,2023-06-04,Elche,Cádiz,29,Morente Tete,offside,T1 explicit overturn wording
+A278,2,2019-20,dEQvU6n0,2019-12-08,Eibar,Getafe,54,Kike,handball,T1 explicit overturn wording
+A279,2,2019-20,MD5RY4iB,2020-06-21,Valencia,Osasuna,3,Rodrigo,offside,T1 explicit overturn wording
+A280,1,2023-24,f1Sfz0nA,2024-04-21,FC Barcelona,Real Madrid,28,Lamine Yamal,video review,"T2 VAR wording, initial decision unclear"
+A281,2,2022-23,48qap5jj,2022-10-22,Real Valladolid,Real Sociedad,11,Monchu,Foul,T1 explicit overturn wording
+A282,2,2022-23,48Lpe7nI,2022-08-29,Valencia,Atlético de Madrid,24,Yunus Musah,Foul,T1 explicit overturn wording
+A283,1,2019-20,hYV97ShC,2020-06-16,FC Barcelona,Leganés,65,Antoine Griezmann,offside,T1 explicit overturn wording
+A284,2,2021-22,GAmGRXc0,2022-05-22,Athletic Club,Sevilla,27,Yuri Berchiche,handball,T1 explicit overturn wording
+A285,1,2020-21,votU3zc7,2021-05-22,Real Madrid,Villarreal,58,Karim Benzema,offside,"T2 VAR wording, initial decision unclear"
+A286,1,2018-19,ph2eHxy1,2019-01-13,Atlético de Madrid,Levante,10,Koke,Foul,T1 explicit overturn wording
+A287,2,2022-23,lWZGXR6p,2022-10-19,Mallorca,Real Sociedad,58,Amath Ndiaye,Foul,T1 explicit overturn wording
+A288,1,2023-24,feqrO7LD,2023-09-16,Celta de Vigo,Mallorca,69,Jonathan Bamba,video review,T1 explicit overturn wording
+A289,1,2019-20,YL6qAivU,2019-11-02,FC Barcelona,Levante,74,Lionel Messi,offside,T1 explicit overturn wording
+A290,2,2020-21,KUn7NcIN,2020-12-30,Granada,Valencia,15,Kenedy,Foul,T1 explicit overturn wording
+A291,1,2024-25,pxdwg6Pp,2024-09-22,Villarreal,FC Barcelona,68,Thierno Barry,offside,T1 explicit overturn wording
+A292,2,2022-23,hfVSqNyC,2023-05-12,Mallorca,Cádiz,96,Kangin Lee,offside,T1 explicit overturn wording
+A293,2,2024-25,hdCcelFl,2025-05-24,Leganés,Real Valladolid,33,Seydouba Cissé,offside,T1 explicit overturn wording
+A294,2,2020-21,QueQ83Sj,2020-10-25,Deportivo Alavés,Real Valladolid,35,Lucas Pérez,offside,T1 explicit overturn wording
+A295,2,2019-20,E1N593tj,2020-07-19,Espanyol,Celta de Vigo,47,Adri Embarba,video review,T1 explicit overturn wording
+A296,1,2021-22,bceIgmnH,2022-05-08,Villarreal,Sevilla,54,,offside,T1 explicit overturn wording
+A297,1,2022-23,K8wWyExr,2023-03-19,Villarreal,Osasuna,18,Samuel Chukwueze,offside,T1 explicit overturn wording
+A298,2,2023-24,GMRyAZcO,2023-11-11,Real Sociedad,Almería,58,Beñat Turrientes,handball,T1 explicit overturn wording
+A299,1,2020-21,pCffQaY4,2020-12-29,FC Barcelona,Eibar,25,Martin Braithwaite,offside,T1 explicit overturn wording
+A300,2,2025-26,2Zc89l34,2026-03-21,Espanyol,Getafe,15,Cyril Ngonge,offside,T1 explicit overturn wording
+A301,1,2020-21,zN2Hf2qD,2021-01-23,Sevilla,Cádiz,65,Youssef En-Nesyri,offside,T1 explicit overturn wording
+A302,2,2019-20,6ybSepCj,2020-07-16,Levante,Celta de Vigo,14,Borja Mayoral,offside,T1 explicit overturn wording
+A303,2,2021-22,r5aAB6kC,2022-04-09,Real Betis,Cádiz,16,Sergio Canales,offside,"T2 VAR wording, initial decision unclear"
+A304,2,2020-21,O0ljrYgj,2021-01-10,Valencia,Real Valladolid,87,Manu Vallejo,offside,T1 explicit overturn wording
+A305,2,2019-20,804dWQm3,2020-07-19,Levante,Getafe,40,Roger,offside,"T2 VAR wording, initial decision unclear"
+A306,2,2023-24,QyPzUZm4,2023-09-28,Real Betis,Granada,60,Ayoze Pérez,offside,T1 explicit overturn wording
+A307,1,2020-21,6wNH73uh,2021-03-21,Villarreal,Cádiz,48,Carlos Bacca,offside,T1 explicit overturn wording
+A308,2,2022-23,dtXdBvfD,2022-09-30,Athletic Club,Almería,50,Iñaki Williams,offside,T1 explicit overturn wording
+A309,1,2023-24,S6Qxjal2,2023-08-25,Celta de Vigo,Real Madrid,3,Jorgen Larsen,Foul,T1 explicit overturn wording
+A310,2,2022-23,Iic3rU2C,2022-08-22,Getafe,Girona,57,Enes Ünal,Foul,T1 explicit overturn wording
+A311,1,2023-24,8SWCty9q,2024-04-28,Villarreal,Rayo Vallecano,30,Alexander Sorloth,offside,T1 explicit overturn wording
+A312,2,2019-20,804dWQm3,2020-07-19,Getafe,Levante,15,Jaime Mata,offside,T3 no explicit VAR text
+A313,2,2024-25,4b0xTYZQ,2025-05-10,Real Valladolid,Mallorca,54,Cenk Özkacar,offside,T1 explicit overturn wording
+A314,2,2022-23,42rIJH4N,2023-01-08,Getafe,Sevilla,41,Enes Ünal,offside,T1 explicit overturn wording
+A315,2,2022-23,2uVLNgsi,2022-09-17,Rayo Vallecano,Athletic Club,63,Sergio Camello,offside,T1 explicit overturn wording
+A316,2,2025-26,bJjTc8BL,2025-12-07,Espanyol,Rayo Vallecano,82,Kike,offside,T1 explicit overturn wording
+A317,1,2023-24,2a3iv2kj,2023-08-19,Real Madrid,Almería,50,Toni Kroos,Foul,T1 explicit overturn wording
+A318,2,2025-26,bZ6uvreT,2026-02-07,Real Sociedad,Elche,52,Pablo Marín,offside,T1 explicit overturn wording
+A319,1,2019-20,4ODznBX4,2019-08-17,Celta de Vigo,Real Madrid,45,Iago Aspas,offside,T1 explicit overturn wording
+A320,1,2020-21,0vwoNlvn,2021-02-13,FC Barcelona,Deportivo Alavés,36,Lionel Messi,offside,T1 explicit overturn wording
+A321,1,2018-19,lGu8QAle,2019-05-12,Atlético de Madrid,Sevilla,62,Ángel Correa,offside,T1 explicit overturn wording
+A322,2,2018-19,SlNSjwSJ,2019-01-20,Real Valladolid,Levante,48,Óscar Plano,offside,"T2 VAR wording, initial decision unclear"
+A323,1,2019-20,t4TOWgpi,2019-09-25,Real Madrid,Osasuna,58,Luka Jovic,offside,T1 explicit overturn wording
+A324,2,2022-23,Cp5jCTcj,2023-02-26,Osasuna,Sevilla,22,Enrique Barja,offside,T1 explicit overturn wording
+A325,2,2025-26,QHA7Rlfn,2025-09-14,Real Betis,Levante,23,Sergi Altimira,Foul,T1 explicit overturn wording
+A326,1,2024-25,0b75dFkJ,2024-11-30,Atlético de Madrid,Real Valladolid,48,Jose Gimenez,offside,T1 explicit overturn wording
+A327,2,2023-24,UiSUHNe2,2023-12-02,Athletic Club,Rayo Vallecano,14,Gorka Guruzeta,offside,T1 explicit overturn wording
+A328,1,2019-20,bk7D1FrC,2020-07-11,Atlético de Madrid,Real Betis,22,Ángel Correa,handball,T1 explicit overturn wording
+A329,1,2024-25,OAmz0KLU,2024-09-22,Celta de Vigo,Athletic Club,37,Iago Aspas,offside,T1 explicit overturn wording
+A330,2,2019-20,2s0KLTyj,2019-09-29,Real Valladolid,Espanyol,67,Joaquin Fernandez,offside,T1 explicit overturn wording
+A331,1,2021-22,n7oyGi6H,2021-09-12,Atlético de Madrid,Espanyol,53,Thomas Lemar,offside,T1 explicit overturn wording
+A332,1,2022-23,MN0FTL9s,2022-10-08,Real Madrid,Getafe,57,Rodrygo,offside,T1 explicit overturn wording
+A333,2,2025-26,fXtpkxvB,2026-04-26,Rayo Vallecano,Real Sociedad,69,Pedro Díaz,Foul,T1 explicit overturn wording
+A334,2,2021-22,vLpNkehC,2021-08-21,Granada,Valencia,92,Ángel Montoro,offside,T1 explicit overturn wording
+A335,1,2024-25,pxdwg6Pp,2024-09-22,Villarreal,FC Barcelona,8,Yeremi Santos,offside,T1 explicit overturn wording
+A336,2,2024-25,2ZFxC5T0,2025-05-11,Espanyol,Leganés,92,Walid Cheddira,offside,T1 explicit overturn wording
+A337,1,2022-23,08pcuYQq,2023-01-21,Sevilla,Cádiz,47,Erik Lamela,offside,T1 explicit overturn wording
+A338,2,2025-26,b9Nl5KgS,2026-02-14,Deportivo Alavés,Sevilla,65,Lucas Boyé,offside,T1 explicit overturn wording
+A339,2,2018-19,A5j4QeW4,2019-03-10,Real Valladolid,Real Madrid,14,Sergio Guardiola,offside,T1 explicit overturn wording
+A340,1,2023-24,tjdJOgUE,2023-12-03,Villarreal,Sevilla,95,Ben Brereton,Foul,T1 explicit overturn wording
+A341,1,2021-22,4G5EgYTQ,2022-03-13,Sevilla,Rayo Vallecano,11,Rafael Mir,handball,T1 explicit overturn wording
+A342,2,2020-21,8pQXwmwo,2021-05-07,Real Sociedad,Elche,27,Nacho Monreal,offside,"T2 VAR wording, initial decision unclear"
+A343,1,2020-21,nDEoBc3s,2021-04-25,Celta de Vigo,Osasuna,53,Nolito,offside,T1 explicit overturn wording
+A344,2,2018-19,YVB7r0H9,2018-11-03,Valencia,Girona,34,,video review,T3 no explicit VAR text
+A345,2,2019-20,rVlMtpW5,2019-12-14,Eibar,Athletic Club,73,Roberto Correa,offside,T1 explicit overturn wording
+A346,2,2020-21,bJYopu7m,2020-12-06,Osasuna,Real Betis,14,Ante Budimir,offside,"T2 VAR wording, initial decision unclear"
+A347,1,2024-25,IBeZ9vBb,2025-04-05,Real Madrid,Valencia,21,Mouctar Diakhaby,offside,T1 explicit overturn wording
+A348,1,2025-26,Y7c6bjQa,2025-08-30,Real Madrid,Mallorca,46,Kylian Mbappé,offside,T1 explicit overturn wording
+A349,2,2020-21,j1LjjHS7,2021-05-16,Real Sociedad,Real Valladolid,51,Portu,offside,T1 explicit overturn wording
+A350,1,2023-24,EgP7mLpf,2023-10-21,Real Madrid,Sevilla,4,Federico Valverde,offside,T1 explicit overturn wording
+A351,2,2024-25,E595Qvn9,2024-10-28,Athletic Club,Mallorca,44,Nico Williams,video review,T1 explicit overturn wording
+A352,2,2021-22,8d2POLlk,2021-09-22,Espanyol,Deportivo Alavés,18,Raúl de Tomás,offside,T1 explicit overturn wording
+A353,1,2022-23,MsoNLXB3,2022-09-17,FC Barcelona,Elche,41,Pedri,offside,"T2 VAR wording, initial decision unclear"
+A354,1,2024-25,IRwmu8lA,2025-03-08,Celta de Vigo,Leganés,88,Pablo Durán,offside,T1 explicit overturn wording
+A355,2,2023-24,2PQfihN1,2024-05-11,Athletic Club,Osasuna,38,Iker Muniain,offside,T1 explicit overturn wording
+A356,2,2019-20,GAF6wTxt,2020-06-20,Eibar,Getafe,86,Pedro Bigas,offside,T1 explicit overturn wording
+A357,1,2021-22,Qwl7hrj3,2021-10-31,Atlético de Madrid,Real Betis,50,Mario Hermoso,offside,T1 explicit overturn wording
+A358,2,2021-22,Cp7O1VLm,2022-03-19,Elche,Valencia,67,Enzo Roco,offside,T1 explicit overturn wording
+A359,2,2024-25,Ii5Z8q8E,2025-02-23,Real Valladolid,Athletic Club,34,Mamadou Sylla,offside,T1 explicit overturn wording
+A360,2,2018-19,rZOApWuR,2019-05-12,Eibar,Villarreal,87,Kike,offside,"T2 VAR wording, initial decision unclear"
+A361,1,2023-24,8CWOdvtb,2024-01-03,Atlético de Madrid,Girona,46,Álvaro Morata,offside,T1 explicit overturn wording
+A362,1,2024-25,CE0hJiFM,2025-01-19,Real Madrid,Las Palmas,42,Kylian Mbappé,offside,T1 explicit overturn wording
+A363,2,2026-27,SC0Jfnng,2026-09-12,Osasuna,Espanyol,18,Rubén García,video review,T1 explicit overturn wording
+A364,2,2024-25,SM0npHPF,2024-08-31,Athletic Club,Atlético de Madrid,47,Nico Williams,offside,T1 explicit overturn wording
+A365,1,2025-26,lrfI9upL,2026-01-24,Sevilla,Athletic Club,22,Nemanja Gudelj,Foul,T1 explicit overturn wording
+A366,1,2025-26,YD2c1sID,2025-12-13,Atlético de Madrid,Valencia,78,Alexander Sorloth,offside,T1 explicit overturn wording
+A367,2,2021-22,Ea8xvbg0,2022-01-08,Real Sociedad,Celta de Vigo,62,Aritz Elustondo,offside,T1 explicit overturn wording
+A368,1,2019-20,Qw2tnFRR,2020-06-26,Sevilla,Real Valladolid,55,Munir El Haddadi,offside,T1 explicit overturn wording
+A369,1,2026-27,Au6uQzs2,2026-09-04,Real Madrid,Real Betis,87,Carlos Espí,offside,T1 explicit overturn wording
+A370,2,2022-23,YJ9KimbG,2022-10-23,Real Betis,Atlético de Madrid,48,Luiz Henrique,offside,T1 explicit overturn wording
+A371,2,2023-24,vcjcziTQ,2023-12-09,Deportivo Alavés,Las Palmas,73,Samu Omorodion,offside,"T2 VAR wording, initial decision unclear"
+A372,2,2018-19,pSz9m1Hd,2019-02-09,Espanyol,Rayo Vallecano,87,Sergi Darder,offside,T1 explicit overturn wording
+A373,1,2024-25,KApUeTtI,2024-10-05,Celta de Vigo,Las Palmas,17,Williot Swedberg,offside,T1 explicit overturn wording
+A374,2,2020-21,6yWioCYc,2020-09-29,Real Sociedad,Valencia,95,Robin Le Normand,handball,T1 explicit overturn wording
+A375,1,2024-25,n1v9mjW7,2024-09-01,Sevilla,Girona,43,Chidera Ejuke,offside,T1 explicit overturn wording
+A376,1,2018-19,QVefI334,2018-10-20,Real Madrid,Levante,18,Marco Asensio,offside,T3 no explicit VAR text
+A377,2,2024-25,xdSnotG7,2025-02-15,Leganés,Deportivo Alavés,82,Sergio González,offside,"T2 VAR wording, initial decision unclear"
+A378,1,2024-25,8Ohqd6Bs,2024-12-04,Real Madrid,Athletic Club,14,Kylian Mbappé,offside,T1 explicit overturn wording
+A379,1,2020-21,Qwngqj3A,2020-10-01,Sevilla,Levante,67,Munir El Haddadi,Foul,T1 explicit overturn wording
+A380,1,2021-22,Imcqc7zJ,2022-04-02,Celta de Vigo,Real Madrid,39,Thiago Galhardo,offside,T1 explicit overturn wording
+A381,2,2020-21,SU2KmfWS,2021-01-10,Levante,Eibar,55,Nemanja Radoja,offside,T1 explicit overturn wording
+A382,1,2023-24,jqWVwBHS,2023-10-02,Celta de Vigo,Las Palmas,34,Jorgen Larsen,Foul,T1 explicit overturn wording
+A383,2,2023-24,vcjcziTQ,2023-12-09,Deportivo Alavés,Las Palmas,53,Samu Omorodion,offside,T1 explicit overturn wording
+A384,1,2018-19,IPGOddyR,2018-09-26,Real Madrid,Sevilla,54,Luka Modric,offside,T1 explicit overturn wording
+A385,2,2022-23,OpKzhdha,2022-10-20,Girona,Almería,97,Yangel Herrera,Foul,T1 explicit overturn wording
+A386,1,2021-22,C603Jfmj,2022-04-17,Real Madrid,Sevilla,76,Vinícius Júnior,handball,"T2 VAR wording, initial decision unclear"
+A387,2,2018-19,OO8vU61N,2018-09-14,Rayo Vallecano,Huesca,62,Raúl de Tomás,Foul,T1 explicit overturn wording
+A388,2,2020-21,fyTmP9fs,2020-09-13,Levante,Valencia,20,Gonzalo Melero,handball,T1 explicit overturn wording
+A389,1,2018-19,Ee2PKs7C,2018-09-01,Celta de Vigo,Atlético de Madrid,74,Gustavo Cabral,offside,"T2 VAR wording, initial decision unclear"
+A390,2,2025-26,jHXmS8Xj,2026-05-09,Real Sociedad,Real Betis,63,Jon Gorrotxategi,offside,T1 explicit overturn wording
+A391,1,2020-21,lzfxkDon,2021-05-01,Atlético de Madrid,Elche,16,Luis Suárez,offside,T1 explicit overturn wording
+A392,1,2024-25,jcVWEQhe,2025-04-13,Real Madrid,Deportivo Alavés,19,Raúl Asencio,Foul,T1 explicit overturn wording
+A393,2,2026-27,O4LEM1zA,2026-08-29,Real Betis,Levante,17,Troy Parrott,offside,T1 explicit overturn wording
+A394,1,2023-24,UPVu9gDU,2023-11-10,Celta de Vigo,Athletic Club,63,Jorgen Larsen,offside,T1 explicit overturn wording

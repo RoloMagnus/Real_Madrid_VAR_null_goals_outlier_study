@@ -1,0 +1,395 @@
+﻿season,fs_id,date,team,opponent,venue,player_full,minute_num,reason_fs,tier,espn_ok,text_var,referee_full
+2018-19,WbcbyS2D,2019-05-18,Getafe,Villarreal,Home,Hugo Duro,22,offside,T1 explicit overturn wording,True,True,Estrada Fernández
+2018-19,zDy4RjZl,2019-05-12,Athletic Club,Celta de Vigo,Home,Iñaki Williams,80,offside,T1 explicit overturn wording,False,True,Estrada Fernández
+2018-19,lGu8QAle,2019-05-12,Atlético de Madrid,Sevilla,Home,Ángel Correa,62,offside,T1 explicit overturn wording,False,True,De Burgos Bengoetxea
+2018-19,rZOApWuR,2019-05-12,Eibar,Villarreal,Away,Kike,87,offside,"T2 VAR wording, initial decision unclear",True,True,Pablo González Fuertes
+2018-19,rF0TXhdL,2019-05-04,Celta de Vigo,FC Barcelona,Home,Néstor Araujo,51,offside,T1 explicit overturn wording,True,True,José María Sánchez Martínez
+2018-19,QuiS8oNh,2019-04-21,Espanyol,Levante,Away,Marc Roca,45,handball,T1 explicit overturn wording,True,True,Jesús Gil Manzano
+2018-19,rHoX75xa,2019-04-20,Rayo Vallecano,Huesca,Home,Raúl de Tomás,52,offside,T1 explicit overturn wording,True,True,González González
+2018-19,nDbRfbsD,2019-04-14,Girona,Villarreal,Home,Patrick Roberts,17,offside,T1 explicit overturn wording,True,True,Adrián Cordero Vega
+2018-19,QcAIdKC0,2019-04-14,Rayo Vallecano,Athletic Club,Away,Mario Suárez,66,offside,T1 explicit overturn wording,True,True,Juan Martínez Munuera
+2018-19,4lViBJRg,2019-04-14,Real Valladolid,Getafe,Home,Waldo Rubio,75,offside,T1 explicit overturn wording,True,True,José Luis Munuera Montero
+2018-19,dO5Ec0cf,2019-04-07,Sevilla,Real Valladolid,Away,Wissam Ben Yedder,33,Foul,T1 explicit overturn wording,True,True,José María Sánchez Martínez
+2018-19,Q1SXlWEM,2019-03-31,Real Valladolid,Real Sociedad,Home,Olivas Kiko,85,offside,T1 explicit overturn wording,True,True,Javier Alberola Rojas
+2018-19,jPBwueob,2019-03-17,Valencia,Getafe,Home,Gonçalo Guedes,53,offside,T1 explicit overturn wording,True,True,José María Sánchez Martínez
+2018-19,80MYuyWi,2019-03-16,Real Madrid,Celta de Vigo,Home,Luka Modric,56,offside,T1 explicit overturn wording,True,True,Juan Martínez Munuera
+2018-19,A5j4QeW4,2019-03-10,Real Valladolid,Real Madrid,Home,Sergio Guardiola,14,offside,T1 explicit overturn wording,True,True,Jesús Gil Manzano
+2018-19,4hL3SH1h,2019-03-10,Levante,Villarreal,Home,Rubén Rochina,29,offside,"T2 VAR wording, initial decision unclear",True,True,José María Sánchez Martínez
+2018-19,dUn2Aqt7,2019-03-02,Sevilla,Huesca,Away,Munir El Haddadi,91,offside,T1 explicit overturn wording,True,True,De Burgos Bengoetxea
+2018-19,pSz9m1Hd,2019-02-09,Espanyol,Rayo Vallecano,Home,Sergi Darder,87,offside,T1 explicit overturn wording,True,True,Eduardo Prieto Iglesias
+2018-19,bccSzOXj,2019-02-01,Real Valladolid,Huesca,Away,Óscar Plano,74,offside,T1 explicit overturn wording,True,True,José Luis Munuera Montero
+2018-19,SlNSjwSJ,2019-01-20,Real Valladolid,Levante,Away,Óscar Plano,48,offside,"T2 VAR wording, initial decision unclear",True,True,Santiago Jaime Latre
+2018-19,ph2eHxy1,2019-01-13,Atlético de Madrid,Levante,Home,Koke,10,Foul,T1 explicit overturn wording,True,True,Eduardo Prieto Iglesias
+2018-19,l4gxnfua,2018-12-10,Girona,Athletic Club,Away,Christian Stuani,20,handball,T1 explicit overturn wording,True,True,Eduardo Prieto Iglesias
+2018-19,YVB7r0H9,2018-11-03,Valencia,Girona,Home,,34,video review,T3 no explicit VAR text,True,False,Javier Alberola Rojas
+2018-19,n1YQVMX3,2018-10-28,Sevilla,Huesca,Home,Daniel Carriço,22,offside,"T2 VAR wording, initial decision unclear",True,True,Medié Jiménez
+2018-19,n1YQVMX3,2018-10-28,Sevilla,Huesca,Home,Wissam Ben Yedder,26,Foul,T1 explicit overturn wording,True,True,Medié Jiménez
+2018-19,QVefI334,2018-10-20,Real Madrid,Levante,Home,Marco Asensio,18,offside,T3 no explicit VAR text,True,False,Guillermo Cuadra Fernández
+2018-19,ImsCICcm,2018-10-07,Real Valladolid,Huesca,Home,Leonardo Suarez,51,offside,T1 explicit overturn wording,True,True,Mateu Lahoz
+2018-19,IPGOddyR,2018-09-26,Real Madrid,Sevilla,Away,Luka Modric,54,offside,T1 explicit overturn wording,True,True,Alejandro Hernández Hernández
+2018-19,OO8vU61N,2018-09-14,Rayo Vallecano,Huesca,Away,Raúl de Tomás,62,Foul,T1 explicit overturn wording,True,True,Medié Jiménez
+2018-19,Ee2PKs7C,2018-09-01,Celta de Vigo,Atlético de Madrid,Home,Gustavo Cabral,74,offside,"T2 VAR wording, initial decision unclear",True,True,Mateu Lahoz
+2018-19,z53LLNi6,2018-08-31,Villarreal,Girona,Home,Gerard Moreno,35,offside,"T2 VAR wording, initial decision unclear",True,True,Eduardo Prieto Iglesias
+2018-19,pGA8OP7m,2018-08-27,Huesca,Athletic Club,Away,Samuele Longo,8,offside,T1 explicit overturn wording,False,True,Javier Alberola Rojas
+2019-20,E1N593tj,2020-07-19,Espanyol,Celta de Vigo,Home,Adri Embarba,47,video review,T1 explicit overturn wording,True,True,Adrián Cordero Vega
+2019-20,804dWQm3,2020-07-19,Getafe,Levante,Away,Jaime Mata,15,offside,T3 no explicit VAR text,False,False,De Burgos Bengoetxea
+2019-20,804dWQm3,2020-07-19,Getafe,Levante,Away,Ángel Rodríguez,34,offside,T1 explicit overturn wording,False,True,De Burgos Bengoetxea
+2019-20,804dWQm3,2020-07-19,Levante,Getafe,Home,Roger,40,offside,"T2 VAR wording, initial decision unclear",False,True,De Burgos Bengoetxea
+2019-20,804dWQm3,2020-07-19,Getafe,Levante,Away,Ángel Rodríguez,52,Foul,"T2 VAR wording, initial decision unclear",False,True,De Burgos Bengoetxea
+2019-20,2N30Vp39,2020-07-19,Osasuna,Mallorca,Home,José Arnaiz,91,Foul,T1 explicit overturn wording,False,True,Mateu Lahoz
+2019-20,6ybSepCj,2020-07-16,Levante,Celta de Vigo,Away,Borja Mayoral,14,offside,T1 explicit overturn wording,True,True,José Luis Munuera Montero
+2019-20,6ybSepCj,2020-07-16,Celta de Vigo,Levante,Home,Nolito,92,offside,T1 explicit overturn wording,True,True,José Luis Munuera Montero
+2019-20,G6uJI7J3,2020-07-16,Granada,Mallorca,Away,Antonio Puertas,97,offside,T1 explicit overturn wording,False,True,Estrada Fernández
+2019-20,fcvNHRY9,2020-07-16,Real Madrid,Villarreal,Home,Marco Asensio,96,handball,T1 explicit overturn wording,True,True,Alejandro Hernández Hernández
+2019-20,nF392eT5,2020-07-13,Getafe,Deportivo Alavés,Away,Hugo Duro,88,handball,T1 explicit overturn wording,True,True,Pablo González Fuertes
+2019-20,bk7D1FrC,2020-07-11,Atlético de Madrid,Real Betis,Home,Ángel Correa,22,handball,T1 explicit overturn wording,True,True,González González
+2019-20,bk7D1FrC,2020-07-11,Atlético de Madrid,Real Betis,Home,Álvaro Morata,36,offside,T1 explicit overturn wording,True,True,González González
+2019-20,vTOQivFm,2020-07-05,FC Barcelona,Villarreal,Away,Lionel Messi,69,offside,T1 explicit overturn wording,True,True,Carlos del Cerro Grande
+2019-20,biMJaYeR,2020-07-02,Real Sociedad,Espanyol,Home,Willian José,5,offside,T1 explicit overturn wording,True,True,José María Sánchez Martínez
+2019-20,Qw2tnFRR,2020-06-26,Sevilla,Real Valladolid,Home,Munir El Haddadi,55,offside,T1 explicit overturn wording,True,True,Valentin Pizarro Gomez
+2019-20,MD5RY4iB,2020-06-21,Valencia,Osasuna,Home,Rodrigo,3,offside,T1 explicit overturn wording,True,True,Medié Jiménez
+2019-20,GAF6wTxt,2020-06-20,Eibar,Getafe,Away,Pedro Bigas,86,offside,T1 explicit overturn wording,True,True,Javier Alberola Rojas
+2019-20,0vgyOmwg,2020-06-18,Valencia,Real Madrid,Away,Rodrigo,21,offside,T1 explicit overturn wording,True,True,José María Sánchez Martínez
+2019-20,hYV97ShC,2020-06-16,FC Barcelona,Leganés,Home,Antoine Griezmann,65,offside,T1 explicit overturn wording,True,True,Juan Martínez Munuera
+2019-20,ShVefIIe,2020-03-07,FC Barcelona,Real Sociedad,Home,Jordi Alba,96,offside,T1 explicit overturn wording,True,True,Juan Martínez Munuera
+2019-20,OI5uunDi,2020-02-16,Real Madrid,Celta de Vigo,Home,Sergio Ramos,49,offside,T1 explicit overturn wording,False,True,Javier Alberola Rojas
+2019-20,pS6ytSco,2020-02-15,Mallorca,Deportivo Alavés,Home,Daniel Rodríguez,54,handball,T1 explicit overturn wording,True,True,Valentin Pizarro Gomez
+2019-20,l4a6QRt1,2020-02-02,Real Betis,Eibar,Away,Borja Iglesias,63,offside,T1 explicit overturn wording,True,True,Juan Martínez Munuera
+2019-20,bZtcmklE,2020-02-01,Mallorca,Real Valladolid,Home,,28,video review,T1 explicit overturn wording,True,True,Medié Jiménez
+2019-20,Eo7gTTdr,2020-01-26,Real Madrid,Real Valladolid,Away,Casemiro,12,offside,T1 explicit overturn wording,True,True,De Burgos Bengoetxea
+2019-20,rVlMtpW5,2019-12-14,Eibar,Athletic Club,Away,Roberto Correa,73,offside,T1 explicit overturn wording,True,True,Mario Melero López
+2019-20,dEQvU6n0,2019-12-08,Eibar,Getafe,Home,Kike,54,handball,T1 explicit overturn wording,True,True,Eduardo Prieto Iglesias
+2019-20,n3w9wKJd,2019-11-24,Athletic Club,Osasuna,Away,Dani García,9,offside,T1 explicit overturn wording,False,True,José María Sánchez Martínez
+2019-20,r7UuvWhA,2019-11-09,Valencia,Granada,Home,Daniel Parejo,56,offside,T1 explicit overturn wording,True,True,Estrada Fernández
+2019-20,CnxfUfPo,2019-11-02,Real Madrid,Real Betis,Home,Eden Hazard,8,offside,T1 explicit overturn wording,True,True,José María Sánchez Martínez
+2019-20,YL6qAivU,2019-11-02,FC Barcelona,Levante,Away,Lionel Messi,74,offside,T1 explicit overturn wording,True,True,Alejandro Hernández Hernández
+2019-20,Mc1t2xtg,2019-10-26,Real Valladolid,Eibar,Home,Sergio Guardiola,55,offside,T1 explicit overturn wording,False,True,José Luis Munuera Montero
+2019-20,KIAFM9Mq,2019-09-29,Eibar,Celta de Vigo,Home,Takashi Inui,57,handball,T1 explicit overturn wording,True,True,Juan Martínez Munuera
+2019-20,2s0KLTyj,2019-09-29,Real Valladolid,Espanyol,Away,Joaquin Fernandez,67,offside,T1 explicit overturn wording,True,True,Guillermo Cuadra Fernández
+2019-20,t4TOWgpi,2019-09-25,Real Madrid,Osasuna,Home,Luka Jovic,58,offside,T1 explicit overturn wording,True,True,Mateu Lahoz
+2019-20,Kx1vCbiR,2019-08-30,Real Sociedad,Athletic Club,Away,Alexander Isak,63,offside,"T2 VAR wording, initial decision unclear",True,True,Estrada Fernández
+2019-20,4ODznBX4,2019-08-17,Celta de Vigo,Real Madrid,Home,Iago Aspas,45,offside,T1 explicit overturn wording,True,True,Estrada Fernández
+2020-21,votU3zc7,2021-05-22,Real Madrid,Villarreal,Home,Karim Benzema,58,offside,"T2 VAR wording, initial decision unclear",True,True,José Luis Munuera Montero
+2020-21,0IN8buLR,2021-05-16,Atlético de Madrid,Osasuna,Home,Stefan Savic,59,offside,T1 explicit overturn wording,False,True,Juan Martínez Munuera
+2020-21,CAMnicD1,2021-05-16,Elche,Cádiz,Away,Pere Milla,49,offside,T1 explicit overturn wording,True,True,César Soto Grado
+2020-21,j1LjjHS7,2021-05-16,Real Sociedad,Real Valladolid,Home,Portu,51,offside,T1 explicit overturn wording,False,True,Carlos del Cerro Grande
+2020-21,6yv6rTUT,2021-05-09,Real Madrid,Sevilla,Home,Karim Benzema,12,offside,T1 explicit overturn wording,True,True,Juan Martínez Munuera
+2020-21,8pQXwmwo,2021-05-07,Real Sociedad,Elche,Home,Nacho Monreal,27,offside,"T2 VAR wording, initial decision unclear",True,True,Adrián Cordero Vega
+2020-21,A9ORU90U,2021-05-02,Real Valladolid,Real Betis,Home,Shon Weissman,10,offside,T1 explicit overturn wording,True,True,Valentin Pizarro Gomez
+2020-21,lzfxkDon,2021-05-01,Atlético de Madrid,Elche,Away,Luis Suárez,16,offside,T1 explicit overturn wording,True,True,Mario Melero López
+2020-21,Yq5LNzmm,2021-04-28,Real Valladolid,Athletic Club,Away,Shon Weissman,41,offside,T1 explicit overturn wording,False,True,Adrián Cordero Vega
+2020-21,nDEoBc3s,2021-04-25,Celta de Vigo,Osasuna,Home,Nolito,53,offside,T1 explicit overturn wording,False,True,César Soto Grado
+2020-21,pSA66ZHC,2021-04-24,Valencia,Deportivo Alavés,Home,Kevin Gameiro,57,offside,T1 explicit overturn wording,True,True,Guillermo Cuadra Fernández
+2020-21,plnsJC1I,2021-04-18,Celta de Vigo,Cádiz,Away,Hugo Mallo,35,offside,T1 explicit overturn wording,False,True,Pablo González Fuertes
+2020-21,nXCeJ0v4,2021-04-10,Deportivo Alavés,Athletic Club,Away,Joselu,45,offside,T1 explicit overturn wording,True,True,Mario Melero López
+2020-21,bBW0cJHp,2021-04-03,Real Madrid,Eibar,Home,Marco Asensio,38,offside,T1 explicit overturn wording,True,True,Isidro Díaz de Mera Escuderos
+2020-21,lMh3ltuU,2021-03-21,FC Barcelona,Real Sociedad,Away,Ousmane Dembélé,67,offside,"T2 VAR wording, initial decision unclear",False,True,José Luis Munuera Montero
+2020-21,6wNH73uh,2021-03-21,Villarreal,Cádiz,Home,Carlos Bacca,48,offside,T1 explicit overturn wording,False,True,César Soto Grado
+2020-21,6uhOm9lJ,2021-03-13,Osasuna,Real Valladolid,Home,Jonathan Calleri,37,offside,T1 explicit overturn wording,False,True,De Burgos Bengoetxea
+2020-21,2TWPvE5l,2021-03-06,Eibar,Cádiz,Away,Sergio Enrich,15,handball,T1 explicit overturn wording,True,True,Carlos del Cerro Grande
+2020-21,Isnv0Ixj,2021-02-14,Real Madrid,Valencia,Home,Ferland Mendy,62,offside,T1 explicit overturn wording,True,True,José María Sánchez Martínez
+2020-21,0vwoNlvn,2021-02-13,FC Barcelona,Deportivo Alavés,Home,Lionel Messi,36,offside,T1 explicit overturn wording,True,True,Jorge Figueroa Vázquez
+2020-21,Ot8z3ogU,2021-02-06,Sevilla,Getafe,Home,Lucas Ocampos,35,handball,T1 explicit overturn wording,True,True,Juan Martínez Munuera
+2020-21,Ot8z3ogU,2021-02-06,Sevilla,Getafe,Home,Youssef En-Nesyri,78,offside,T1 explicit overturn wording,False,True,Juan Martínez Munuera
+2020-21,zN2Hf2qD,2021-01-23,Sevilla,Cádiz,Home,Youssef En-Nesyri,65,offside,T1 explicit overturn wording,False,True,Guillermo Cuadra Fernández
+2020-21,v9Wx6ync,2021-01-19,Deportivo Alavés,Sevilla,Home,Ximo Navarro,83,handball,T1 explicit overturn wording,True,True,Isidro Díaz de Mera Escuderos
+2020-21,8nqzrPa7,2021-01-19,Real Valladolid,Elche,Home,Shon Weissman,62,handball,T1 explicit overturn wording,False,True,Santiago Jaime Latre
+2020-21,O0ljrYgj,2021-01-10,Valencia,Real Valladolid,Away,Manu Vallejo,87,offside,T1 explicit overturn wording,True,True,Guillermo Cuadra Fernández
+2020-21,SU2KmfWS,2021-01-10,Levante,Eibar,Home,Nemanja Radoja,55,offside,T1 explicit overturn wording,False,True,Estrada Fernández
+2020-21,KUn7NcIN,2020-12-30,Granada,Valencia,Home,Kenedy,15,Foul,T1 explicit overturn wording,True,True,Adrián Cordero Vega
+2020-21,pCffQaY4,2020-12-29,FC Barcelona,Eibar,Home,Martin Braithwaite,25,offside,T1 explicit overturn wording,True,True,Javier Alberola Rojas
+2020-21,EerUdIjg,2020-12-13,Real Sociedad,Eibar,Home,Igor Zubeldia,80,offside,T1 explicit overturn wording,True,True,Isidro Díaz de Mera Escuderos
+2020-21,lSktfGzC,2020-12-12,Huesca,Deportivo Alavés,Home,Shinji Okazaki,48,offside,T1 explicit overturn wording,True,True,Mario Melero López
+2020-21,bJYopu7m,2020-12-06,Osasuna,Real Betis,Home,Ante Budimir,14,offside,"T2 VAR wording, initial decision unclear",False,True,Alejandro Hernández Hernández
+2020-21,KW9d8CfT,2020-11-30,Eibar,Real Betis,Away,Takashi Inui,34,offside,T1 explicit overturn wording,True,True,Juan Martínez Munuera
+2020-21,44oT2jIj,2020-11-29,FC Barcelona,Osasuna,Home,Ousmane Dembélé,70,offside,T1 explicit overturn wording,True,True,Mateu Lahoz
+2020-21,YuiypxCB,2020-11-08,Valencia,Real Madrid,Home,Yunus Musah,30,video review,T1 explicit overturn wording,True,True,Jesús Gil Manzano
+2020-21,QgzaN2sp,2020-11-02,Villarreal,Real Valladolid,Home,Gerard Moreno,64,offside,T1 explicit overturn wording,True,True,Javier Alberola Rojas
+2020-21,tlHsHRKA,2020-10-26,Levante,Celta de Vigo,Home,Daniel Gomez,92,video review,T1 explicit overturn wording,True,True,Mario Melero López
+2020-21,fiLoGozH,2020-10-25,Cádiz,Villarreal,Home,Álvaro Negredo,7,offside,T1 explicit overturn wording,True,True,De Burgos Bengoetxea
+2020-21,QueQ83Sj,2020-10-25,Deportivo Alavés,Real Valladolid,Away,Lucas Pérez,35,offside,T1 explicit overturn wording,True,True,José Luis Munuera Montero
+2020-21,b7G2GfUa,2020-10-18,Athletic Club,Levante,Home,Alejandro Berenguer,73,offside,T1 explicit overturn wording,False,True,Javier Alberola Rojas
+2020-21,ATCUP12k,2020-10-04,Real Madrid,Levante,Away,Sergio Ramos,69,video review,T1 explicit overturn wording,False,True,José Luis Munuera Montero
+2020-21,Qwngqj3A,2020-10-01,Sevilla,Levante,Home,Munir El Haddadi,67,Foul,T1 explicit overturn wording,True,True,Estrada Fernández
+2020-21,6yWioCYc,2020-09-29,Real Sociedad,Valencia,Home,Robin Le Normand,95,handball,T1 explicit overturn wording,True,True,Jorge Figueroa Vázquez
+2020-21,YTYiGiZN,2020-09-27,Sevilla,Cádiz,Away,Lucas Ocampos,9,video review,"T2 VAR wording, initial decision unclear",False,True,Medié Jiménez
+2020-21,j5qmHXJH,2020-09-27,Athletic Club,Eibar,Away,Iñaki Williams,68,offside,T1 explicit overturn wording,True,True,Adrián Cordero Vega
+2020-21,CEpqID4B,2020-09-19,Villarreal,Eibar,Home,Gerard Moreno,10,offside,T1 explicit overturn wording,True,True,Jorge Figueroa Vázquez
+2020-21,fyTmP9fs,2020-09-13,Levante,Valencia,Away,Gonzalo Melero,20,handball,T1 explicit overturn wording,True,True,José María Sánchez Martínez
+2021-22,GAmGRXc0,2022-05-22,Athletic Club,Sevilla,Away,Yuri Berchiche,27,handball,T1 explicit overturn wording,True,True,Carlos del Cerro Grande
+2021-22,GAmGRXc0,2022-05-22,Sevilla,Athletic Club,Home,Karim Rekik,51,offside,T1 explicit overturn wording,True,True,Carlos del Cerro Grande
+2021-22,jTuTOVsJ,2022-05-20,Levante,Rayo Vallecano,Away,Jose Morales,59,Foul,T1 explicit overturn wording,True,True,Mario Melero López
+2021-22,WpW4YrFF,2022-05-14,Espanyol,Valencia,Home,Javi Puado,43,offside,T1 explicit overturn wording,True,True,Alejandro Muñiz Ruiz
+2021-22,hzySaO8j,2022-05-12,Rayo Vallecano,Villarreal,Home,Alejandro Catena,60,handball,T1 explicit overturn wording,False,True,Isidro Díaz de Mera Escuderos
+2021-22,Gfsl76GG,2022-05-12,Cádiz,Real Sociedad,Away,Oussama Idrissi,40,offside,T1 explicit overturn wording,True,True,Juan Martínez Munuera
+2021-22,nFkXAlHi,2022-05-10,Granada,Athletic Club,Home,Luis Suárez,95,offside,T1 explicit overturn wording,True,True,José María Sánchez Martínez
+2021-22,bceIgmnH,2022-05-08,Villarreal,Sevilla,Home,,54,offside,T1 explicit overturn wording,True,True,Jesús Gil Manzano
+2021-22,02c76E88,2022-05-01,FC Barcelona,Mallorca,Home,Ferran Torres,73,offside,T1 explicit overturn wording,True,True,Pablo González Fuertes
+2021-22,QqsnaW0r,2022-04-30,Real Madrid,Espanyol,Home,Isco,72,offside,T1 explicit overturn wording,True,True,José Luis Munuera Montero
+2021-22,YZTpWXWe,2022-04-21,Athletic Club,Cádiz,Away,Iñaki Williams,48,offside,T1 explicit overturn wording,False,True,Valentin Pizarro Gomez
+2021-22,KSmAxzfS,2022-04-20,Getafe,Celta de Vigo,Away,Enes Ünal,69,offside,T1 explicit overturn wording,True,True,Santiago Jaime Latre
+2021-22,CKuxYg2q,2022-04-19,Deportivo Alavés,Mallorca,Away,Florian Lejeune,5,handball,T1 explicit overturn wording,True,True,César Soto Grado
+2021-22,C603Jfmj,2022-04-17,Real Madrid,Sevilla,Away,Vinícius Júnior,76,handball,"T2 VAR wording, initial decision unclear",True,True,Guillermo Cuadra Fernández
+2021-22,SErjsbuc,2022-04-16,Valencia,Osasuna,Home,Hugo Guillamón,55,handball,T1 explicit overturn wording,True,True,Mario Melero López
+2021-22,r5aAB6kC,2022-04-09,Real Betis,Cádiz,Away,Sergio Canales,16,offside,"T2 VAR wording, initial decision unclear",False,True,Jesús Gil Manzano
+2021-22,OIXWS7Kn,2022-04-08,Sevilla,Granada,Home,Rafael Mir,76,Foul,T1 explicit overturn wording,True,True,Miguel Ángel Ortiz Arias
+2021-22,4vW1Fljm,2022-04-04,Real Sociedad,Espanyol,Home,Alexander Sorloth,51,Foul,T1 explicit overturn wording,True,True,Santiago Jaime Latre
+2021-22,Imcqc7zJ,2022-04-02,Celta de Vigo,Real Madrid,Home,Thiago Galhardo,39,offside,T1 explicit overturn wording,True,True,Pablo González Fuertes
+2021-22,Cp7O1VLm,2022-03-19,Valencia,Elche,Away,Hugo Guillamón,7,offside,"T2 VAR wording, initial decision unclear",True,True,Miguel Ángel Ortiz Arias
+2021-22,Cp7O1VLm,2022-03-19,Elche,Valencia,Home,Enzo Roco,67,offside,T1 explicit overturn wording,True,True,Miguel Ángel Ortiz Arias
+2021-22,INokmW6f,2022-03-18,Getafe,Athletic Club,Away,Mathías Olivera,57,offside,T1 explicit overturn wording,True,True,Jesús Gil Manzano
+2021-22,4G5EgYTQ,2022-03-13,Sevilla,Rayo Vallecano,Away,Rafael Mir,11,handball,T1 explicit overturn wording,True,True,Juan Martínez Munuera
+2021-22,GfPJXj77,2022-03-12,Getafe,Valencia,Home,Borja Mayoral,71,handball,T1 explicit overturn wording,True,True,Guillermo Cuadra Fernández
+2021-22,fTdRfN83,2022-03-05,Real Madrid,Real Sociedad,Home,Karim Benzema,69,offside,"T2 VAR wording, initial decision unclear",True,True,Jesús Gil Manzano
+2021-22,KWNcceD4,2022-02-26,Real Madrid,Rayo Vallecano,Away,Casemiro,39,offside,T1 explicit overturn wording,True,True,Isidro Díaz de Mera Escuderos
+2021-22,pE9FpITb,2022-02-20,Valencia,FC Barcelona,Home,Carlos Soler,41,video review,T1 explicit overturn wording,True,True,Carlos del Cerro Grande
+2021-22,n52GFcUO,2022-02-13,FC Barcelona,Espanyol,Away,Gavi,56,offside,T1 explicit overturn wording,True,True,Alejandro Hernández Hernández
+2021-22,bsu6DD29,2022-01-18,Cádiz,Espanyol,Home,Álvaro Negredo,80,Foul,T1 explicit overturn wording,True,True,Alejandro Muñiz Ruiz
+2021-22,v75lydwJ,2022-01-09,Villarreal,Atlético de Madrid,Home,Daniel Parejo,25,handball,T1 explicit overturn wording,True,True,Javier Alberola Rojas
+2021-22,U9cia8P8,2022-01-08,FC Barcelona,Granada,Away,Luuk de Jong,10,offside,T1 explicit overturn wording,False,True,Pablo González Fuertes
+2021-22,Ea8xvbg0,2022-01-08,Real Sociedad,Celta de Vigo,Home,Aritz Elustondo,62,offside,T1 explicit overturn wording,True,True,Guillermo Cuadra Fernández
+2021-22,OAFPt09s,2022-01-08,Mallorca,Levante,Away,Fer Niño,83,handball,T1 explicit overturn wording,True,True,Jorge Figueroa Vázquez
+2021-22,tCqXauGJ,2022-01-02,Elche,Granada,Home,Guido Carrillo,16,video review,T1 explicit overturn wording,True,True,Adrián Cordero Vega
+2021-22,zixSIv48,2021-11-07,Villarreal,Getafe,Home,Paco Alcácer,42,offside,T1 explicit overturn wording,True,True,Jesús Gil Manzano
+2021-22,Qwl7hrj3,2021-10-31,Atlético de Madrid,Real Betis,Home,Mario Hermoso,50,offside,T1 explicit overturn wording,False,True,Javier Alberola Rojas
+2021-22,fuFrjkU4,2021-10-27,Sevilla,Mallorca,Away,Lucas Ocampos,96,handball,T1 explicit overturn wording,True,True,Santiago Jaime Latre
+2021-22,4jMVhipn,2021-10-26,Elche,Deportivo Alavés,Away,Guido Carrillo,81,offside,T1 explicit overturn wording,True,True,Jesús Gil Manzano
+2021-22,OSrwgnLP,2021-10-03,Celta de Vigo,Elche,Away,Iago Aspas,90,handball,T1 explicit overturn wording,True,True,José Luis Munuera Montero
+2021-22,fZuCYdID,2021-09-25,Espanyol,Sevilla,Away,Raúl de Tomás,25,offside,T1 explicit overturn wording,False,True,Pablo González Fuertes
+2021-22,rFfxMJY7,2021-09-22,Real Madrid,Mallorca,Home,Karim Benzema,49,Foul,T1 explicit overturn wording,True,True,Javier Alberola Rojas
+2021-22,8d2POLlk,2021-09-22,Espanyol,Deportivo Alavés,Home,Raúl de Tomás,3,offside,T1 explicit overturn wording,True,True,Mario Melero López
+2021-22,8d2POLlk,2021-09-22,Espanyol,Deportivo Alavés,Home,Raúl de Tomás,18,offside,T1 explicit overturn wording,True,True,Mario Melero López
+2021-22,rZvpEVzU,2021-09-12,Osasuna,Valencia,Home,Darko Brasanac,63,Foul,T1 explicit overturn wording,True,True,De Burgos Bengoetxea
+2021-22,n7oyGi6H,2021-09-12,Atlético de Madrid,Espanyol,Away,Thomas Lemar,53,offside,T1 explicit overturn wording,True,True,Juan Martínez Munuera
+2021-22,Kv6d4f75,2021-08-28,Athletic Club,Celta de Vigo,Away,Iñaki Williams,50,offside,T1 explicit overturn wording,True,True,Mateu Lahoz
+2021-22,MqzSlF7I,2021-08-21,Espanyol,Villarreal,Home,Wu Lei,95,handball,T1 explicit overturn wording,False,True,Jorge Figueroa Vázquez
+2021-22,vLpNkehC,2021-08-21,Granada,Valencia,Home,Ángel Montoro,92,offside,T1 explicit overturn wording,True,True,Carlos del Cerro Grande
+2021-22,YBo1wCpa,2021-08-16,Elche,Athletic Club,Home,Fidel,29,offside,T1 explicit overturn wording,False,True,Adrián Cordero Vega
+2022-23,KQrS2dal,2023-06-04,FC Barcelona,Celta de Vigo,Away,Franck Kessié,11,offside,T1 explicit overturn wording,True,True,Juan Luis Pulido Santana
+2022-23,vTbT0zU0,2023-06-04,Elche,Cádiz,Home,Morente Tete,29,offside,T1 explicit overturn wording,False,True,Jesús Gil Manzano
+2022-23,vTbT0zU0,2023-06-04,Elche,Cádiz,Home,Randy Nketa,39,offside,T1 explicit overturn wording,False,True,Jesús Gil Manzano
+2022-23,W0YIfa7R,2023-05-28,Cádiz,Celta de Vigo,Home,Anthony Lozano,41,offside,T1 explicit overturn wording,True,True,De Burgos Bengoetxea
+2022-23,hxpCyK0k,2023-05-24,Villarreal,Cádiz,Home,Manuel Trigueros,43,Foul,T1 explicit overturn wording,True,True,Juan Luis Pulido Santana
+2022-23,hfVSqNyC,2023-05-12,Mallorca,Cádiz,Home,Kangin Lee,96,offside,T1 explicit overturn wording,False,True,José María Sánchez Martínez
+2022-23,AeTuUJuc,2023-04-27,Athletic Club,Sevilla,Home,Nico Williams,8,offside,T1 explicit overturn wording,False,True,Alejandro Hernández Hernández
+2022-23,AeTuUJuc,2023-04-27,Athletic Club,Sevilla,Home,Gorka Guruzeta,16,offside,T1 explicit overturn wording,True,True,Alejandro Hernández Hernández
+2022-23,ETD1G0Bc,2023-04-23,Villarreal,Sevilla,Away,Nicolas Jackson,45,offside,T1 explicit overturn wording,True,True,De Burgos Bengoetxea
+2022-23,Uajg6Gmj,2023-04-22,Real Sociedad,Rayo Vallecano,Home,Mikel Oyarzabal,12,Foul,T1 explicit overturn wording,True,True,Alejandro Muñiz Ruiz
+2022-23,ngfK3NRi,2023-04-15,Espanyol,Real Betis,Away,Martin Braithwaite,95,offside,T1 explicit overturn wording,True,True,Alejandro Hernández Hernández
+2022-23,xrmX0LBA,2023-04-15,Villarreal,Real Valladolid,Home,Samuel Chukwueze,15,offside,T1 explicit overturn wording,True,True,Javier Iglesias Villanueva
+2022-23,GEJklrS4,2023-04-08,Espanyol,Athletic Club,Home,Martin Braithwaite,45,handball,T1 explicit overturn wording,True,True,José Luis Munuera Montero
+2022-23,zFQ1otCN,2023-04-08,Elche,Osasuna,Away,Lucas Boyé,50,handball,T1 explicit overturn wording,False,True,Pablo González Fuertes
+2022-23,fRiEliMm,2023-04-02,Real Madrid,Real Valladolid,Home,Rodrygo,66,handball,T1 explicit overturn wording,True,True,Juan Luis Pulido Santana
+2022-23,61cerGaE,2023-03-19,Real Madrid,FC Barcelona,Away,Marco Asensio,81,offside,T1 explicit overturn wording,True,True,De Burgos Bengoetxea
+2022-23,K8wWyExr,2023-03-19,Villarreal,Osasuna,Away,Samuel Chukwueze,18,offside,T1 explicit overturn wording,True,True,Alejandro Muñiz Ruiz
+2022-23,SAbiqdp8,2023-03-18,Valencia,Atlético de Madrid,Away,Hugo Duro,30,Foul,T1 explicit overturn wording,True,True,José Luis Munuera Montero
+2022-23,ttLAWI02,2023-03-12,Athletic Club,FC Barcelona,Home,Iñaki Williams,87,handball,T1 explicit overturn wording,True,True,Jesús Gil Manzano
+2022-23,bgDwYAK9,2023-03-05,Real Madrid,Real Betis,Away,Karim Benzema,12,handball,T1 explicit overturn wording,True,True,César Soto Grado
+2022-23,x8fUNQd2,2023-03-05,Real Valladolid,Espanyol,Home,Cyle Larin,4,offside,T1 explicit overturn wording,False,True,Valentin Pizarro Gomez
+2022-23,UsiMPnSk,2023-03-04,Mallorca,Elche,Home,Vedat Muriqi,97,Foul,T1 explicit overturn wording,True,True,José Luis Munuera Montero
+2022-23,Cp5jCTcj,2023-02-26,Osasuna,Sevilla,Away,Enrique Barja,22,offside,T1 explicit overturn wording,True,True,Juan Luis Pulido Santana
+2022-23,AasbZaan,2023-02-26,Real Valladolid,Celta de Vigo,Away,Selim Amallah,60,video review,T1 explicit overturn wording,True,True,De Burgos Bengoetxea
+2022-23,2gKWIvF5,2023-02-18,Real Madrid,Osasuna,Away,Vinícius Júnior,89,offside,T1 explicit overturn wording,True,True,José Luis Munuera Montero
+2022-23,WYBmFdEU,2023-02-17,Girona,Almería,Home,Valentín Castellanos,26,offside,T1 explicit overturn wording,True,True,Valentin Pizarro Gomez
+2022-23,YwYWzJZc,2023-02-02,Real Madrid,Valencia,Home,Antonio Rüdiger,48,Foul,T1 explicit overturn wording,True,True,Javier Alberola Rojas
+2022-23,zoPaagIF,2023-01-29,Celta de Vigo,Athletic Club,Home,Carles Pérez,1,handball,T1 explicit overturn wording,True,True,Isidro Díaz de Mera Escuderos
+2022-23,08pcuYQq,2023-01-21,Sevilla,Cádiz,Home,Erik Lamela,47,offside,T1 explicit overturn wording,True,True,Alejandro Hernández Hernández
+2022-23,42rIJH4N,2023-01-08,Getafe,Sevilla,Away,Enes Ünal,41,offside,T1 explicit overturn wording,False,True,Juan Martínez Munuera
+2022-23,8zk9LwzB,2023-01-08,Rayo Vallecano,Real Betis,Home,Isaac Palazon,63,offside,T1 explicit overturn wording,True,True,Isidro Díaz de Mera Escuderos
+2022-23,jaIr5IkU,2022-12-30,Cádiz,Almería,Home,Brian Ocampo,22,Foul,T1 explicit overturn wording,False,True,Juan Martínez Munuera
+2022-23,UqzsQt4r,2022-11-09,Atlético de Madrid,Mallorca,Away,Álvaro Morata,21,offside,T1 explicit overturn wording,True,True,Mario Melero López
+2022-23,jwRqd2k2,2022-10-30,Real Madrid,Girona,Home,Rodrygo,90,video review,T1 explicit overturn wording,False,True,Mario Melero López
+2022-23,bun53pcS,2022-10-29,Valencia,FC Barcelona,Home,Samuel Lino,50,handball,T1 explicit overturn wording,True,True,De Burgos Bengoetxea
+2022-23,YJ9KimbG,2022-10-23,Real Betis,Atlético de Madrid,Home,Luiz Henrique,48,offside,T1 explicit overturn wording,True,True,Jesús Gil Manzano
+2022-23,48qap5jj,2022-10-22,Real Valladolid,Real Sociedad,Home,Monchu,11,Foul,T1 explicit overturn wording,True,True,Jorge Figueroa Vázquez
+2022-23,48qap5jj,2022-10-22,Real Sociedad,Real Valladolid,Away,Takefusa Kubo,45,Foul,T1 explicit overturn wording,True,True,Jorge Figueroa Vázquez
+2022-23,48qap5jj,2022-10-22,Real Sociedad,Real Valladolid,Away,Martín Zubimendi,83,offside,"T2 VAR wording, initial decision unclear",True,True,Jorge Figueroa Vázquez
+2022-23,OpKzhdha,2022-10-20,Girona,Almería,Away,Yangel Herrera,97,Foul,T1 explicit overturn wording,False,True,Guillermo Cuadra Fernández
+2022-23,GKGSgINn,2022-10-19,Real Madrid,Elche,Away,Karim Benzema,6,offside,T1 explicit overturn wording,True,True,Jesús Gil Manzano
+2022-23,GKGSgINn,2022-10-19,Real Madrid,Elche,Away,David Alaba,26,offside,T1 explicit overturn wording,True,True,Jesús Gil Manzano
+2022-23,GKGSgINn,2022-10-19,Real Madrid,Elche,Away,Karim Benzema,61,offside,T1 explicit overturn wording,True,True,Jesús Gil Manzano
+2022-23,lWZGXR6p,2022-10-19,Mallorca,Real Sociedad,Away,Amath Ndiaye,58,Foul,T1 explicit overturn wording,False,True,Miguel Ángel Ortiz Arias
+2022-23,b5ZMn1GJ,2022-10-15,Atlético de Madrid,Athletic Club,Away,Álvaro Morata,10,Foul,T1 explicit overturn wording,True,True,Jorge Figueroa Vázquez
+2022-23,xKGDxHhC,2022-10-15,Girona,Cádiz,Home,Cala,73,Foul,T1 explicit overturn wording,True,True,De Burgos Bengoetxea
+2022-23,MN0FTL9s,2022-10-08,Real Madrid,Getafe,Away,Rodrygo,57,offside,T1 explicit overturn wording,True,True,Mateu Lahoz
+2022-23,IkYhCKv7,2022-10-02,Real Madrid,Osasuna,Home,Karim Benzema,81,offside,T1 explicit overturn wording,False,True,Guillermo Cuadra Fernández
+2022-23,dtXdBvfD,2022-09-30,Athletic Club,Almería,Home,Iñaki Williams,50,offside,T1 explicit overturn wording,True,True,Juan Luis Pulido Santana
+2022-23,2uVLNgsi,2022-09-17,Rayo Vallecano,Athletic Club,Away,Sergio Camello,63,offside,T1 explicit overturn wording,True,True,Mateu Lahoz
+2022-23,MsoNLXB3,2022-09-17,FC Barcelona,Elche,Home,Pedri,41,offside,"T2 VAR wording, initial decision unclear",False,True,Alejandro Muñiz Ruiz
+2022-23,MRda6hCG,2022-09-12,Osasuna,Almería,Away,Rubén García,47,handball,T1 explicit overturn wording,True,True,Javier Iglesias Villanueva
+2022-23,YNq8C8Hh,2022-09-03,Atlético de Madrid,Real Sociedad,Away,Álvaro Morata,29,handball,T1 explicit overturn wording,True,True,César Soto Grado
+2022-23,48Lpe7nI,2022-08-29,Valencia,Atlético de Madrid,Home,Yunus Musah,24,Foul,T1 explicit overturn wording,True,True,Guillermo Cuadra Fernández
+2022-23,QHMtdmXB,2022-08-29,Athletic Club,Cádiz,Away,Ohian Sancet,65,offside,T1 explicit overturn wording,False,True,Miguel Ángel Ortiz Arias
+2022-23,Iic3rU2C,2022-08-22,Getafe,Girona,Away,Enes Ünal,57,Foul,T1 explicit overturn wording,True,True,Alejandro Muñiz Ruiz
+2023-24,txwTE7xN,2024-05-25,Real Betis,Real Madrid,Away,Johnny Cardoso,39,offside,T1 explicit overturn wording,True,True,Isidro Díaz de Mera Escuderos
+2023-24,r15X6hvn,2024-05-19,Real Betis,Real Sociedad,Home,Ayoze Pérez,79,handball,T1 explicit overturn wording,True,True,Juan Martínez Munuera
+2023-24,CzAy6Cgh,2024-05-19,Cádiz,Las Palmas,Home,Javier Hernández,37,offside,T1 explicit overturn wording,True,True,César Soto Grado
+2023-24,CMU2iDva,2024-05-15,Cádiz,Sevilla,Away,Loïc Badé,66,Foul,T1 explicit overturn wording,True,True,Miguel Ángel Ortiz Arias
+2023-24,2PQfihN1,2024-05-11,Athletic Club,Osasuna,Home,Iker Muniain,38,offside,T1 explicit overturn wording,True,True,José María Sánchez Martínez
+2023-24,rqYRk03f,2024-05-11,Villarreal,Sevilla,Home,Ramón Terrats,92,offside,T1 explicit overturn wording,True,True,Isidro Díaz de Mera Escuderos
+2023-24,faNngEhk,2024-05-04,Real Sociedad,Las Palmas,Home,Jon Pacheco,50,offside,T1 explicit overturn wording,True,True,Miguel Ángel Ortiz Arias
+2023-24,8SWCty9q,2024-04-28,Villarreal,Rayo Vallecano,Home,Alexander Sorloth,30,offside,T1 explicit overturn wording,True,True,Pablo González Fuertes
+2023-24,nJVGueOk,2024-04-26,Real Sociedad,Real Madrid,Home,Takefusa Kubo,32,Foul,T1 explicit overturn wording,True,True,José Luis Munuera Montero
+2023-24,f1Sfz0nA,2024-04-21,FC Barcelona,Real Madrid,Away,Lamine Yamal,28,video review,"T2 VAR wording, initial decision unclear",False,True,César Soto Grado
+2023-24,063J5lsJ,2024-03-30,FC Barcelona,Las Palmas,Home,Raphinha,19,offside,T1 explicit overturn wording,False,True,Mateo Busquets Ferrer
+2023-24,YgYXOBss,2024-03-30,Sevilla,Getafe,Away,Sergio Ramos,44,offside,"T2 VAR wording, initial decision unclear",False,True,Javier Iglesias Villanueva
+2023-24,rP3c4p0c,2024-03-01,Celta de Vigo,Almería,Home,Jonathan Bamba,20,offside,T1 explicit overturn wording,True,True,José María Sánchez Martínez
+2023-24,QRHRjRVc,2024-02-25,Real Madrid,Sevilla,Home,Lucas,10,Foul,T1 explicit overturn wording,True,True,Isidro Díaz de Mera Escuderos
+2023-24,4blpvlnh,2024-02-18,Almería,Granada,Away,Adri Embarba,14,offside,T1 explicit overturn wording,False,True,Jesús Gil Manzano
+2023-24,0rHZRMy0,2024-02-04,Atlético de Madrid,Real Madrid,Away,Stefan Savic,48,offside,T1 explicit overturn wording,True,True,José María Sánchez Martínez
+2023-24,AuLcmX78,2024-02-03,Girona,Real Sociedad,Home,Yangel Herrera,24,offside,T1 explicit overturn wording,True,True,Jesús Gil Manzano
+2023-24,C6EjBwei,2024-01-31,Atlético de Madrid,Rayo Vallecano,Home,Memphis Depay,81,offside,T1 explicit overturn wording,True,True,César Soto Grado
+2023-24,MJIXBAo2,2024-01-27,Villarreal,FC Barcelona,Away,Gerard Moreno,22,Foul,T1 explicit overturn wording,False,True,José Luis Munuera Montero
+2023-24,f3kpLEOF,2024-01-22,Atlético de Madrid,Granada,Away,Saúl Ñíguez,62,offside,T1 explicit overturn wording,False,True,Juan Martínez Munuera
+2023-24,xSvkKYwM,2024-01-21,FC Barcelona,Real Betis,Away,Robert Lewandowski,46,offside,T1 explicit overturn wording,False,True,Jesús Gil Manzano
+2023-24,nwnxNzf3,2024-01-21,Almería,Real Madrid,Away,Sergio Arribas,61,Foul,T1 explicit overturn wording,True,True,Francisco José Hernández Maeso
+2023-24,8Y7a9HP3,2024-01-13,Granada,Real Betis,Away,Matias Arezo,82,offside,T1 explicit overturn wording,True,True,Guillermo Cuadra Fernández
+2023-24,8CWOdvtb,2024-01-03,Atlético de Madrid,Girona,Away,Álvaro Morata,46,offside,T1 explicit overturn wording,True,True,Alejandro Hernández Hernández
+2023-24,URKXfIAA,2024-01-03,Celta de Vigo,Real Betis,Home,Jorgen Larsen,84,offside,T1 explicit overturn wording,True,True,Miguel Ángel Ortiz Arias
+2023-24,dxwPVAyr,2023-12-10,Atlético de Madrid,Almería,Home,Antoine Griezmann,6,offside,T1 explicit overturn wording,True,True,De Burgos Bengoetxea
+2023-24,06igyXDK,2023-12-09,Sevilla,Mallorca,Away,Adrià Pedrosa,62,handball,T1 explicit overturn wording,True,True,Javier Alberola Rojas
+2023-24,vcjcziTQ,2023-12-09,Deportivo Alavés,Las Palmas,Home,Samu Omorodion,53,offside,T1 explicit overturn wording,True,True,José Luis Munuera Montero
+2023-24,vcjcziTQ,2023-12-09,Deportivo Alavés,Las Palmas,Home,Samu Omorodion,73,offside,"T2 VAR wording, initial decision unclear",False,True,José Luis Munuera Montero
+2023-24,tjdJOgUE,2023-12-03,Villarreal,Sevilla,Away,Ben Brereton,95,Foul,T1 explicit overturn wording,True,True,Isidro Díaz de Mera Escuderos
+2023-24,UiSUHNe2,2023-12-02,Athletic Club,Rayo Vallecano,Home,Gorka Guruzeta,14,offside,T1 explicit overturn wording,False,True,Francisco José Hernández Maeso
+2023-24,8xbBQFa2,2023-12-02,Girona,Valencia,Home,Sávio,92,offside,T1 explicit overturn wording,True,True,Javier Iglesias Villanueva
+2023-24,O8jgIi7r,2023-12-01,Las Palmas,Getafe,Home,Alberto Moleiro,88,offside,T1 explicit overturn wording,True,True,Mateo Busquets Ferrer
+2023-24,2D0fSGDh,2023-11-12,Real Betis,Sevilla,Away,Héctor Bellerín,15,offside,T1 explicit overturn wording,True,True,Jesús Gil Manzano
+2023-24,GMRyAZcO,2023-11-11,Real Sociedad,Almería,Away,Beñat Turrientes,58,handball,T1 explicit overturn wording,True,True,Isidro Díaz de Mera Escuderos
+2023-24,UPVu9gDU,2023-11-10,Celta de Vigo,Athletic Club,Away,Jorgen Larsen,63,offside,T1 explicit overturn wording,True,True,Juan Luis Pulido Santana
+2023-24,fDtw30ps,2023-10-28,Sevilla,Cádiz,Away,Sergio Ramos,32,offside,T1 explicit overturn wording,False,True,César Soto Grado
+2023-24,EgP7mLpf,2023-10-21,Real Madrid,Sevilla,Away,Federico Valverde,4,offside,T1 explicit overturn wording,True,True,De Burgos Bengoetxea
+2023-24,0jL3l1Vm,2023-10-21,Real Sociedad,Mallorca,Home,Mikel Oyarzabal,67,offside,T1 explicit overturn wording,True,True,Jorge Figueroa Vázquez
+2023-24,dIECnu00,2023-10-20,Osasuna,Granada,Home,Haro Raul De,88,offside,T1 explicit overturn wording,True,True,Mateo Busquets Ferrer
+2023-24,UkJchAWL,2023-10-08,FC Barcelona,Granada,Away,João Félix,94,offside,"T2 VAR wording, initial decision unclear",False,True,César Soto Grado
+2023-24,jqWVwBHS,2023-10-02,Celta de Vigo,Las Palmas,Away,Jorgen Larsen,34,Foul,T1 explicit overturn wording,True,True,Javier Alberola Rojas
+2023-24,QyPzUZm4,2023-09-28,Real Betis,Granada,Away,Ayoze Pérez,60,offside,T1 explicit overturn wording,False,True,Víctor García Verdura
+2023-24,IglNE3r0,2023-09-17,Sevilla,Las Palmas,Home,Youssef En-Nesyri,68,video review,T1 explicit overturn wording,False,True,Juan Martínez Munuera
+2023-24,feqrO7LD,2023-09-16,Celta de Vigo,Mallorca,Home,Jonathan Bamba,69,video review,T1 explicit overturn wording,True,True,José Luis Munuera Montero
+2023-24,SQMBPauL,2023-09-03,Girona,Las Palmas,Home,Álex Suárez,30,offside,T1 explicit overturn wording,True,True,Mateo Busquets Ferrer
+2023-24,zDm46KYr,2023-08-26,Sevilla,Girona,Home,Ivan Rakitić,61,offside,T1 explicit overturn wording,True,True,Jesús Gil Manzano
+2023-24,S6Qxjal2,2023-08-25,Celta de Vigo,Real Madrid,Home,Jorgen Larsen,3,Foul,T1 explicit overturn wording,True,True,Isidro Díaz de Mera Escuderos
+2023-24,2a3iv2kj,2023-08-19,Real Madrid,Almería,Away,Toni Kroos,50,Foul,T1 explicit overturn wording,True,True,José María Sánchez Martínez
+2023-24,4jANcjjB,2023-08-13,Villarreal,Real Betis,Home,Álex Baena,15,offside,T1 explicit overturn wording,False,True,Miguel Ángel Ortiz Arias
+2024-25,hdCcelFl,2025-05-24,Leganés,Real Valladolid,Home,Seydouba Cissé,33,offside,T1 explicit overturn wording,True,True,César Soto Grado
+2024-25,lnM5Sbuo,2025-05-18,Atlético de Madrid,Real Betis,Home,Nahuel Molina,86,offside,T1 explicit overturn wording,True,True,Adrián Cordero Vega
+2024-25,ncSQAZDr,2025-05-11,FC Barcelona,Real Madrid,Home,Fermin,95,handball,T1 explicit overturn wording,True,True,Alejandro Hernández Hernández
+2024-25,2ZFxC5T0,2025-05-11,Leganés,Espanyol,Home,Jorge Saenz,9,offside,T1 explicit overturn wording,False,True,Javier Alberola Rojas
+2024-25,2ZFxC5T0,2025-05-11,Espanyol,Leganés,Away,Walid Cheddira,92,offside,T1 explicit overturn wording,True,True,Javier Alberola Rojas
+2024-25,4b0xTYZQ,2025-05-10,Real Valladolid,Mallorca,Away,Cenk Özkacar,54,offside,T1 explicit overturn wording,True,True,Juan Luis Pulido Santana
+2024-25,EgwRcF8j,2025-04-27,Villarreal,Espanyol,Home,Thierno Barry,31,offside,T1 explicit overturn wording,True,True,José Luis Munuera Montero
+2024-25,Qmk8moaK,2025-04-20,Real Madrid,Athletic Club,Home,Vinícius Júnior,79,offside,T1 explicit overturn wording,True,True,Juan Martínez Munuera
+2024-25,Q9Qr0OrQ,2025-04-20,Villarreal,Real Sociedad,Home,Yeremi Santos,68,offside,T1 explicit overturn wording,True,True,Guillermo Cuadra Fernández
+2024-25,Q9Qr0OrQ,2025-04-20,Villarreal,Real Sociedad,Home,Etta Eyong,96,Foul,T1 explicit overturn wording,False,True,Guillermo Cuadra Fernández
+2024-25,jcVWEQhe,2025-04-13,Real Madrid,Deportivo Alavés,Away,Raúl Asencio,19,Foul,T1 explicit overturn wording,True,True,César Soto Grado
+2024-25,vJBRz8FE,2025-04-13,Girona,Osasuna,Away,Arnaut Groeneveld,26,offside,T1 explicit overturn wording,True,True,Pablo González Fuertes
+2024-25,vJBRz8FE,2025-04-13,Girona,Osasuna,Away,Christian Stuani,68,offside,T1 explicit overturn wording,True,True,Pablo González Fuertes
+2024-25,WY1k6dAN,2025-04-07,Osasuna,Leganés,Away,Lucas Torró,39,offside,T1 explicit overturn wording,True,True,Víctor García Verdura
+2024-25,2HhL0zYp,2025-04-06,Villarreal,Athletic Club,Home,Thierno Barry,75,handball,T1 explicit overturn wording,True,True,Mario Melero López
+2024-25,AJDt8IuB,2025-04-06,Real Sociedad,Las Palmas,Away,Takefusa Kubo,88,offside,T1 explicit overturn wording,True,True,Miguel Ángel Ortiz Arias
+2024-25,IBeZ9vBb,2025-04-05,Real Madrid,Valencia,Home,Mouctar Diakhaby,21,offside,T1 explicit overturn wording,True,True,Guillermo Cuadra Fernández
+2024-25,GrDYvKBO,2025-03-31,Las Palmas,Celta de Vigo,Away,Fábio Silva,72,offside,T1 explicit overturn wording,True,True,Juan Martínez Munuera
+2024-25,f9rqaNdt,2025-03-30,Villarreal,Getafe,Away,Thierno Barry,47,handball,T1 explicit overturn wording,True,True,Isidro Díaz de Mera Escuderos
+2024-25,IRwmu8lA,2025-03-08,Celta de Vigo,Leganés,Home,Pablo Durán,88,offside,T1 explicit overturn wording,True,True,Isidro Díaz de Mera Escuderos
+2024-25,Ii5Z8q8E,2025-02-23,Real Valladolid,Athletic Club,Away,Mamadou Sylla,34,offside,T1 explicit overturn wording,True,True,César Soto Grado
+2024-25,AT8wkOGr,2025-02-15,Villarreal,Valencia,Home,Nicolas Pépé,72,offside,T1 explicit overturn wording,False,True,De Burgos Bengoetxea
+2024-25,xdSnotG7,2025-02-15,Leganés,Deportivo Alavés,Home,Sergio González,82,offside,"T2 VAR wording, initial decision unclear",False,True,Pablo González Fuertes
+2024-25,tSapoxPp,2025-01-25,Sevilla,Espanyol,Home,Loïc Badé,54,Foul,T1 explicit overturn wording,True,True,Adrián Cordero Vega
+2024-25,CE0hJiFM,2025-01-19,Real Madrid,Las Palmas,Home,Kylian Mbappé,42,offside,T1 explicit overturn wording,True,True,Alejandro Quintero González
+2024-25,CE0hJiFM,2025-01-19,Real Madrid,Las Palmas,Home,Jude Bellingham,73,offside,T1 explicit overturn wording,True,True,Alejandro Quintero González
+2024-25,CE0hJiFM,2025-01-19,Real Madrid,Las Palmas,Home,Federico Valverde,86,offside,T1 explicit overturn wording,True,True,Alejandro Quintero González
+2024-25,Gldifptf,2025-01-12,Atlético de Madrid,Osasuna,Home,Antoine Griezmann,7,handball,T1 explicit overturn wording,True,True,Isidro Díaz de Mera Escuderos
+2024-25,zHmSVfun,2025-01-03,Real Madrid,Valencia,Away,Kylian Mbappé,60,offside,T1 explicit overturn wording,True,True,César Soto Grado
+2024-25,4GVrT7se,2024-12-21,Celta de Vigo,Real Sociedad,Home,Pablo Durán,50,offside,T1 explicit overturn wording,True,True,Mateo Busquets Ferrer
+2024-25,6adcTeKt,2024-12-08,Atlético de Madrid,Sevilla,Home,Julián Álvarez,44,offside,T1 explicit overturn wording,True,True,Javier Alberola Rojas
+2024-25,SYQn9hZO,2024-12-08,Villarreal,Athletic Club,Away,Pape Gueye,21,offside,T1 explicit overturn wording,True,True,Víctor García Verdura
+2024-25,8Ohqd6Bs,2024-12-04,Real Madrid,Athletic Club,Away,Kylian Mbappé,14,offside,T1 explicit overturn wording,False,True,José María Sánchez Martínez
+2024-25,bgZVCzz0,2024-12-01,Girona,Villarreal,Away,Christian Stuani,90,offside,T1 explicit overturn wording,True,True,Miguel Ángel Ortiz Arias
+2024-25,0b75dFkJ,2024-11-30,Atlético de Madrid,Real Valladolid,Away,Giuliano Simeone,31,offside,T1 explicit overturn wording,False,True,Guillermo Cuadra Fernández
+2024-25,0b75dFkJ,2024-11-30,Atlético de Madrid,Real Valladolid,Away,Jose Gimenez,48,offside,T1 explicit overturn wording,True,True,Guillermo Cuadra Fernández
+2024-25,QP8QvjOG,2024-11-10,FC Barcelona,Real Sociedad,Away,Robert Lewandowski,13,offside,T1 explicit overturn wording,True,True,Guillermo Cuadra Fernández
+2024-25,UaS8aGMt,2024-11-03,Espanyol,FC Barcelona,Away,Jofe Carreras,27,offside,T1 explicit overturn wording,True,True,José Luis Munuera Montero
+2024-25,UaS8aGMt,2024-11-03,Espanyol,FC Barcelona,Away,Álvaro Tejero,58,offside,T1 explicit overturn wording,True,True,José Luis Munuera Montero
+2024-25,E595Qvn9,2024-10-28,Athletic Club,Mallorca,Away,Nico Williams,44,video review,T1 explicit overturn wording,True,True,Juan Martínez Munuera
+2024-25,4zlpJdvq,2024-10-26,Real Madrid,FC Barcelona,Home,Kylian Mbappé,30,offside,T1 explicit overturn wording,True,True,José María Sánchez Martínez
+2024-25,0SQqjbAd,2024-10-20,Mallorca,Rayo Vallecano,Home,Antonio Sánchez,95,offside,T1 explicit overturn wording,True,True,Javier Alberola Rojas
+2024-25,Gz9WD123,2024-10-18,Deportivo Alavés,Real Valladolid,Home,Jon Guridi,51,offside,T1 explicit overturn wording,True,True,Mario Melero López
+2024-25,hzRnqjcC,2024-10-06,Deportivo Alavés,FC Barcelona,Home,Toni Martínez,45,offside,T1 explicit overturn wording,True,True,Miguel Ángel Ortiz Arias
+2024-25,KApUeTtI,2024-10-05,Celta de Vigo,Las Palmas,Away,Williot Swedberg,17,offside,T1 explicit overturn wording,True,True,Adrián Cordero Vega
+2024-25,pxdwg6Pp,2024-09-22,Villarreal,FC Barcelona,Home,Yeremi Santos,8,offside,T1 explicit overturn wording,False,True,Mateo Busquets Ferrer
+2024-25,pxdwg6Pp,2024-09-22,Villarreal,FC Barcelona,Home,Nicolas Pépé,50,offside,T1 explicit overturn wording,False,True,Mateo Busquets Ferrer
+2024-25,pxdwg6Pp,2024-09-22,Villarreal,FC Barcelona,Home,Thierno Barry,68,offside,T1 explicit overturn wording,True,True,Mateo Busquets Ferrer
+2024-25,OAmz0KLU,2024-09-22,Celta de Vigo,Athletic Club,Away,Iago Aspas,37,offside,T1 explicit overturn wording,False,True,José María Sánchez Martínez
+2024-25,IRBb0lXA,2024-09-20,Deportivo Alavés,Sevilla,Home,Stoichkov,23,offside,T1 explicit overturn wording,True,True,Javier Alberola Rojas
+2024-25,xjut9IFr,2024-09-19,Leganés,Athletic Club,Home,Sébastien Haller,67,offside,T1 explicit overturn wording,False,True,Francisco José Hernández Maeso
+2024-25,SfxxiPx0,2024-09-15,Celta de Vigo,Real Valladolid,Home,Galiano Javier Rodriguez,85,offside,T1 explicit overturn wording,True,True,Francisco José Hernández Maeso
+2024-25,n1v9mjW7,2024-09-01,Sevilla,Girona,Home,Chidera Ejuke,43,offside,T1 explicit overturn wording,False,True,José María Sánchez Martínez
+2024-25,tQQLbGv9,2024-09-01,Deportivo Alavés,Las Palmas,Home,Tomás Conechny,38,offside,T1 explicit overturn wording,True,True,Víctor García Verdura
+2024-25,SM0npHPF,2024-08-31,Athletic Club,Atlético de Madrid,Home,Nico Williams,47,offside,T1 explicit overturn wording,False,True,Alejandro Hernández Hernández
+2024-25,KhwykQ8L,2024-08-28,Atlético de Madrid,Espanyol,Home,Rodrigo Riquelme,55,offside,T1 explicit overturn wording,True,True,De Burgos Bengoetxea
+2024-25,8CpDVHAM,2024-08-27,FC Barcelona,Rayo Vallecano,Away,Robert Lewandowski,71,Foul,T1 explicit overturn wording,True,True,César Soto Grado
+2024-25,QekfJmLa,2024-08-23,Sevilla,Villarreal,Home,Juanlu Sanchez,8,offside,T1 explicit overturn wording,True,True,Isidro Díaz de Mera Escuderos
+2024-25,QekfJmLa,2024-08-23,Villarreal,Sevilla,Away,Santi Comesaña,69,offside,T1 explicit overturn wording,True,True,Isidro Díaz de Mera Escuderos
+2024-25,nDzACNof,2024-08-16,Celta de Vigo,Deportivo Alavés,Home,Iago Aspas,43,offside,T1 explicit overturn wording,True,True,Alejandro Quintero González
+2025-26,KnMLIMGb,2026-05-23,Espanyol,Real Sociedad,Home,Tyrhys Dolan,54,Foul,T1 explicit overturn wording,False,True,José Luis Munuera Montero
+2025-26,jHXmS8Xj,2026-05-09,Real Sociedad,Real Betis,Home,Jon Gorrotxategi,63,offside,T1 explicit overturn wording,True,True,Alejandro Muñiz Ruiz
+2025-26,rBKZkCPc,2026-05-09,Sevilla,Espanyol,Home,Alexis Sánchez,46,offside,T1 explicit overturn wording,True,True,Javier Alberola Rojas
+2025-26,U5uP615D,2026-05-03,Oviedo,Real Betis,Away,Federico Viñas,53,offside,T1 explicit overturn wording,True,True,Adrián Cordero Vega
+2025-26,fXtpkxvB,2026-04-26,Rayo Vallecano,Real Sociedad,Home,Carlos Martín,24,handball,T1 explicit overturn wording,True,True,José Luis Guzmán Mansilla
+2025-26,fXtpkxvB,2026-04-26,Rayo Vallecano,Real Sociedad,Home,Pedro Díaz,69,Foul,T1 explicit overturn wording,True,True,José Luis Guzmán Mansilla
+2025-26,Y1CbfXFj,2026-04-22,FC Barcelona,Celta de Vigo,Home,Ferran Torres,55,offside,T1 explicit overturn wording,True,True,José Luis Munuera Montero
+2025-26,Gt6nv08e,2026-04-12,Villarreal,Athletic Club,Away,Nicolas Pépé,89,offside,T1 explicit overturn wording,True,True,José Luis Guzmán Mansilla
+2025-26,O69fxvw8,2026-04-11,FC Barcelona,Espanyol,Home,Ferran Torres,54,offside,T1 explicit overturn wording,False,True,Alejandro Hernández Hernández
+2025-26,bTDl6FdC,2026-03-22,Real Betis,Athletic Club,Away,Cédric Bakambu,77,offside,T1 explicit overturn wording,True,True,Alejandro Muñiz Ruiz
+2025-26,lWVe0pQj,2026-03-22,Celta de Vigo,Deportivo Alavés,Home,Galiano Javier Rodriguez,56,Foul,T1 explicit overturn wording,False,True,Miguel Sesma Espinosa
+2025-26,2Zc89l34,2026-03-21,Espanyol,Getafe,Home,Cyril Ngonge,15,offside,T1 explicit overturn wording,True,True,Isidro Díaz de Mera Escuderos
+2025-26,2Zc89l34,2026-03-21,Espanyol,Getafe,Home,Ramón Terrats,31,offside,T1 explicit overturn wording,True,True,Isidro Díaz de Mera Escuderos
+2025-26,Gpdbebrf,2026-03-14,Oviedo,Valencia,Home,Alberto Reina,77,offside,T1 explicit overturn wording,True,True,Miguel Sesma Espinosa
+2025-26,b9Nl5KgS,2026-02-14,Deportivo Alavés,Sevilla,Away,Lucas Boyé,65,offside,T1 explicit overturn wording,True,True,Iosu Galech Apezteguía
+2025-26,OI5e1Bhf,2026-02-14,Celta de Vigo,Espanyol,Away,Borja Iglesias,77,offside,T1 explicit overturn wording,True,True,Guillermo Cuadra Fernández
+2025-26,IJmCYLIj,2026-02-09,Espanyol,Villarreal,Away,Omar El Hilali,12,video review,T1 explicit overturn wording,False,True,Adrián Cordero Vega
+2025-26,OdCGqnRi,2026-02-08,Atlético de Madrid,Real Betis,Home,Diego Llorente,74,offside,T1 explicit overturn wording,True,True,Mateo Busquets Ferrer
+2025-26,bZ6uvreT,2026-02-07,Real Sociedad,Elche,Home,Pablo Marín,52,offside,T1 explicit overturn wording,True,True,José Luis Guzmán Mansilla
+2025-26,lrfI9upL,2026-01-24,Sevilla,Athletic Club,Home,Nemanja Gudelj,22,Foul,T1 explicit overturn wording,True,True,Francisco José Hernández Maeso
+2025-26,YTYwDgZF,2026-01-18,FC Barcelona,Real Sociedad,Away,Fermin,7,Foul,T1 explicit overturn wording,True,True,Jesús Gil Manzano
+2025-26,YTYwDgZF,2026-01-18,FC Barcelona,Real Sociedad,Away,Lamine Yamal,28,offside,"T2 VAR wording, initial decision unclear",False,True,Jesús Gil Manzano
+2025-26,6Lw7g8xQ,2026-01-10,Girona,Osasuna,Home,Vladyslav Vanat,63,offside,T1 explicit overturn wording,False,True,Alejandro Hernández Hernández
+2025-26,zHuMM91l,2026-01-04,Real Sociedad,Atlético de Madrid,Home,Alexander Sorloth,45,offside,T1 explicit overturn wording,False,True,Juan Martínez Munuera
+2025-26,lK5ey9Gs,2026-01-04,Mallorca,Girona,Home,Takuma Asano,52,offside,T1 explicit overturn wording,False,True,Javier Alberola Rojas
+2025-26,63SyfKRp,2025-12-21,Getafe,Real Betis,Away,Borja Mayoral,56,offside,T1 explicit overturn wording,False,True,Miguel Sesma Espinosa
+2025-26,63SyfKRp,2025-12-21,Real Betis,Getafe,Home,Pablo Fornals,79,offside,T1 explicit overturn wording,True,True,Miguel Sesma Espinosa
+2025-26,EBj7h7jt,2025-12-13,FC Barcelona,Osasuna,Home,Ferran Torres,23,offside,T1 explicit overturn wording,True,True,Adrián Cordero Vega
+2025-26,YD2c1sID,2025-12-13,Valencia,Atlético de Madrid,Away,Pepelu,34,offside,T1 explicit overturn wording,True,True,César Soto Grado
+2025-26,YD2c1sID,2025-12-13,Atlético de Madrid,Valencia,Home,Alexander Sorloth,78,offside,T1 explicit overturn wording,True,True,César Soto Grado
+2025-26,bJjTc8BL,2025-12-07,Espanyol,Rayo Vallecano,Home,Kike,82,offside,T1 explicit overturn wording,True,True,José María Sánchez Martínez
+2025-26,KYY3zEDc,2025-11-30,Real Madrid,Girona,Away,Kylian Mbappé,40,handball,T1 explicit overturn wording,True,True,De Burgos Bengoetxea
+2025-26,jexTY0xg,2025-11-21,Valencia,Levante,Home,Noguerol Diego Lopez,63,offside,T1 explicit overturn wording,True,True,Alejandro Muñiz Ruiz
+2025-26,Asx3tnue,2025-11-09,Oviedo,Athletic Club,Away,Santiago Colombatto,28,offside,T1 explicit overturn wording,True,True,César Soto Grado
+2025-26,dbzBvQ97,2025-11-08,Levante,Atlético de Madrid,Away,Carlos Álvarez,90,offside,T1 explicit overturn wording,True,True,Jesús Gil Manzano
+2025-26,A10pgPO0,2025-11-08,Deportivo Alavés,Girona,Away,Antonio Blanco,53,offside,T1 explicit overturn wording,True,True,Adrián Cordero Vega
+2025-26,OlnkZ9GU,2025-10-26,Real Madrid,FC Barcelona,Home,Kylian Mbappé,12,offside,T1 explicit overturn wording,True,True,César Soto Grado
+2025-26,42UFO1de,2025-10-19,Levante,Rayo Vallecano,Home,Carlos Álvarez,14,offside,T1 explicit overturn wording,True,True,Miguel Sesma Espinosa
+2025-26,EHNrWq4L,2025-10-19,Real Sociedad,Celta de Vigo,Away,Mikel Oyarzabal,49,offside,T1 explicit overturn wording,True,True,Juan Martínez Munuera
+2025-26,QeslA2s2,2025-10-18,Atlético de Madrid,Osasuna,Home,Álex Baena,9,offside,T1 explicit overturn wording,True,True,De Burgos Bengoetxea
+2025-26,QL8zvv16,2025-09-27,Atlético de Madrid,Real Madrid,Home,Clément Lenglet,44,handball,T1 explicit overturn wording,True,True,Javier Alberola Rojas
+2025-26,QHA7Rlfn,2025-09-14,Real Betis,Levante,Away,Sergi Altimira,23,Foul,T1 explicit overturn wording,True,True,Alejandro Muñiz Ruiz
+2025-26,KbCNN6gB,2025-09-13,Real Madrid,Real Sociedad,Away,Arda Güler,2,offside,T1 explicit overturn wording,False,True,Jesús Gil Manzano
+2025-26,Y7c6bjQa,2025-08-30,Real Madrid,Mallorca,Home,Kylian Mbappé,7,offside,T1 explicit overturn wording,True,True,José María Sánchez Martínez
+2025-26,Y7c6bjQa,2025-08-30,Real Madrid,Mallorca,Home,Kylian Mbappé,46,offside,T1 explicit overturn wording,False,True,José María Sánchez Martínez
+2025-26,Y7c6bjQa,2025-08-30,Real Madrid,Mallorca,Home,Arda Güler,55,handball,T1 explicit overturn wording,True,True,José María Sánchez Martínez
+2026-27,2mAGw9Ti,2026-10-10,Real Madrid,Villarreal,Home,Vinícius Júnior,71,Foul,T1 explicit overturn wording,True,True,Isidro Díaz de Mera Escuderos
+2026-27,GGiPsLP1,2026-09-17,Villarreal,Málaga,Away,Carlos Romero,82,offside,T1 explicit overturn wording,True,True,Miguel Chua
+2026-27,Q9s7530B,2026-09-15,Valencia,Deportivo Alavés,Away,Arnaut Groeneveld,17,offside,T1 explicit overturn wording,True,True,Miguel Sesma Espinosa
+2026-27,hdqa7PVb,2026-09-14,Villarreal,Real Betis,Home,Tajon Buchanan,18,offside,T1 explicit overturn wording,True,True,Francisco José Hernández Maeso
+2026-27,SC0Jfnng,2026-09-12,Osasuna,Espanyol,Home,Rubén García,18,video review,T1 explicit overturn wording,True,True,Luis Bestard Servera
+2026-27,xnbRmvZ8,2026-09-07,Real Sociedad,Elche,Away,Luka Sucic,61,handball,T1 explicit overturn wording,True,True,Miguel Ángel Ortiz Arias
+2026-27,tIPbVVIs,2026-09-06,Espanyol,Sevilla,Home,Omar El Hilali,62,offside,T1 explicit overturn wording,True,True,Miguel Sesma Espinosa
+2026-27,MFH8mVvQ,2026-09-06,FC Barcelona,Valencia,Away,Lamine Yamal,9,offside,T1 explicit overturn wording,True,True,Isidro Díaz de Mera Escuderos
+2026-27,ULUMPRnJ,2026-09-05,Racing Santander,Rayo Vallecano,Away,Yassir Zabiri,79,Foul,T1 explicit overturn wording,False,True,Alejandro Quintero González
+2026-27,Au6uQzs2,2026-09-04,Real Madrid,Real Betis,Away,Carlos Espí,87,offside,T1 explicit overturn wording,True,True,Alejandro Hernández Hernández
+2026-27,GvI6ON5c,2026-08-31,FC Barcelona,Rayo Vallecano,Home,Jules Koundé,46,offside,T1 explicit overturn wording,True,True,Francisco José Hernández Maeso
+2026-27,GCwMKu5M,2026-08-31,Getafe,Osasuna,Away,Enes Ünal,52,offside,T1 explicit overturn wording,True,True,Jon Ander González Esteban
+2026-27,O4LEM1zA,2026-08-29,Real Betis,Levante,Away,Troy Parrott,17,offside,T1 explicit overturn wording,False,True,De Burgos Bengoetxea
+2026-27,EXneuDoD,2026-08-26,Real Madrid,Real Sociedad,Home,Brahim Díaz,90,offside,T1 explicit overturn wording,True,True,Mateo Busquets Ferrer
+2026-27,Q7vRBpMi,2026-08-20,Rayo Vallecano,Deportivo Alavés,Home,Pelayo Balboa,35,handball,T1 explicit overturn wording,True,True,José Luis Munuera Montero
+2026-27,6RZt3GwK,2026-08-15,Rayo Vallecano,Sevilla,Away,Isaac Palazon,32,Foul,T1 explicit overturn wording,False,True,De Burgos Bengoetxea
