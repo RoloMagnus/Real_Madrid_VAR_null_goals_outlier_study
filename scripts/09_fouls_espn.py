@@ -86,7 +86,7 @@ def main():
             rows.append(dict(fs_id=fs_id, team=team, **v))
     df = pd.DataFrame(rows)
     df["located"] = df[["att_half", "def_half", "wing", "own_box"]].sum(axis=1)
-    df = df.sort_values("located").drop_duplicates(["fs_id", "team"], keep="last")  # same match listed twice by ESPN: keep the fuller log
+    df = df.sort_values("located").drop_duplicates(["fs_id", "team"], keep="last")  # NOTE: duplicates here come from the name-mapping defect documented in AUDIT.md (defect 3), not from ESPN listing a match twice
     df.to_csv(os.path.join(OUT, "espn_fouls.csv"), index=False, encoding="utf-8-sig")
     print("unmatched ESPN matches:", miss, "| team-matches:", len(df))
     df["season"] = df.fs_id.map(fs.set_index("fs_id").season)

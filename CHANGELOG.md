@@ -2,6 +2,11 @@
 
 History of the Real Madrid VAR-nullified goals project. Dates are local (US Central). Commits before 2026-10-14 were made by the project author and the daily auto-push task.
 
+## 2026-10-15 - Pipeline audit after a reader comment
+- A Medium reader argued that a clean pipeline can carry bad state (wrong minute, non-existent VAR review, merged match). Audited all three error types against the raw feeds. Full write-up: `AUDIT.md`; reproducible scripts: `scripts/audit/`; output table `data/processed/audit_event_evidence.csv`.
+- Result: the four rows cited were errors of the hand-built validation sample, not of the pipeline. The audit nevertheless found five small defects (one non-VAR event counted as VAR, two weakly evidenced events, a foul-zone mis-merge, missing Understat aliases for Huesca/Oviedo, an abandoned match counted as 0-0). Real Madrid's count stays 50; the largest change in any headline estimate when the fixes are applied in an isolated copy is 0.05.
+- Decision: fixes documented, **not applied**; no published number changed. The article PDF gained Section 4.5 and Appendix D and corrected two statements (the Alaves-Valencia duplicate explanation, the cause of the missing xG/PPDA). A misleading comment in `scripts/09_fouls_espn.py` was corrected (no code change).
+
 ## 2026-10-14 - Repository audit and change log
 - Added this `CHANGELOG.md` to keep a readable history alongside the git log.
 - Checked the daily auto-push task (`RealMadridVAR_DailyGitPush`, 11:00 PM): it ran on 10-13 (pushed 61 files) and on 10-14 (no changes to push), exit code 0. `main` is in sync with `origin/main`.

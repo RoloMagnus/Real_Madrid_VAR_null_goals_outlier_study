@@ -8,3 +8,4 @@ __pycache__/
 .ipynb_checkpoints/
 ~$*.xlsx
 data/daily_push.log
+article/Medium_comment.jpg

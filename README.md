@@ -15,6 +15,7 @@ A fan claim says VAR (or referees) work against Real Madrid because it leads La 
 | `Real Madrid VAR - EDA.ipynb` | EDA notebook with all graphs (player concentration, matches affected, champion vs not, title scenarios, more) |
 | `RM_nullified_goals_breakdown_validated.xlsx` | Manually validated breakdown (source of the validation flag and links) |
 | `scripts/` | Pipeline: 01 crawl ESPN, 02 crawl Flashscore, 03 build dataset, 04 Understat xG/PPDA, 06 referees (Transfermarkt), 05 enrich, 09 fouls by zone, 10-11 goals ruled out on the pitch, 07 statistics, 08 build Excel |
+| `AUDIT.md`, `scripts/audit/` | Audit of the pipeline for wrong minutes, VAR reviews that never happened and merged matches (15 Oct 2026): findings, known defects, assumptions and reproducible checks |
 | `data/processed/` | Cleaned tables and `analysis.pkl` (inputs of the notebook and Excel builder) |
 | `data/raw/` | Small raw tables (match lists, Understat); the large crawler caches are not in the repo |
 | `figures/` | PNG charts exported by the notebook |

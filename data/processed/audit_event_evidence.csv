@@ -1,0 +1,398 @@
+﻿fs_id,team,season,minute,icon_var,word_var,disallow_word,espn_explicit,espn_review_delay,espn_matched,espn_min,pipeline_var_flag,tier
+WbcbyS2D,Getafe,2018-19,22,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+zDy4RjZl,Athletic Club,2018-19,80,True,True,True,False,True,True,,True,C: Flashscore VAR wording only
+lGu8QAle,Atlético de Madrid,2018-19,62,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+rZOApWuR,Eibar,2018-19,87,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+rF0TXhdL,Celta de Vigo,2018-19,51,True,True,False,False,True,True,,True,C: Flashscore VAR wording only
+QuiS8oNh,Espanyol,2018-19,45,True,True,True,False,True,True,,True,C: Flashscore VAR wording only
+rHoX75xa,Rayo Vallecano,2018-19,52,True,True,False,False,True,True,,True,C: Flashscore VAR wording only
+nDbRfbsD,Girona,2018-19,17,True,True,True,False,True,True,,True,C: Flashscore VAR wording only
+QcAIdKC0,Rayo Vallecano,2018-19,66,True,True,False,False,True,True,,True,C: Flashscore VAR wording only
+4lViBJRg,Real Valladolid,2018-19,75,True,True,False,False,True,True,,True,C: Flashscore VAR wording only
+dO5Ec0cf,Sevilla,2018-19,33,True,True,True,False,True,True,,True,C: Flashscore VAR wording only
+Q1SXlWEM,Real Valladolid,2018-19,85,True,True,False,False,True,True,,True,C: Flashscore VAR wording only
+jPBwueob,Valencia,2018-19,53,True,True,True,False,True,True,,True,C: Flashscore VAR wording only
+80MYuyWi,Real Madrid,2018-19,56,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+A5j4QeW4,Real Valladolid,2018-19,14,True,True,False,False,True,True,,True,C: Flashscore VAR wording only
+4hL3SH1h,Levante,2018-19,29,True,True,False,False,True,True,,True,C: Flashscore VAR wording only
+dUn2Aqt7,Sevilla,2018-19,91,True,True,False,False,True,True,,True,C: Flashscore VAR wording only
+pSz9m1Hd,Espanyol,2018-19,87,True,True,False,False,True,True,,True,C: Flashscore VAR wording only
+bccSzOXj,Real Valladolid,2018-19,74,False,True,True,False,True,True,,True,C: Flashscore VAR wording only
+SlNSjwSJ,Real Valladolid,2018-19,48,False,True,False,False,True,True,,True,C: Flashscore VAR wording only
+ph2eHxy1,Atlético de Madrid,2018-19,10,False,True,True,False,True,True,,True,C: Flashscore VAR wording only
+l4gxnfua,Girona,2018-19,20,False,True,True,False,True,True,,True,C: Flashscore VAR wording only
+YVB7r0H9,Valencia,2018-19,34,False,False,False,False,True,True,,False,D: ESPN review delay only
+n1YQVMX3,Sevilla,2018-19,22,False,True,True,False,True,True,,True,C: Flashscore VAR wording only
+n1YQVMX3,Sevilla,2018-19,26,False,True,False,False,True,True,,True,C: Flashscore VAR wording only
+QVefI334,Real Madrid,2018-19,18,False,False,False,False,True,True,,False,D: ESPN review delay only
+ImsCICcm,Real Valladolid,2018-19,51,False,True,True,False,True,True,,True,C: Flashscore VAR wording only
+IPGOddyR,Real Madrid,2018-19,54,False,True,False,False,True,True,,True,C: Flashscore VAR wording only
+OO8vU61N,Rayo Vallecano,2018-19,62,False,True,True,False,True,True,,True,C: Flashscore VAR wording only
+Ee2PKs7C,Celta de Vigo,2018-19,74,False,True,True,False,True,True,,True,C: Flashscore VAR wording only
+z53LLNi6,Villarreal,2018-19,35,False,True,False,False,True,True,,True,C: Flashscore VAR wording only
+pGA8OP7m,Huesca,2018-19,8,False,True,True,False,False,True,,True,C: Flashscore VAR wording only
+E1N593tj,Espanyol,2019-20,47,True,True,False,True,False,True,47.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+804dWQm3,Getafe,2019-20,15,False,False,True,False,False,True,,True,"E: only the word ""disallow"" / nothing"
+804dWQm3,Getafe,2019-20,34,True,True,False,True,False,True,35.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+804dWQm3,Levante,2019-20,40,False,True,False,True,False,True,42.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+804dWQm3,Getafe,2019-20,52,True,True,False,True,False,True,53.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+2N30Vp39,Osasuna,2019-20,91,True,True,True,True,False,True,92.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+hYgOdQdp,Real Betis,2019-20,4,False,False,False,False,False,True,,False,"E: only the word ""disallow"" / nothing"
+6ybSepCj,Levante,2019-20,14,True,True,False,True,False,True,14.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+6ybSepCj,Celta de Vigo,2019-20,92,True,True,True,True,False,True,93.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+G6uJI7J3,Granada,2019-20,97,True,True,False,True,False,True,97.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+fcvNHRY9,Real Madrid,2019-20,96,True,True,False,True,False,True,96.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+nF392eT5,Getafe,2019-20,88,True,True,False,True,False,True,88.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+bk7D1FrC,Atlético de Madrid,2019-20,22,True,True,True,True,False,True,23.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+bk7D1FrC,Atlético de Madrid,2019-20,36,True,True,True,True,False,True,36.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+vTOQivFm,FC Barcelona,2019-20,69,True,True,False,True,False,True,71.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+biMJaYeR,Real Sociedad,2019-20,5,True,True,False,True,False,True,7.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Qw2tnFRR,Sevilla,2019-20,55,True,True,False,True,False,True,58.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+MD5RY4iB,Valencia,2019-20,3,True,True,True,True,False,True,5.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+GAF6wTxt,Eibar,2019-20,86,True,True,False,True,False,True,88.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+0vgyOmwg,Valencia,2019-20,21,True,True,False,True,False,True,22.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+hYV97ShC,FC Barcelona,2019-20,65,True,True,False,True,False,True,66.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+ShVefIIe,FC Barcelona,2019-20,96,True,True,True,True,False,True,98.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+OI5uunDi,Real Madrid,2019-20,49,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+pS6ytSco,Mallorca,2019-20,54,True,True,False,True,False,True,55.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+l4a6QRt1,Real Betis,2019-20,63,True,True,False,True,False,True,64.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+bZtcmklE,Mallorca,2019-20,28,True,True,False,True,False,True,29.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Eo7gTTdr,Real Madrid,2019-20,12,True,True,True,True,False,True,13.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+rVlMtpW5,Eibar,2019-20,73,True,True,False,True,False,True,74.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+dEQvU6n0,Eibar,2019-20,54,True,True,True,True,False,True,55.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+n3w9wKJd,Athletic Club,2019-20,9,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+r7UuvWhA,Valencia,2019-20,56,True,True,True,True,False,True,57.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+CnxfUfPo,Real Madrid,2019-20,8,True,True,True,True,False,True,9.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+YL6qAivU,FC Barcelona,2019-20,74,True,True,False,True,False,True,75.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Mc1t2xtg,Real Valladolid,2019-20,55,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+KIAFM9Mq,Eibar,2019-20,57,True,True,False,True,False,True,58.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+2s0KLTyj,Real Valladolid,2019-20,67,True,True,True,True,False,True,69.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+t4TOWgpi,Real Madrid,2019-20,58,True,True,True,True,False,True,60.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Kx1vCbiR,Real Sociedad,2019-20,63,True,True,False,True,False,True,66.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+4ODznBX4,Celta de Vigo,2019-20,45,True,True,False,True,False,True,47.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+votU3zc7,Real Madrid,2020-21,58,True,True,False,True,False,True,58.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+0IN8buLR,Atlético de Madrid,2020-21,59,True,True,True,True,False,True,61.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+CAMnicD1,Elche,2020-21,49,True,True,True,True,False,True,50.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+j1LjjHS7,Real Sociedad,2020-21,51,True,True,True,True,False,True,52.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+6yv6rTUT,Real Madrid,2020-21,12,True,True,False,True,False,True,12.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+8pQXwmwo,Real Sociedad,2020-21,27,True,True,True,True,False,True,28.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+A9ORU90U,Real Valladolid,2020-21,10,True,True,True,True,False,True,11.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+lzfxkDon,Atlético de Madrid,2020-21,16,True,True,False,True,False,True,18.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Yq5LNzmm,Real Valladolid,2020-21,41,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+nDEoBc3s,Celta de Vigo,2020-21,53,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+pSA66ZHC,Valencia,2020-21,57,True,True,False,True,False,True,60.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+plnsJC1I,Celta de Vigo,2020-21,35,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+nXCeJ0v4,Deportivo Alavés,2020-21,45,True,True,True,True,False,True,46.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+bBW0cJHp,Real Madrid,2020-21,38,True,True,True,True,False,True,38.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+lMh3ltuU,FC Barcelona,2020-21,67,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+6wNH73uh,Villarreal,2020-21,48,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+6uhOm9lJ,Osasuna,2020-21,37,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+2TWPvE5l,Eibar,2020-21,15,True,True,False,True,False,True,16.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Isnv0Ixj,Real Madrid,2020-21,62,True,True,True,True,False,True,64.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+0vwoNlvn,FC Barcelona,2020-21,36,True,True,True,True,False,True,38.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Ot8z3ogU,Sevilla,2020-21,35,True,True,False,True,False,True,36.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Ot8z3ogU,Sevilla,2020-21,78,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+zN2Hf2qD,Sevilla,2020-21,65,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+v9Wx6ync,Deportivo Alavés,2020-21,83,True,True,False,True,False,True,84.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+8nqzrPa7,Real Valladolid,2020-21,62,True,True,False,True,False,True,64.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+O0ljrYgj,Valencia,2020-21,87,True,True,False,True,False,True,89.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+SU2KmfWS,Levante,2020-21,55,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+KUn7NcIN,Granada,2020-21,15,True,True,False,True,False,True,16.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+pCffQaY4,FC Barcelona,2020-21,25,True,True,True,True,False,True,27.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+EerUdIjg,Real Sociedad,2020-21,80,True,True,False,True,False,True,82.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+lSktfGzC,Huesca,2020-21,48,True,True,False,True,False,True,49.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+bJYopu7m,Osasuna,2020-21,14,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+KW9d8CfT,Eibar,2020-21,34,True,True,False,True,False,True,37.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+44oT2jIj,FC Barcelona,2020-21,70,True,True,False,True,False,True,71.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+YuiypxCB,Valencia,2020-21,30,True,True,False,True,False,True,33.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+QgzaN2sp,Villarreal,2020-21,64,True,True,True,True,False,True,65.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+tlHsHRKA,Levante,2020-21,92,True,True,True,True,False,True,92.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+fiLoGozH,Cádiz,2020-21,7,True,True,False,True,False,True,10.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+QueQ83Sj,Deportivo Alavés,2020-21,35,True,True,False,True,False,True,37.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+b7G2GfUa,Athletic Club,2020-21,73,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+ATCUP12k,Real Madrid,2020-21,69,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+Qwngqj3A,Sevilla,2020-21,67,True,True,False,True,False,True,69.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+6yWioCYc,Real Sociedad,2020-21,95,True,True,True,True,False,True,96.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+YTYiGiZN,Sevilla,2020-21,9,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+j5qmHXJH,Athletic Club,2020-21,68,True,True,False,True,False,True,71.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+CEpqID4B,Villarreal,2020-21,10,True,True,True,True,False,True,11.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+fyTmP9fs,Levante,2020-21,20,True,True,False,True,False,True,20.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+GAmGRXc0,Athletic Club,2021-22,27,True,True,False,True,False,True,29.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+GAmGRXc0,Sevilla,2021-22,51,True,True,False,True,False,True,52.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+jTuTOVsJ,Levante,2021-22,59,True,True,False,True,False,True,61.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+WpW4YrFF,Espanyol,2021-22,43,True,True,True,True,False,True,45.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+hzySaO8j,Rayo Vallecano,2021-22,60,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+Gfsl76GG,Cádiz,2021-22,40,True,True,True,True,False,True,42.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+nFkXAlHi,Granada,2021-22,95,True,True,True,True,False,True,96.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+bceIgmnH,Villarreal,2021-22,54,True,True,False,True,False,True,55.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+02c76E88,FC Barcelona,2021-22,73,True,True,True,True,False,True,74.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+QqsnaW0r,Real Madrid,2021-22,72,True,True,True,True,False,True,73.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+YZTpWXWe,Athletic Club,2021-22,48,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+KSmAxzfS,Getafe,2021-22,69,True,True,True,True,False,True,70.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+CKuxYg2q,Deportivo Alavés,2021-22,5,True,True,False,True,False,True,6.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+C603Jfmj,Real Madrid,2021-22,76,True,True,False,True,False,True,76.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+SErjsbuc,Valencia,2021-22,55,True,True,False,True,False,True,56.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+r5aAB6kC,Real Betis,2021-22,16,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+OIXWS7Kn,Sevilla,2021-22,76,True,True,True,True,False,True,77.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+4vW1Fljm,Real Sociedad,2021-22,51,True,True,True,True,False,True,52.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Imcqc7zJ,Celta de Vigo,2021-22,39,True,True,False,True,False,True,41.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Cp7O1VLm,Valencia,2021-22,7,True,True,False,True,False,True,9.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Cp7O1VLm,Elche,2021-22,67,True,True,True,True,False,True,67.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+INokmW6f,Getafe,2021-22,57,True,True,False,True,False,True,58.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+4G5EgYTQ,Sevilla,2021-22,11,True,True,False,True,False,True,12.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+GfPJXj77,Getafe,2021-22,71,True,True,False,True,False,True,72.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+fTdRfN83,Real Madrid,2021-22,69,True,True,False,True,False,True,70.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+KWNcceD4,Real Madrid,2021-22,39,True,True,False,True,False,True,40.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+pE9FpITb,Valencia,2021-22,41,True,True,False,True,False,True,43.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+n52GFcUO,FC Barcelona,2021-22,56,True,True,False,True,False,True,57.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+bsu6DD29,Cádiz,2021-22,80,True,True,True,True,False,True,81.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+v75lydwJ,Villarreal,2021-22,25,True,True,False,True,False,True,25.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+U9cia8P8,FC Barcelona,2021-22,10,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+Ea8xvbg0,Real Sociedad,2021-22,62,True,True,True,True,False,True,62.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+OAFPt09s,Mallorca,2021-22,83,True,True,False,True,False,True,83.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+tCqXauGJ,Elche,2021-22,16,True,True,False,True,False,True,18.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+zixSIv48,Villarreal,2021-22,42,True,True,False,True,False,True,43.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Qwl7hrj3,Atlético de Madrid,2021-22,50,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+fuFrjkU4,Sevilla,2021-22,96,True,True,True,True,False,True,98.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+4jMVhipn,Elche,2021-22,81,True,True,False,True,False,True,83.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+OSrwgnLP,Celta de Vigo,2021-22,90,True,True,True,True,False,True,92.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+fZuCYdID,Espanyol,2021-22,25,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+rFfxMJY7,Real Madrid,2021-22,49,True,True,False,True,False,True,50.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+8d2POLlk,Espanyol,2021-22,3,True,True,True,True,False,True,4.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+8d2POLlk,Espanyol,2021-22,18,True,True,False,True,False,True,19.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+rZvpEVzU,Osasuna,2021-22,63,True,True,True,True,False,True,63.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+n7oyGi6H,Atlético de Madrid,2021-22,53,True,True,False,True,False,True,55.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Kv6d4f75,Athletic Club,2021-22,50,True,True,False,True,False,True,51.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+MqzSlF7I,Espanyol,2021-22,95,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+vLpNkehC,Granada,2021-22,92,True,True,True,True,False,True,91.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+YBo1wCpa,Elche,2021-22,29,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+KQrS2dal,FC Barcelona,2022-23,11,True,True,True,True,False,True,12.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+vTbT0zU0,Elche,2022-23,29,True,True,False,True,False,True,29.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+vTbT0zU0,Elche,2022-23,39,True,True,True,True,False,True,39.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+W0YIfa7R,Cádiz,2022-23,41,True,True,True,True,False,True,42.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+hxpCyK0k,Villarreal,2022-23,43,True,True,False,True,False,True,45.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+hfVSqNyC,Mallorca,2022-23,96,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+AeTuUJuc,Athletic Club,2022-23,8,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+AeTuUJuc,Athletic Club,2022-23,16,True,True,True,True,False,True,17.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+ETD1G0Bc,Villarreal,2022-23,45,True,True,True,True,False,True,44.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Uajg6Gmj,Real Sociedad,2022-23,12,True,True,True,True,False,True,12.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+ngfK3NRi,Espanyol,2022-23,95,True,True,True,True,False,True,98.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+xrmX0LBA,Villarreal,2022-23,15,True,True,False,True,False,True,16.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+GEJklrS4,Espanyol,2022-23,45,True,True,False,True,False,True,48.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+zFQ1otCN,Elche,2022-23,50,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+fRiEliMm,Real Madrid,2022-23,66,True,True,False,True,False,True,66.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+61cerGaE,Real Madrid,2022-23,81,True,True,True,True,False,True,84.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+K8wWyExr,Villarreal,2022-23,18,True,True,False,True,False,True,19.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+SAbiqdp8,Valencia,2022-23,30,True,True,True,True,False,True,32.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+ttLAWI02,Athletic Club,2022-23,87,False,True,False,True,False,True,87.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+bgDwYAK9,Real Madrid,2022-23,12,True,True,False,True,False,True,13.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+x8fUNQd2,Real Valladolid,2022-23,4,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+UsiMPnSk,Mallorca,2022-23,97,True,True,False,True,False,True,98.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Cp5jCTcj,Osasuna,2022-23,22,True,True,True,True,False,True,25.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+AasbZaan,Real Valladolid,2022-23,60,True,True,True,True,False,True,62.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+2gKWIvF5,Real Madrid,2022-23,89,True,True,False,True,False,True,91.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+WYBmFdEU,Girona,2022-23,26,True,True,False,True,False,True,26.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+YwYWzJZc,Real Madrid,2022-23,48,True,True,False,True,False,True,50.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+zoPaagIF,Celta de Vigo,2022-23,1,True,True,False,True,False,True,2.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+08pcuYQq,Sevilla,2022-23,47,True,True,True,True,False,True,48.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+42rIJH4N,Getafe,2022-23,41,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+8zk9LwzB,Rayo Vallecano,2022-23,63,True,True,False,True,False,True,65.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+jaIr5IkU,Cádiz,2022-23,22,True,True,True,True,False,True,24.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+UqzsQt4r,Atlético de Madrid,2022-23,21,True,True,True,True,False,True,22.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+jwRqd2k2,Real Madrid,2022-23,90,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+bun53pcS,Valencia,2022-23,50,True,True,False,True,False,True,51.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+YJ9KimbG,Real Betis,2022-23,48,True,True,False,True,False,True,49.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+48qap5jj,Real Valladolid,2022-23,11,True,True,True,True,False,True,13.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+48qap5jj,Real Sociedad,2022-23,45,True,True,True,True,False,True,46.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+48qap5jj,Real Sociedad,2022-23,83,True,True,False,True,False,True,84.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+OpKzhdha,Girona,2022-23,97,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+GKGSgINn,Real Madrid,2022-23,6,True,True,True,True,False,True,6.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+GKGSgINn,Real Madrid,2022-23,26,True,True,True,True,False,True,27.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+GKGSgINn,Real Madrid,2022-23,61,True,True,True,True,False,True,61.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+lWZGXR6p,Mallorca,2022-23,58,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+b5ZMn1GJ,Atlético de Madrid,2022-23,10,True,True,True,True,False,True,11.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+xKGDxHhC,Girona,2022-23,73,True,True,True,True,False,True,75.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+MN0FTL9s,Real Madrid,2022-23,57,True,True,False,True,False,True,58.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+IkYhCKv7,Real Madrid,2022-23,81,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+dtXdBvfD,Athletic Club,2022-23,50,True,True,False,True,False,True,51.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+2uVLNgsi,Rayo Vallecano,2022-23,63,True,True,False,True,False,True,65.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+MsoNLXB3,FC Barcelona,2022-23,41,False,True,False,False,False,True,,False,C: Flashscore VAR wording only
+MRda6hCG,Osasuna,2022-23,47,True,True,True,True,False,True,49.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+YNq8C8Hh,Atlético de Madrid,2022-23,29,True,True,False,True,False,True,31.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+48Lpe7nI,Valencia,2022-23,24,True,True,True,True,False,True,25.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+QHMtdmXB,Athletic Club,2022-23,65,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+Iic3rU2C,Getafe,2022-23,57,True,True,True,True,False,True,57.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+txwTE7xN,Real Betis,2023-24,39,True,True,False,True,False,True,39.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+r15X6hvn,Real Betis,2023-24,79,True,True,True,True,False,True,79.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+CzAy6Cgh,Cádiz,2023-24,37,True,True,True,True,False,True,37.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+CMU2iDva,Cádiz,2023-24,66,True,True,False,True,False,True,68.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+2PQfihN1,Athletic Club,2023-24,38,True,True,False,True,False,True,39.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+rqYRk03f,Villarreal,2023-24,92,True,True,True,True,False,True,92.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+faNngEhk,Real Sociedad,2023-24,50,True,True,True,True,False,True,50.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+8SWCty9q,Villarreal,2023-24,30,True,True,True,True,False,True,30.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+nJVGueOk,Real Sociedad,2023-24,32,True,True,False,True,False,True,32.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+f1Sfz0nA,FC Barcelona,2023-24,28,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+063J5lsJ,FC Barcelona,2023-24,19,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+YgYXOBss,Sevilla,2023-24,44,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+rP3c4p0c,Celta de Vigo,2023-24,20,True,True,True,True,False,True,20.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+QRHRjRVc,Real Madrid,2023-24,10,True,True,False,True,False,True,10.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+4blpvlnh,Almería,2023-24,14,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+0rHZRMy0,Atlético de Madrid,2023-24,48,True,True,False,True,False,True,48.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+AuLcmX78,Girona,2023-24,24,True,True,False,True,False,True,24.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+C6EjBwei,Atlético de Madrid,2023-24,81,True,True,True,True,False,True,81.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+MJIXBAo2,Villarreal,2023-24,22,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+f3kpLEOF,Atlético de Madrid,2023-24,62,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+xSvkKYwM,FC Barcelona,2023-24,46,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+nwnxNzf3,Almería,2023-24,61,True,True,True,True,False,True,61.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+8Y7a9HP3,Granada,2023-24,82,True,True,True,True,False,True,82.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+8CWOdvtb,Atlético de Madrid,2023-24,46,True,True,False,True,False,True,46.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+URKXfIAA,Celta de Vigo,2023-24,84,True,True,False,True,False,True,86.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+dxwPVAyr,Atlético de Madrid,2023-24,6,True,True,False,True,False,True,6.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+06igyXDK,Sevilla,2023-24,62,True,True,True,True,False,True,62.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+vcjcziTQ,Deportivo Alavés,2023-24,53,True,True,False,True,False,True,53.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+vcjcziTQ,Deportivo Alavés,2023-24,73,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+tjdJOgUE,Villarreal,2023-24,95,True,True,True,True,False,True,95.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+UiSUHNe2,Athletic Club,2023-24,14,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+8xbBQFa2,Girona,2023-24,92,True,True,True,True,False,True,91.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+O8jgIi7r,Las Palmas,2023-24,88,True,True,False,True,False,True,88.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+2D0fSGDh,Real Betis,2023-24,15,True,True,False,True,False,True,15.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+GMRyAZcO,Real Sociedad,2023-24,58,True,True,False,True,False,True,58.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+UPVu9gDU,Celta de Vigo,2023-24,63,True,True,True,True,False,True,63.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+fDtw30ps,Sevilla,2023-24,32,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+EgP7mLpf,Real Madrid,2023-24,4,True,True,True,True,False,True,4.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+0jL3l1Vm,Real Sociedad,2023-24,67,True,True,True,True,False,True,67.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+dIECnu00,Osasuna,2023-24,88,True,True,True,True,False,True,88.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+UkJchAWL,FC Barcelona,2023-24,94,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+jqWVwBHS,Celta de Vigo,2023-24,34,True,True,False,True,False,True,34.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+QyPzUZm4,Real Betis,2023-24,60,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+IglNE3r0,Sevilla,2023-24,68,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+feqrO7LD,Celta de Vigo,2023-24,69,True,True,True,True,False,True,69.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+SQMBPauL,Girona,2023-24,30,True,True,True,True,False,True,31.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+zDm46KYr,Sevilla,2023-24,61,True,True,True,True,False,True,60.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+S6Qxjal2,Celta de Vigo,2023-24,3,True,True,False,True,False,True,3.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+2a3iv2kj,Real Madrid,2023-24,50,True,True,True,True,False,True,50.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+4jANcjjB,Villarreal,2023-24,15,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+hdCcelFl,Leganés,2024-25,33,True,True,False,True,False,True,33.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+lnM5Sbuo,Atlético de Madrid,2024-25,86,True,True,True,True,False,True,86.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+ncSQAZDr,FC Barcelona,2024-25,95,True,True,True,True,False,True,95.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+2ZFxC5T0,Leganés,2024-25,9,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+2ZFxC5T0,Espanyol,2024-25,92,True,True,True,True,False,True,90.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+4b0xTYZQ,Real Valladolid,2024-25,54,True,True,True,True,False,True,53.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+EgwRcF8j,Villarreal,2024-25,31,True,True,False,True,False,True,31.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Qmk8moaK,Real Madrid,2024-25,79,True,True,False,True,False,True,79.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Q9Qr0OrQ,Villarreal,2024-25,68,True,True,True,True,False,True,68.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Q9Qr0OrQ,Villarreal,2024-25,96,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+jcVWEQhe,Real Madrid,2024-25,19,True,True,False,True,False,True,19.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+vJBRz8FE,Girona,2024-25,26,True,True,True,True,False,True,26.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+vJBRz8FE,Girona,2024-25,68,True,True,True,True,False,True,68.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+WY1k6dAN,Osasuna,2024-25,39,True,True,True,True,False,True,40.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+2HhL0zYp,Villarreal,2024-25,75,True,True,False,True,False,True,75.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+AJDt8IuB,Real Sociedad,2024-25,88,True,True,True,True,False,True,88.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+IBeZ9vBb,Real Madrid,2024-25,21,True,True,False,True,False,True,22.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+GrDYvKBO,Las Palmas,2024-25,72,True,True,True,True,False,True,70.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+f9rqaNdt,Villarreal,2024-25,47,True,True,True,True,False,True,47.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+IRwmu8lA,Celta de Vigo,2024-25,88,True,True,False,True,False,True,88.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Ii5Z8q8E,Real Valladolid,2024-25,34,True,True,True,True,False,True,33.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+AT8wkOGr,Villarreal,2024-25,72,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+xdSnotG7,Leganés,2024-25,82,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+tSapoxPp,Sevilla,2024-25,54,True,True,False,True,False,True,53.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+CE0hJiFM,Real Madrid,2024-25,42,True,True,False,True,False,True,42.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+CE0hJiFM,Real Madrid,2024-25,73,True,True,True,True,False,True,73.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+CE0hJiFM,Real Madrid,2024-25,86,True,True,True,True,False,True,86.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Gldifptf,Atlético de Madrid,2024-25,7,True,True,False,True,False,True,7.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+zHmSVfun,Real Madrid,2024-25,60,True,True,True,True,False,True,59.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+4GVrT7se,Celta de Vigo,2024-25,50,True,True,True,True,False,True,50.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+6adcTeKt,Atlético de Madrid,2024-25,44,True,True,True,True,False,True,44.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+SYQn9hZO,Villarreal,2024-25,21,True,True,True,True,False,True,21.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+8Ohqd6Bs,Real Madrid,2024-25,14,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+bgZVCzz0,Girona,2024-25,90,True,True,False,True,False,True,90.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+0b75dFkJ,Atlético de Madrid,2024-25,31,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+0b75dFkJ,Atlético de Madrid,2024-25,48,True,True,True,True,False,True,48.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+QP8QvjOG,FC Barcelona,2024-25,13,True,True,True,True,False,True,13.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+UaS8aGMt,Espanyol,2024-25,27,True,True,False,True,False,True,27.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+UaS8aGMt,Espanyol,2024-25,58,True,True,True,True,False,True,58.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+E595Qvn9,Athletic Club,2024-25,44,True,True,True,True,False,True,44.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+4zlpJdvq,Real Madrid,2024-25,30,True,True,True,True,False,True,30.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+0SQqjbAd,Mallorca,2024-25,95,True,True,False,True,False,True,95.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Gz9WD123,Deportivo Alavés,2024-25,51,True,True,False,True,False,True,51.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+hzRnqjcC,Deportivo Alavés,2024-25,45,True,True,True,True,False,True,45.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+KApUeTtI,Celta de Vigo,2024-25,17,True,True,False,True,False,True,17.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+pxdwg6Pp,Villarreal,2024-25,8,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+pxdwg6Pp,Villarreal,2024-25,50,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+pxdwg6Pp,Villarreal,2024-25,68,True,True,False,True,False,True,68.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+OAmz0KLU,Celta de Vigo,2024-25,37,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+IRBb0lXA,Deportivo Alavés,2024-25,23,True,True,False,True,False,True,23.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+xjut9IFr,Leganés,2024-25,67,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+SfxxiPx0,Celta de Vigo,2024-25,85,True,True,True,True,False,True,85.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+n1v9mjW7,Sevilla,2024-25,43,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+tQQLbGv9,Deportivo Alavés,2024-25,38,True,True,False,True,False,True,38.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+SM0npHPF,Athletic Club,2024-25,47,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+KhwykQ8L,Atlético de Madrid,2024-25,55,True,True,True,True,False,True,54.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+8CpDVHAM,FC Barcelona,2024-25,71,True,True,False,True,False,True,71.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+QekfJmLa,Sevilla,2024-25,8,True,True,True,True,False,True,8.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+QekfJmLa,Villarreal,2024-25,69,True,True,False,True,False,True,69.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+nDzACNof,Celta de Vigo,2024-25,43,True,True,True,True,False,True,43.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+KnMLIMGb,Espanyol,2025-26,54,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+jHXmS8Xj,Real Sociedad,2025-26,63,True,True,True,True,False,True,63.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+rBKZkCPc,Sevilla,2025-26,46,True,True,True,True,False,True,46.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+U5uP615D,Oviedo,2025-26,53,True,True,False,True,False,True,53.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+fXtpkxvB,Rayo Vallecano,2025-26,24,True,True,True,True,False,True,23.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+fXtpkxvB,Rayo Vallecano,2025-26,69,True,True,False,True,False,True,69.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Y1CbfXFj,FC Barcelona,2025-26,55,True,True,False,True,False,True,55.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Gt6nv08e,Villarreal,2025-26,89,True,True,False,True,False,True,89.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+O69fxvw8,FC Barcelona,2025-26,54,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+bTDl6FdC,Real Betis,2025-26,77,True,True,False,True,False,True,77.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+lWVe0pQj,Celta de Vigo,2025-26,56,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+2Zc89l34,Espanyol,2025-26,15,True,True,True,True,False,True,15.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+2Zc89l34,Espanyol,2025-26,31,True,True,True,True,False,True,31.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Gpdbebrf,Oviedo,2025-26,77,True,True,True,True,False,True,77.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+b9Nl5KgS,Deportivo Alavés,2025-26,65,True,True,False,True,False,True,65.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+OI5e1Bhf,Celta de Vigo,2025-26,77,True,True,False,True,False,True,77.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+IJmCYLIj,Espanyol,2025-26,12,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+OdCGqnRi,Atlético de Madrid,2025-26,74,True,True,False,True,False,True,77.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+bZ6uvreT,Real Sociedad,2025-26,52,True,True,True,True,False,True,52.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+lrfI9upL,Sevilla,2025-26,22,True,True,False,True,False,True,24.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+YTYwDgZF,FC Barcelona,2025-26,7,True,True,False,True,False,True,7.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+YTYwDgZF,FC Barcelona,2025-26,28,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+j9azgYsp,Osasuna,2025-26,42,False,False,False,False,False,True,,False,"E: only the word ""disallow"" / nothing"
+6Lw7g8xQ,Girona,2025-26,63,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+zHuMM91l,Real Sociedad,2025-26,45,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+lK5ey9Gs,Mallorca,2025-26,52,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+63SyfKRp,Getafe,2025-26,56,True,True,False,False,False,True,,True,C: Flashscore VAR wording only
+63SyfKRp,Real Betis,2025-26,79,True,True,False,True,False,True,79.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+EBj7h7jt,FC Barcelona,2025-26,23,True,True,True,True,False,True,23.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+YD2c1sID,Valencia,2025-26,34,True,True,True,True,False,True,34.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+YD2c1sID,Atlético de Madrid,2025-26,78,True,True,True,True,False,True,78.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+bJjTc8BL,Espanyol,2025-26,82,True,True,True,True,False,True,82.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+KYY3zEDc,Real Madrid,2025-26,40,True,True,False,True,False,True,40.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+jexTY0xg,Valencia,2025-26,63,True,True,True,True,False,True,63.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Asx3tnue,Oviedo,2025-26,28,True,True,False,True,False,True,31.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+dbzBvQ97,Levante,2025-26,90,True,True,False,True,False,True,91.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+A10pgPO0,Deportivo Alavés,2025-26,53,True,True,True,True,False,True,53.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+A10pgPO0,Girona,2025-26,90,False,False,False,False,False,True,,False,"E: only the word ""disallow"" / nothing"
+OlnkZ9GU,Real Madrid,2025-26,12,True,True,False,True,False,True,12.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+42UFO1de,Levante,2025-26,14,True,True,True,True,False,True,14.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+EHNrWq4L,Real Sociedad,2025-26,49,True,True,False,True,False,True,48.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+QeslA2s2,Atlético de Madrid,2025-26,9,True,True,False,True,False,True,9.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+QL8zvv16,Atlético de Madrid,2025-26,44,True,True,False,True,False,True,43.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+QHA7Rlfn,Real Betis,2025-26,23,True,True,False,True,False,True,23.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+KbCNN6gB,Real Madrid,2025-26,2,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+Y7c6bjQa,Real Madrid,2025-26,7,True,True,False,True,False,True,6.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Y7c6bjQa,Real Madrid,2025-26,46,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+Y7c6bjQa,Real Madrid,2025-26,55,True,True,False,True,False,True,55.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+2mAGw9Ti,Real Madrid,2026-27,71,True,True,False,True,False,True,71.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+GGiPsLP1,Villarreal,2026-27,82,True,True,False,True,False,True,82.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Q9s7530B,Valencia,2026-27,17,True,True,True,True,False,True,17.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+hdqa7PVb,Villarreal,2026-27,18,True,True,True,True,False,True,18.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+SC0Jfnng,Osasuna,2026-27,18,True,True,True,True,False,True,18.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+xnbRmvZ8,Real Sociedad,2026-27,61,True,True,True,True,False,True,61.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+tIPbVVIs,Espanyol,2026-27,62,True,True,False,True,False,True,62.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+MFH8mVvQ,FC Barcelona,2026-27,9,True,True,True,True,False,True,8.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+ULUMPRnJ,Racing Santander,2026-27,79,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+Au6uQzs2,Real Madrid,2026-27,87,True,True,False,True,False,True,87.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+GvI6ON5c,FC Barcelona,2026-27,46,True,True,False,True,False,True,46.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+GCwMKu5M,Getafe,2026-27,52,True,True,True,True,False,True,52.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+O4LEM1zA,Real Betis,2026-27,17,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
+EXneuDoD,Real Madrid,2026-27,90,True,True,False,True,False,True,90.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+Q7vRBpMi,Rayo Vallecano,2026-27,35,True,True,False,True,False,True,35.0,True,A: ESPN explicit VAR + Flashscore VAR wording
+6RZt3GwK,Rayo Vallecano,2026-27,32,True,True,True,False,False,True,,True,C: Flashscore VAR wording only
